@@ -22,11 +22,14 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Official Resources
 
-- [Official repository](https://github.com/vitejs/vite)
+- [Github Repo](https://github.com/vitejs/vite)
+- [Release Notes](https://github.com/vitejs/vite/blob/master/CHANGELOG.md)
+- [Vue 3 Docs](https://v3.vuejs.org/)
+- [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 ### Tutorials
 
-> TODO
+- [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - video tutorial by Erik (May 2020)
 
 ## Get Started
 
@@ -70,6 +73,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing for Vite.
 - [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform for Vite.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons for Vite.
 
 ### Frameworks other than Vue 3
 
