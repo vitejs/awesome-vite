@@ -30,7 +30,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Get Started
 
-[Create Vite App](https://github.com/vitejs/create-vite-app) (Official)
+[Create Vite App](https://github.com/vitejs/create-vite-app) (official)
 
 ### Templates
 
@@ -78,7 +78,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (Official) - React Fast Refresh plugin for Vite
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (official) - React Fast Refresh plugin for Vite
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - A React app framework powered by Vite
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - Provides MDX Fast Refresh support for Vite
 
@@ -91,7 +91,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Open Source
 
-- [VitePress](https://github.com/vuejs/vitepress) (Official)
+- [VitePress](https://github.com/vuejs/vitepress) (official)
 
 ### Apps/Websites
 
