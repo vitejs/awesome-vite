@@ -22,7 +22,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Official Resources
 
-- [Official Repo](https://github.com/vitejs/vite)
+- [Official repository](https://github.com/vitejs/vite)
 
 ### Tutorials
 
