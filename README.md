@@ -1,3 +1,5 @@
+<!--lint disable awesome-list-item awesome-heading awesome-git-repo-age awesome-github awesome-toc-->
+
 <p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of awesome-vite repository">
@@ -17,16 +19,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </p>
 
 
-
-<!-- md-parser-start -->
-
 ## Resources
 
 ### Official Resources
 
 - [Official Repo](https://github.com/vitejs/vite)
-- [Create Vite App](https://github.com/vitejs/create-vite-app)
-- [VitePress](https://github.com/vuejs/vitepress)
 
 ### Tutorials
 
@@ -82,15 +79,14 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (Official) - React Fast Refresh plugin for Vite.
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (Official) - React Fast Refresh plugin for Vite
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - A React app framework powered by Vite
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - Provides MDX Fast Refresh support for Vite
 
 #### Svelte
 
 - [svite](https://github.com/dominikg/svite) - Svelte integration for Vite
-- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration for Vite, a fast web dev tool.
-
+- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration for Vite, a fast web dev tool
 
 ## Projects Using Vite.js
 
