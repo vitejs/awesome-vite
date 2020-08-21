@@ -18,12 +18,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </a>
 </p>
 
-
 ## Resources
 
 ### Official Resources
 
-- [Official Repo](https://github.com/vitejs/vite)
+- [Official repository](https://github.com/vitejs/vite)
 
 ### Tutorials
 
@@ -31,23 +30,23 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Get Started
 
-[Create Vite App](https://github.com/vitejs/create-vite-app) (Official)
+[Create Vite App](https://github.com/vitejs/create-vite-app) (official)
 
 ### Templates
 
 #### Vue 3
 
-- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter using Vite + Tailwind for super fast prototyping
-- [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Vite + Vue Test Utils starter 
-- [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Starter template for Vite + TypeScript project
-- [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Vite Vue I18n Starter
-- [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Starter for Vite + VueUse + TypeScript
-- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template
+- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Vite starter template with Tailwind CSS for fast prototyping.
+- [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Vite starter template with Vue Test Utils.
+- [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Vite starter template with TypeScript.
+- [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Vite starter template with `vue-i18n`.
+- [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Vite starter template with VueUse and TypeScript.
+- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
 - [Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset adding Tailwind CSS to a Vite application.
 
 #### React
 
-- [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter)
+- [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Vite starter template with React and Tailwind CSS.
 
 ## Plugins
 
@@ -57,48 +56,48 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Loaders
 
-- [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components with Vite
+- [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components with Vite.
 
 ### SSR
 
-- [zipe](https://github.com/pikax/zipe) - Vite + SSR = Zipe
+- [zipe](https://github.com/pikax/zipe) - Server-side renderer for Vite.
 
 ### i18n
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Vite plugin for vue-i18n custom blocks
+- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration for Vite.
 
 ### Helpers
 
-- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto importing for Vite
-- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - A simple globby-import transform for vite
+- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing for Vite.
+- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform for Vite.
 
 ### Frameworks other than Vue 3
 
 #### Vue 2
 
-- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 plugin for Vite
+- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 plugin for Vite.
 
 #### React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (Official) - React Fast Refresh plugin for Vite
-- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - A React app framework powered by Vite
-- [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - Provides MDX Fast Refresh support for Vite
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (official) - Fast-refresh plugin for Vite.
+- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - React application framework powered by Vite.
+- [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support for Vite.
 
 #### Svelte
 
-- [svite](https://github.com/dominikg/svite) - Svelte integration for Vite
-- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration for Vite, a fast web dev tool
+- [svite](https://github.com/dominikg/svite) - Svelte integration for Vite.
+- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration for Vite.
 
 ## Projects Using Vite.js
 
 ### Open Source
 
-- [VitePress](https://github.com/vuejs/vitepress) (Official)
+- [VitePress](https://github.com/vuejs/vitepress) (official)
 
 ### Apps/Websites
 
-- [Icônes](https://github.com/antfu/icones) - Icon Explorer with Instant searching
-- [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web App for Awesome CN Café
+- [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
+- [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 
 ### Commercial Products
 
