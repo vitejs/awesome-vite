@@ -74,7 +74,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing for Vite.
 - [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform for Vite.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons for Vite.
-- [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Serves any file (e.g. `.md` or `.svg`) as a Vue component. Supports hot reloading!
+- [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Serves any file (e.g. `.md` or `.svg`) as a hot-reloadable Vue component during development.
 
 ### Frameworks other than Vue 3
 
