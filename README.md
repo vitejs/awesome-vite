@@ -1,4 +1,4 @@
-<!--lint disable awesome-list-item awesome-heading awesome-git-repo-age awesome-github awesome-toc-->
+<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc-->
 
 <p align="center">
   <br>
