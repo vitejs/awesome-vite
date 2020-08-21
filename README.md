@@ -43,6 +43,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Vite Vue I18n Starter
 - [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Starter for Vite + VueUse + TypeScript
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template
+- [Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset adding Tailwind CSS to a Vite application.
 
 #### React
 
