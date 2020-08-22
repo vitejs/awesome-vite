@@ -30,6 +30,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Tutorials
 
 - [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - Video tutorial by Erik (May 2020).
+- [Writing a Vite plugin](https://medium.com/@axwdev/writing-a-vite-plugin-for-vue-3-5bcc1c0915e0) - Article by Andrew Walker (Jul 2020).
 
 ## Get Started
 
