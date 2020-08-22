@@ -46,6 +46,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Vite starter template with VueUse and TypeScript.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
 - [Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset adding Tailwind CSS to a Vite application.
+- [V-Dashboard](https://github.com/sorxrob/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 #### React
 
