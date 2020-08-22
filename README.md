@@ -46,6 +46,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Vite starter template with VueUse and TypeScript.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
 - [Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset adding Tailwind CSS to a Vite application.
+- [V-Dashboard](https://github.com/sorxrob/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 #### React
 
@@ -105,8 +106,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
-- [V-Dashboard](https://github.com/sorxrob/v-dashboard) - About
-Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Commercial Products
 
