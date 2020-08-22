@@ -105,6 +105,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
+- [V-Dashboard](https://github.com/sorxrob/v-dashboard) - About
+Dashboard starter template built with Vue 3 and Tailwind CSS.
 
 ### Commercial Products
 
