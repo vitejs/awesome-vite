@@ -22,18 +22,18 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Official Resources
 
-- [Github Repo](https://github.com/vitejs/vite)
+- [GitHub Repo](https://github.com/vitejs/vite)
 - [Release Notes](https://github.com/vitejs/vite/blob/master/CHANGELOG.md)
 - [Vue 3 Docs](https://v3.vuejs.org/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 
 ### Tutorials
 
-- [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - video tutorial by Erik (May 2020)
+- [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - Video tutorial by Erik (May 2020).
 
 ## Get Started
 
-[Create Vite App](https://github.com/vitejs/create-vite-app) (official)
+### [Create Vite App](https://github.com/vitejs/create-vite-app)
 
 ### Templates
 
@@ -86,8 +86,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) (official) - Fast-refresh plugin for Vite.
-- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - React application framework powered by Vite.
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) Fast-refresh plugin for Vite.
+- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - (official) React application framework powered by Vite.
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support for Vite.
 
 #### Svelte
