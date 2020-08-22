@@ -29,11 +29,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Tutorials
 
-- [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - video tutorial by Erik (May 2020).
+- [How to get started with Vue.js 3 Vite](https://youtu.be/rcwaATlq7Ns) - Video tutorial by Erik (May 2020).
 
 ## Get Started
 
-### [Create Vite App](https://github.com/vitejs/create-vite-app) (official)
+### [Create Vite App](https://github.com/vitejs/create-vite-app)
 
 ### Templates
 
