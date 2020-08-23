@@ -40,11 +40,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Vue 3
 
-- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Vite starter template with Tailwind CSS for fast prototyping.
-- [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Vite starter template with Vue Test Utils.
-- [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Vite starter template with TypeScript.
-- [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Vite starter template with `vue-i18n`.
-- [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Vite starter template with VueUse and TypeScript.
+- [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter template with Tailwind CSS for fast prototyping.
+- [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Starter template with Vue Test Utils.
+- [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Starter template with TypeScript.
+- [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Starter template with `vue-i18n`.
+- [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Starter template with VueUse and TypeScript.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
 - [Tailwind CSS Preset](https://github.com/use-preset/tailwindcss) - A preset adding Tailwind CSS to a Vite application.
 - [V-Dashboard](https://github.com/sorxrob/v-dashboard) - Dashboard starter template built with Vue 3 and Tailwind CSS.
@@ -52,54 +52,54 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### React
 
-- [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Vite starter template with React and Tailwind CSS.
+- [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
 
 ## Plugins
 
 ### Routing
 
-- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing plugin for Vite.
+- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing plugin.
 
 ### Loaders
 
-- [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components with Vite.
+- [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components.
 
 ### SSR
 
-- [zipe](https://github.com/pikax/zipe) - Server-side renderer for Vite.
+- [zipe](https://github.com/pikax/zipe) - Server-side renderer.
 
 ### i18n
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration for Vite.
+- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration.
 
 ### Resolvers
 
-- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite.
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
 ### Helpers
 
-- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing for Vite.
-- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform for Vite.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons for Vite.
-- [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any file (e.g. `.md` or `.svg`) as a hot-reloadable Vue component.
+- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
+- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
+- [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
 
 ### Frameworks other than Vue 3
 
 #### Vue 2
 
-- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 plugin for Vite.
+- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 integration.
 
 #### React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) Fast-refresh plugin for Vite.
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) React fast-refresh plugin for.
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - (official) React application framework powered by Vite.
-- [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support for Vite.
+- [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support.
 
 #### Svelte
 
-- [svite](https://github.com/dominikg/svite) - Svelte integration for Vite.
-- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration for Vite.
+- [svite](https://github.com/dominikg/svite) - Svelte integration.
+- [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
 
 ## Projects Using Vite.js
 
