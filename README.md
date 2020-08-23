@@ -72,6 +72,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration for Vite.
 
+### Resolvers
+
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping in Vite.
+
 ### Helpers
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing for Vite.
