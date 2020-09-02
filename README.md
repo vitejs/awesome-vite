@@ -85,6 +85,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
 
+### Webassembly
+- [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
+
 ### Frameworks other than Vue 3
 
 #### Vue 2
