@@ -77,6 +77,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
+### WebAssembly
+
+- [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
+
 ### Helpers
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
@@ -84,9 +88,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
-
-### Webassembly
-- [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
 
 ### Frameworks other than Vue 3
 
