@@ -70,6 +70,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [zipe](https://github.com/pikax/zipe) - Server-side renderer.
 
+### Testing
+
+- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A mock plugin for vite.
+
 ### i18n
 
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration.
