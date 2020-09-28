@@ -74,6 +74,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Testing
 
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A mock plugin for vite.
+- [vite-plugin-mockit](https://github.com/xuxihai123/vite-plugin-mockit) - A simple mock plugin for Vite, with Koa's style.
 
 ### i18n
 
