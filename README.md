@@ -118,7 +118,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Open Source
 
 - [VitePress](https://github.com/vuejs/vitepress) (official)
-- [TroisJS](https://github.com/troisjs/trois) - VueJS 3 + ViteJS + ThreeJS.
+- [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
 ### Apps/Websites
 
