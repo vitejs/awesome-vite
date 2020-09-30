@@ -52,6 +52,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [VueCrudX](https://github.com/ais-one/vue-crud-x) - Sample CRUD, ECharts & Leaflet example application using web components.
 - [kirby-vue3-starterkit](https://github.com/johannschopplich/kirby-vue3-starterkit) - SPA starterkit with Vue 3 and Kirby.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron.
+- [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Starter template with Vue 3, TypeScript, Tailwind CSS, and Cypress.io e2e tests.
 
 #### React
 
