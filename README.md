@@ -68,6 +68,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Loaders
 
 - [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components.
+- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin.
 
 ### SSR
 
