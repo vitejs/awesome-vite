@@ -86,6 +86,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
+
+### Markdown
+
+- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin for vite.
+
 ### WebAssembly
 
 - [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
