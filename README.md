@@ -68,6 +68,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Loaders
 
 - [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components.
+- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin.
 
 ### SSR
 
@@ -85,11 +86,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Resolvers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
-
-
-### Markdown
-
-- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin for vite.
 
 ### WebAssembly
 
