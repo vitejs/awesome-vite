@@ -100,19 +100,19 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
 
-### Frameworks other than Vue 3
+### Plugins for frameworks other than Vue 3
 
-#### Vue 2
+#### Vue 2 plugins
 
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 integration.
 
-#### React
+#### React plugins
 
 - [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) React fast-refresh plugin for.
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - (official) React application framework powered by Vite.
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support.
 
-#### Svelte
+#### Svelte plugins
 
 - [svite](https://github.com/dominikg/svite) - Svelte integration.
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
