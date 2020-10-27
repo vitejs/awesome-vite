@@ -99,6 +99,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use lodash.template template syntax in index.html.
 
 ### Plugins for frameworks other than Vue 3
 
