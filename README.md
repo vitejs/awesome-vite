@@ -85,7 +85,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
-- [vite-plugin-vite](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
+- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
 
 ### Resolvers
 
