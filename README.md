@@ -70,6 +70,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components.
 - [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin.
+- [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
 
 ### SSR
 
@@ -80,40 +81,40 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A mock plugin for vite.
 - [vite-plugin-mockit](https://github.com/xuxihai123/vite-plugin-mockit) - A simple mock plugin for Vite, with Koa's style.
 
-### i18n
+### Integrations
 
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - `vue-i18n` custom block integration.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
+- [vite-plugin-vite](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
 
 ### Resolvers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
-### WebAssembly
+### Transformers
 
-- [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
+- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use lodash.template template syntax in `index.html`.
 
 ### Helpers
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
-- [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
-- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use lodash.template template syntax in index.html.
 
 ### Plugins for frameworks other than Vue 3
 
-#### Vue 2 plugins
+#### for Vue 2
 
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 integration.
 
-#### React plugins
+#### for React
 
 - [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) React fast-refresh plugin for.
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - (official) React application framework powered by Vite.
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support.
 
-#### Svelte plugins
+#### for Svelte
 
 - [svite](https://github.com/dominikg/svite) - Svelte integration.
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
@@ -133,7 +134,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Tailwind Pre-Processor](https://github.com/xiaoluoboding/tailwind-pre-processor) - An implementation of Tailwind CSS using Less / Stylus / Sass / SCSS.
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
-
 
 ### Commercial Products
 
