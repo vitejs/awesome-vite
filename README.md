@@ -61,7 +61,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
 - [zarm-vite-starter](https://github.com/JeromeLin/zarm-vite-starter) - Starter template with [Zarm](https://zarm.design) and TypeScript
 
-
 ## Plugins
 
 ### Routing
