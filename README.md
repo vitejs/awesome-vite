@@ -44,6 +44,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-tailwind-starter](https://github.com/posva/vite-tailwind-starter) - Starter template with Tailwind CSS for fast prototyping.
 - [vite-component-test-starter](https://github.com/JessicaSachs/vite-component-test-starter) - Starter template with Vue Test Utils.
 - [vite-typescript-starter](https://github.com/ktsn/vite-typescript-starter) - Starter template with TypeScript.
+- [vue3-typescript-tailwind-starter](https://github.com/vincentdoerig/vue3-typescript-tailwind-starter) - Starter template with Vue 3, TypeScript, Tailwind CSS and ESLint.
 - [vite-vue-i18n-starter](https://github.com/intlify/vite-vue-i18n-starter) - Starter template with `vue-i18n`.
 - [vite-vueuse-starter](https://github.com/antfu/vite-vueuse-starter) - Starter template with VueUse and TypeScript.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
