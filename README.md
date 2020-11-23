@@ -56,7 +56,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vue-vben-admin-2.0](https://github.com/anncwb/vue-vben-admin) - Starter template with Vue 3, TypeScript, Tailwind CSS, Ant Design Vue2.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Starter template using Vue 3 in Vite and latest Electron with fluent VS Code debug and GitHub release process out-of-box.
 - [vite-components-playground](https://xxholly32.github.io/vite-components-playground/) - A common Vue 3 components playground.
-- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - GitHub template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
+
 #### React
 
 - [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
