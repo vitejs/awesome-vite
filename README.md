@@ -77,6 +77,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### SSR
 
 - [zipe](https://github.com/pikax/zipe) - Server-side renderer.
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Small library to handle SSR in Vite.
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side renderer with fullstack utilities.
 
 ### Testing
 
