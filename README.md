@@ -73,6 +73,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-svg](https://github.com/visualfanatic/vite-plugin-svg) - Use SVG files as Vue components.
 - [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - A markdown & vue preview plugin.
 - [vite-plugin-rust](https://github.com/gliheng/vite-plugin-rust) - Load rust-compiled WebAssembly packages.
+- [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
 
 ### SSR
 
