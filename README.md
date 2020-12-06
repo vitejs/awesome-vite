@@ -85,6 +85,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A mock plugin for vite.
 - [vite-plugin-mockit](https://github.com/xuxihai123/vite-plugin-mockit) - A simple mock plugin for Vite, with Koa's style.
+- [vite-test](https://github.com/zigomir/vite-test) - Use vite to test your vue app in real browser and/or puppeteer.
 
 ### Integrations
 
