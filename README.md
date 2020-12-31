@@ -109,6 +109,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
+- [vite-plugin-legacy](https://github.com/alloc/vite-plugin-legacy) - Generate an identical bundle for legacy browsers.
 
 ### Plugins for frameworks other than Vue 3
 
