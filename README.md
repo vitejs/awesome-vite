@@ -18,10 +18,13 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </a>
 </p>
 
+<blockquote>2️⃣ stands for Vite 2 support</blockquote>
+
 ## Resources
 
 ### Official Resources
 
+- [Documentation](https://vitejs.dev/)
 - [GitHub Repo](https://github.com/vitejs/vite)
 - [Release Notes](https://github.com/vitejs/vite/blob/master/CHANGELOG.md)
 - [Vue 3 Docs](https://v3.vuejs.org/)
@@ -62,7 +65,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
 
-## Plugins
+## Plugins for Vue 3
+
+- 2️⃣ [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue support 
 
 ### Routing
 
@@ -76,17 +81,18 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
 - [vite-plugin-toml](https://github.com/sapphi-red/vite-plugin-toml) - Load toml files.
 
-### SSR
+### SSR / SSG
 
 - [zipe](https://github.com/pikax/zipe) - Server-side renderer.
 - [vite-ssr](https://github.com/frandiox/vite-ssr) - Small library to handle SSR in Vite.
 - [vitedge](https://github.com/frandiox/vitedge) - Edge-side renderer with fullstack utilities.
+- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
 
 ### Testing
 
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A mock plugin for vite.
 - [vite-plugin-mockit](https://github.com/xuxihai123/vite-plugin-mockit) - A simple mock plugin for Vite, with Koa's style.
-- [vite-test](https://github.com/zigomir/vite-test) - Use vite to test your vue app in real browser and/or puppeteer.
+- [vite-test](https://github.com/zigomir/vite-test) - Use Vite to test your vue app in real browser and/or puppeteer.
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 
 ### Integrations
@@ -102,7 +108,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Transformers
 
 - [vite-transform-globby-import](https://github.com/luxueyan/vite-transform-globby-import) - Simple globby-import transform.
-- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use lodash.template template syntax in `index.html`.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for Vite to minimize index.html and use lodash.template template syntax in `index.html`.
 
 ### Helpers
 
@@ -111,19 +117,18 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
 - [vite-plugin-legacy](https://github.com/alloc/vite-plugin-legacy) - Generate an identical bundle for legacy browsers.
 
-### Plugins for frameworks other than Vue 3
-
-#### for Vue 2
+## Plugins for Vue 2
 
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 integration.
 
-#### for React
+## Plugins for React
 
-- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - (official) React fast-refresh plugin for.
-- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - (official) React application framework powered by Vite.
+
+- 2️⃣ [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support
+- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Official React application framework powered by Vite.
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support.
 
-#### for Svelte
+## Plugins for Svelte
 
 - [svite](https://github.com/dominikg/svite) - Svelte integration.
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
