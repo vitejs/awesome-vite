@@ -67,7 +67,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Plugins for Vue 3
 
-- 2️⃣ [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue support 
+### Official
+
+- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - 2️⃣ Official Vue support 
 
 ### Routing
 
@@ -124,7 +126,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ## Plugins for React
 
 
-- 2️⃣ [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support
+- [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - 2️⃣ Official React Refresh support
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Official React application framework powered by Vite.
 - [vite-plugin-mdx](https://github.com/vitejs/vite-plugin-react-pages/tree/master/packages/vite-plugin-mdx) - MDX fast-refresh support.
 
