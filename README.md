@@ -102,7 +102,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - 2️⃣ `vue-i18n` custom block integration.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - 2️⃣ Zero-config PWA for Vite.
-- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Vite plugin to load i18n translation message files.
+- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - 2️⃣ Vite plugin to load i18n translation message files.
 
 ### Resolvers
 
