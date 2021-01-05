@@ -70,7 +70,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Official
 
-- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - 2️⃣ Official Vue support 
+- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - 2️⃣ Official Vue support
 
 ### Routing
 
@@ -103,6 +103,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - 2️⃣ `vue-i18n` custom block integration.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - 2️⃣ Zero-config PWA for Vite.
+- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - 2️⃣ Vite plugin to load i18n translation message files.
 
 ### Resolvers
 
@@ -125,7 +126,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue2 integration.
 
 ## Plugins for React
-
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - 2️⃣ Official React Refresh support
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Official React application framework powered by Vite.
