@@ -120,6 +120,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [@baleada/vite-serve-as-vue](https://baleada.netlify.app/docs/vite-serve-as-vue) - Dev server plugin to serve any files as hot-reloadable Vue components.
 - [@baleada/vite-serve-virtual](https://baleada.netlify.app/docs/vite-serve-virtual) - Dev server plugin to serve virtual files of any type.
 - [vite-plugin-legacy](https://github.com/alloc/vite-plugin-legacy) - Generate an identical bundle for legacy browsers.
+- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - 2️⃣ Webfont loader for vite.
 
 ## Plugins for Vue 2
 
