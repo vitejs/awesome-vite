@@ -121,6 +121,12 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
 -->
 
+## Rollup Plugins compatible with Vite
+
+### Official
+
+- [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert .csv and .tsv files into JavaScript modules with d3-dsv
+
 ## Projects Using Vite.js
 
 ### Open Source
