@@ -39,7 +39,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Get Started
 
-### [Create Vite App](https://github.com/vitejs/create-vite-app)
+#### [@vite/create-app](https://github.com/vitejs/vite/tree/main/packages/create-app)
 
 ### Templates
 
