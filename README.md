@@ -26,7 +26,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [Documentation](https://vitejs.dev/)
 - [GitHub Repo](https://github.com/vitejs/vite)
-- [Release Notes](https://github.com/vitejs/vite/blob/master/CHANGELOG.md)
+- [Release Notes](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 - [Vue 3 Docs](https://v3.vuejs.org/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Migration from v1](https://vitejs.dev/guide/migration.html)
@@ -58,7 +58,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Official
 
-- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - 2Official Vue support.
+- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue support.
 
 ### Routing
 
