@@ -121,6 +121,12 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
 -->
 
+## Plugins for [Solid](https://github.com/ryansolid/solid)
+
+### Integrations
+
+- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid
+
 ## Projects Using Vite.js
 
 ### Open Source
