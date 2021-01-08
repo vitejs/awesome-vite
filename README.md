@@ -127,6 +127,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert .csv and .tsv files into JavaScript modules with d3-dsv
 
+### Community
+
+- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite Docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+
 ## Projects Using Vite.js
 
 ### Open Source
