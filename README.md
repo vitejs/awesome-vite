@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc remark-lint:no-file-name-mixed-case-->
+<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc double-link-->
 
 <p align="center">
   <br>
@@ -18,7 +18,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </a>
 </p>
 
-<!--lint ignore double-link-->
+<!--lint ignore-->
 > **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Resources
@@ -40,7 +40,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Get Started
 
-#### [@vite/create-app](https://github.com/vitejs/vite/tree/main/packages/create-app)
+- [@vite/create-app](https://github.com/vitejs/vite/tree/main/packages/create-app) - Scaffolding Your First Vite Project.
 
 ### Templates
 
