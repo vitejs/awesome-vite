@@ -128,18 +128,16 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
-## Rollup Plugins compatible with Vite
+## Rollup Plugins
 
-### Official already included in Vite
+### Included in Vite
 
 - [@rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
 - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
 - [@rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
 - [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
-- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/blob/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
-- [@rollup/plugin-typescript](https://github.com/rollup/plugins/blob/master/packages/typescript) - Integration between Rollup and Typescript.
 
-### Official compatible with Vite
+### Compatible with Vite
 
 - [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
 - [@rollup/plugin-graphql](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
