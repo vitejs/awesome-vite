@@ -18,6 +18,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </a>
 </p>
 
+<!--lint ignore double-link-->
 > **This awesome list is for Vite 1.x which is discontinued. We no longer accept new entries to this list. See [Vite 2.0's list](./README.md) instead.**
 
 ## Resources

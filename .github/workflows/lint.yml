@@ -1,7 +1,9 @@
 name: Lint
 on:
+  push:
   pull_request:
     branches: [master]
+
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -9,4 +11,6 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      # no lint check for legacy
+      - run: rm ./README.legacy.md
       - run: npx awesome-lint

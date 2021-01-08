@@ -1,4 +1,5 @@
 ### `General`
+
 > ✏️ Mark the necessary items without changing the structure of the PR template.
 
 - [ ] Pull request template structure not broken
@@ -18,9 +19,10 @@
 
 > 👉  _Put an `x` in the boxes that apply._
 
-- [ ] Title as described
+- [ ] Title as described.
 - [ ] Make sure you put things in the right category!
-- [ ] Always add your items to the end of a list
+- [ ] Always add your items to the end of a list.
+- [ ] Your plugin/tool is working with Vite 2.0 and onward.
 
 #### `Open Source`
 

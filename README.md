@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc-->
+<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc remark-lint:no-file-name-mixed-case-->
 
 <p align="center">
   <br>
@@ -18,6 +18,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </a>
 </p>
 
+<!--lint ignore double-link-->
 > **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Resources
@@ -125,23 +126,23 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Integrations
 
-- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid
+- [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
 ## Rollup Plugins compatible with Vite
 
 ### Official already included in Vite
 
-- [@rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies
-- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6
+- [@rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
 - [@rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-- [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert .json files to ES6 modules
-- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/blob/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules
-- [@rollup/plugin-typescript](https://github.com/rollup/plugins/blob/master/packages/typescript) - Integration between Rollup and Typescript
+- [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/blob/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
+- [@rollup/plugin-typescript](https://github.com/rollup/plugins/blob/master/packages/typescript) - Integration between Rollup and Typescript.
 
 ### Official compatible with Vite
 
-- [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert .csv and .tsv files into JavaScript modules with d3-dsv
-- [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling
+- [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+- [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 
 ### Community
 
