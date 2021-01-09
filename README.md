@@ -117,7 +117,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Transformers
 
-- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 <!--
 ## Plugins for Svelte
