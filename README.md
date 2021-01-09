@@ -116,6 +116,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
 
+### Loaders
+
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+
 <!--
 ## Plugins for Svelte
 
