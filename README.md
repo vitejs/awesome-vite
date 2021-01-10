@@ -120,6 +120,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
+### Framework
+
+- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app. Especially suitable for document site and demos/playgrounds of React components.
+
 <!--
 ## Plugins for Svelte
 
