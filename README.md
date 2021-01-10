@@ -122,7 +122,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Framework
 
-- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) A vite framework for building react app. Especially suitable for document site and demos/playgrounds of react components.
+- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A vite framework for building react app. Especially suitable for document site and demos/playgrounds of react components.
 
 <!--
 ## Plugins for Svelte
