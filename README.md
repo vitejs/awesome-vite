@@ -49,6 +49,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter template with Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Starter template w/ TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+- [Kendo UI for Vue in Vite application](https://github.com/telerik/kendo-vue-examples/tree/main/kendo-vue-vite) - Kendo UI for Vue components - Grid, DropDowns, Inputs, DateInputs, Dialogs in a Vite app.
 
 <!--
 #### React
