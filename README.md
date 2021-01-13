@@ -105,6 +105,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
 
+### Misc
+- [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+
 ## Plugins for Vue 2
 
 ### Integrations
