@@ -58,6 +58,14 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - []()
 -->
 
+## Framework-agnostic Plugins
+
+### Integrations
+
+- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
+- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
+
 ## Plugins for Vue 3
 
 ### Official
@@ -66,7 +74,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Routing
 
-- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing plugin.
+- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing.
 
 ### Loaders
 
@@ -86,10 +94,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Integrations
 
 - [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Vite Plugin for Vue I18n.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
 - [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Vite plugin to load i18n translation message files.
-- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
 
 <!--
 ### Resolvers
@@ -106,7 +111,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
 
-### Misc
+### Bundling
+
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 
 ## Plugins for Vue 2
