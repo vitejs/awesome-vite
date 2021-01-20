@@ -148,6 +148,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
 
+## Plugins for WebAssembly
+
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
+
 ## Rollup Plugins
 
 - [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
