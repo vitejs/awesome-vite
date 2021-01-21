@@ -136,12 +136,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-svelte](https://github.com/intrnl/vite-plugin-svelte) - Svelte integration.
 -->
 
-## Integrations with Backends
-
-- [vite-plugin-ruby](https://github.com/ElMassimo/vite_rails/tree/main/package) - Vite configuration for Ruby backends.
-- [vite_rails](https://github.com/ElMassimo/vite_rails) - Manage your Rails assets with Vite.
-
-
 ## Plugins for [Solid](https://github.com/ryansolid/solid)
 
 ### Integrations
@@ -173,6 +167,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ### Community
 
 - Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite Docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+
+## Integrations with Backends
+
+- [vite-plugin-ruby](https://github.com/ElMassimo/vite_rails/tree/main/package) - Vite configuration for Ruby backends.
+- [vite_rails](https://github.com/ElMassimo/vite_rails) - Manage your Rails assets with Vite.
 
 ## Projects Using Vite.js
 
