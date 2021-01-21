@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "toc": "npx markdown-toc -i README.md"
+  }
+}
