@@ -21,42 +21,46 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 <!--lint ignore-->
 > **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
+
 ## Table of Contents
+
+<!--lint disable awesome-list-item-->
 <!-- toc -->
 
 - [Resources](#resources)
-  * [Official Resources](#official-resources)
+  - [Official Resources](#official-resources)
 - [Get Started](#get-started)
-  * [Templates](#templates)
-    + [Vue 3](#vue-3)
+  - [Templates](#templates)
+    - [Vue 3](#vue-3)
 - [Plugins](#plugins)
-  * [Framework-agnostic Plugins](#framework-agnostic-plugins)
-    + [Integrations](#integrations)
-  * [Vue 3](#vue-3-1)
-    + [Official](#official)
-    + [Routing](#routing)
-    + [Loaders](#loaders)
-    + [SSR / SSG](#ssr--ssg)
-    + [Integrations](#integrations-1)
-    + [Helpers](#helpers)
-    + [Bundling](#bundling)
-  * [Vue 2](#vue-2)
-    + [Integrations](#integrations-2)
-  * [React](#react)
-    + [Official](#official-1)
-    + [Loaders](#loaders-1)
-    + [Framework](#framework)
-  * [Solid](#solid)
-    + [Integrations](#integrations-3)
-  * [Rollup Plugins](#rollup-plugins)
-    + [Included in Vite](#included-in-vite)
-    + [Compatible with Vite](#compatible-with-vite)
-    + [Community](#community)
+  - [Framework-agnostic Plugins](#framework-agnostic-plugins)
+    - [Integrations](#integrations)
+  - [Vue 3](#vue-3-1)
+    - [Official](#official)
+    - [Routing](#routing)
+    - [Loaders](#loaders)
+    - [SSR / SSG](#ssr--ssg)
+    - [Integrations](#integrations-1)
+    - [Helpers](#helpers)
+    - [Bundling](#bundling)
+  - [Vue 2](#vue-2)
+    - [Integrations](#integrations-2)
+  - [React](#react)
+    - [Official](#official-1)
+    - [Loaders](#loaders-1)
+    - [Framework](#framework)
+  - [Solid](#solid)
+    - [Integrations](#integrations-3)
+  - [Rollup Plugins](#rollup-plugins)
+    - [Included in Vite](#included-in-vite)
+    - [Compatible with Vite](#compatible-with-vite)
+    - [Community](#community)
 - [Projects Using Vite.js](#projects-using-vitejs)
-  * [Open Source](#open-source)
-  * [Apps/Websites](#appswebsites)
+  - [Open Source](#open-source)
+  - [Apps/Websites](#appswebsites)
 
 <!-- tocstop -->
+<!--lint enable awesome-list-item-->
 
 ## Resources
 
