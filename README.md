@@ -76,6 +76,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing.
 
+### Aliases
+- [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias Generation based on Projectfolder.
+
 ### Loaders
 
 - [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
