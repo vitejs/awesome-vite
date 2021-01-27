@@ -90,7 +90,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
 
 #### React
-- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using Vite2, React, Tailwindcss, Typescript and Electron.
+- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using React, TailwindCSS, TypeScript and Electron.
 
 ## Plugins
 
