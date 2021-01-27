@@ -103,6 +103,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
 
+#### Resolvers
+
+- [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+
 ### Vue 3
 
 #### Official
@@ -112,6 +116,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Routing
 
 - [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing.
+- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generater.
 
 #### Loaders
 
