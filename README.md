@@ -32,6 +32,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Get Started](#get-started)
   - [Templates](#templates)
     - [Vue 3](#vue-3)
+    - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
@@ -89,6 +90,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
 
+#### React
+- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using React, TailwindCSS, TypeScript and Electron.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
@@ -106,6 +110,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Resolvers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
+
+#### Helpers
+
+- [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 
 ### Vue 3
 
