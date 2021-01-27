@@ -32,6 +32,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Get Started](#get-started)
   - [Templates](#templates)
     - [Vue 3](#vue-3)
+    - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
