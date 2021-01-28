@@ -44,6 +44,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Integrations](#integrations-1)
     - [Helpers](#helpers)
     - [Bundling](#bundling)
+    - [Libraries](#libraries)
   - [Vue 2](#vue-2)
     - [Integrations](#integrations-2)
   - [React](#react)
@@ -148,6 +149,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Bundling
 
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+
+#### Libraries
+
+- [Kendo UI for Vue in Vite application](https://github.com/telerik/kendo-vue-examples/tree/main/kendo-vue-vite) - Kendo UI for Vue components - Grid, DropDowns, Inputs, DateInputs, Dialogs and others in a Vite app.
 
 ### Vue 2
 
