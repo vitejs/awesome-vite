@@ -117,7 +117,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ### Bundling
 
-- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite.
 
 
 ### Vue 3
