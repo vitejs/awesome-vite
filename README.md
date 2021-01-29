@@ -106,6 +106,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Loaders
 
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
+- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### Resolvers
 
