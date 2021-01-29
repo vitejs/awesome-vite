@@ -115,6 +115,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 
+### Bundling
+
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite.
+
+
 ### Vue 3
 
 #### Official
