@@ -25,6 +25,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ## Table of Contents
 
 <!--lint disable awesome-list-item-->
+
 <!-- toc -->
 
 - [Resources](#resources)
@@ -36,19 +37,23 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
+    - [Loaders](#loaders)
+    - [Resolvers](#resolvers)
+    - [Helpers](#helpers)
+    - [Bundling](#bundling)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
-    - [Loaders](#loaders)
+    - [Loaders](#loaders-1)
     - [SSR / SSG](#ssr--ssg)
     - [Integrations](#integrations-1)
-    - [Helpers](#helpers)
-    - [Bundling](#bundling)
+    - [Helpers](#helpers-1)
+    - [Bundling](#bundling-1)
   - [Vue 2](#vue-2)
     - [Integrations](#integrations-2)
-  - [React](#react)
+  - [React](#react-1)
     - [Official](#official-1)
-    - [Loaders](#loaders-1)
+    - [Loaders](#loaders-2)
     - [Framework](#framework)
   - [Solid](#solid)
     - [Integrations](#integrations-3)
@@ -56,11 +61,14 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Included in Vite](#included-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
+- [Integrations with Backends](#integrations-with-backends)
+  - [Ruby on Rails](#ruby-on-rails)
 - [Projects Using Vite.js](#projects-using-vitejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
 
 <!-- tocstop -->
+
 <!--lint enable awesome-list-item-->
 
 ## Resources
@@ -89,9 +97,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Starter template w/ TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
-- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, Typescript.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 
 #### React
+
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using React, TailwindCSS, TypeScript and Electron.
 
 ## Plugins
@@ -100,14 +109,15 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Integrations
 
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
-- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
-- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use ejs template syntax in `index.html`.
+- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
+- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 #### Loaders
 
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
+- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
 
 #### Resolvers
 
@@ -116,13 +126,15 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Helpers
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
-- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - A Vite plugin that can introduce component library styles on demand,It's fast.
-- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A vite mock plug-in for development and production.
+- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
+- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
+- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 
-### Bundling
+#### Bundling
 
-- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite.
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
 
+<hr>
 
 ### Vue 3
 
@@ -143,28 +155,30 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### SSR / SSG
 
-- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
+- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 #### Integrations
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Vite Plugin for Vue I18n.
-- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Vite plugin to load i18n translation message files.
+- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
+- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 #### Helpers
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
-- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
-- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server for vite.
 
 #### Bundling
 
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+
+<hr>
 
 ### Vue 2
 
 #### Integrations
 
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+
+<hr>
 
 ### React
 
@@ -180,11 +194,15 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app. Especially suitable for document site and demos/playgrounds of React components.
 
+<hr>
+
 ### Solid
 
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+<hr>
 
 ### Rollup Plugins
 
@@ -210,7 +228,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Community
 
-- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite Docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
 
 ## Integrations with Backends
 
