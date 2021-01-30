@@ -89,6 +89,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Starter template w/ TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, Typescript.
 
 #### React
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using React, TailwindCSS, TypeScript and Electron.
@@ -102,6 +103,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - A plugin for vite to Minimize index.html and use ejs template syntax in `index.html`.
 
 #### Loaders
 
@@ -115,6 +117,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - A Vite plugin that can introduce component library styles on demand,It's fast.
+- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - A vite mock plug-in for development and production.
 
 ### Bundling
 
