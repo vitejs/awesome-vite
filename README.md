@@ -145,7 +145,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Routing
 
 - [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing.
-- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generater.
+- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
