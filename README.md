@@ -114,6 +114,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Helpers
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
+- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - A Vite plugin that can introduce component library styles on demand,It's fast.
 
 ### Bundling
 
