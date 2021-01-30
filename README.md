@@ -154,6 +154,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
+- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server for vite.
 
 #### Bundling
 
