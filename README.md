@@ -118,6 +118,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
+- [vite-plugin-svgstring](https://github.com/cobbcheng/vite-plugin-svgstring) - Transform svg file to string
 
 #### Resolvers
 
