@@ -112,6 +112,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
+- [vite-eslint-plugin](https://github.com/gxmari007/vite-plugin-eslint) - Add eslint to the project.
 - [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 #### Loaders
