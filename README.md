@@ -113,6 +113,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
 - [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for React, Vue, MDX v1, MDX v2, HMR, and SSR.
 
 #### Loaders
 
