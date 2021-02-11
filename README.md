@@ -156,6 +156,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### SSR / SSG
 
 - [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
 #### Integrations
 
