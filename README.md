@@ -102,7 +102,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - Starter template using React, TailwindCSS, TypeScript and Electron.
-- [react-modern-starter](https://github.com/thelinuxlich/react-modern-starter) - Modern starter template with React, TailwindCSS, Valtio, React Router, prettier-standard, uvu and autorouting powered by Vite.
+- [react-modern-starter](https://github.com/thelinuxlich/react-modern-starter) - Modern starter template powered by Vite. 
 
 ## Plugins
 
