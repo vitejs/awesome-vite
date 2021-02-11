@@ -261,6 +261,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [VitePress](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+- [Equal UI](https://github.com/quatrochan/Equal) - Vue 3 components library with 30+ components based on TypeScript and Equal design system.
 
 ### Apps/Websites
 
