@@ -98,6 +98,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+- [electron-vue-next](https://github.com/ci010/electron-vue-next) - Template using Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 
 #### React
 
