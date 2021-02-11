@@ -3,6 +3,7 @@
 - [ ] Title as described.
 - [ ] Make sure you put things in the right category.
 - [ ] The description of your item should be a sentence with less than 24 words.
+- [ ] Omit unnecessary words already provided in the context (e.g. `for Vite`, `a Vite plugin`).
 - [ ] Always add your items to the end of a list.
 
 ### Plugins/Tools
@@ -11,7 +12,7 @@
 
 - [ ] The plugin/tool is working with **Vite 2.0 and onward**.
 - [ ] The project is Open Source.
-- [ ] The repo should be at least 14 days old.
+- [ ] The repo should be at least 30 days old.
 - [ ] The documentation is in English.
 - [ ] The project is active and maintained.
 - [ ] The project accepts contributions.

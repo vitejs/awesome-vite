@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc double-link-->
+<!--lint disable awesome-heading awesome-github awesome-toc double-link-->
 
 <p align="center">
   <br>
