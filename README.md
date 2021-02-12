@@ -134,6 +134,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Bundling
 
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
+- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
 
 <hr>
 
