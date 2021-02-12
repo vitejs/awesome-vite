@@ -199,6 +199,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
+#### Integrations
+
+- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
+
 <hr>
 
 ### Solid
