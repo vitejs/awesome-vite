@@ -118,6 +118,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
+- [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform Images using a modular workflow.
 
 #### Resolvers
 
@@ -152,7 +153,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
-- [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform Images using a modular workflow.
 
 #### SSR / SSG
 
