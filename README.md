@@ -277,3 +277,4 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
+- [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
