@@ -278,3 +278,4 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
+- [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
