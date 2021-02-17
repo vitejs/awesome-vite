@@ -113,7 +113,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
-- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 - [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 #### Loaders
@@ -126,17 +125,21 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
+#### Bundling
+
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
+- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
+
+#### Transformers
+
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+
 #### Helpers
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
-
-#### Bundling
-
-- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
-- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
 
 <hr>
 
