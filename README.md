@@ -103,6 +103,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
+- [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 
 ## Plugins
 
