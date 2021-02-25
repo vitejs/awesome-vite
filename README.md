@@ -41,6 +41,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Resolvers](#resolvers)
     - [Helpers](#helpers)
     - [Bundling](#bundling)
+    - [Dev Servers](#dev-servers)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
@@ -141,6 +142,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+
+#### Dev Servers
+
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Use Vite as node dev server
 
 <hr>
 
