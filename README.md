@@ -114,6 +114,10 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) in TypeScript.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
+#### SSR
+
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but with a simpler design that works with any view framework.
+
 #### Helpers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
