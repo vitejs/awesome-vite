@@ -141,7 +141,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
-- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-import) - Use babel-plugin-import in vite.
+- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Use babel-plugin-import in vite.
 
 <hr>
 
