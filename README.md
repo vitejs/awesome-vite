@@ -28,6 +28,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 <!-- toc -->
 
+- [Table of Contents](#table-of-contents)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
 - [Get Started](#get-started)
@@ -39,8 +40,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Integrations](#integrations)
     - [Loaders](#loaders)
     - [Resolvers](#resolvers)
-    - [Helpers](#helpers)
     - [Bundling](#bundling)
+    - [Transformers](#transformers)
+    - [Helpers](#helpers)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
@@ -55,10 +57,12 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Official](#official-1)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
-  - [Solid](#solid)
     - [Integrations](#integrations-3)
+  - [Solid](#solid)
+    - [Integrations](#integrations-4)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
+    - [Covered by default in Vite](#covered-by-default-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
 - [Integrations with Backends](#integrations-with-backends)
@@ -141,6 +145,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite
 
 <hr>
 
