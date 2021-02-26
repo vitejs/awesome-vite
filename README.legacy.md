@@ -61,6 +61,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-components-playground](https://xxholly32.github.io/vite-components-playground/) - A common Vue 3 components playground.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
 
+#### Vue 2 
+
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+
 #### React
 
 - [vite-react-tailwind-starter](https://github.com/sorxrob/vite-react-tailwind-starter) - Starter template with React and Tailwind CSS.
