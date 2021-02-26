@@ -28,7 +28,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 <!-- toc -->
 
-- [Table of Contents](#table-of-contents)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
 - [Get Started](#get-started)
@@ -40,9 +39,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Integrations](#integrations)
     - [Loaders](#loaders)
     - [Resolvers](#resolvers)
-    - [Bundling](#bundling)
-    - [Transformers](#transformers)
     - [Helpers](#helpers)
+    - [Bundling](#bundling)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
@@ -57,12 +55,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Official](#official-1)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
-    - [Integrations](#integrations-3)
   - [Solid](#solid)
-    - [Integrations](#integrations-4)
+    - [Integrations](#integrations-3)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
-    - [Covered by default in Vite](#covered-by-default-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
 - [Integrations with Backends](#integrations-with-backends)
