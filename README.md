@@ -33,33 +33,37 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Get Started](#get-started)
   - [Templates](#templates)
     - [Vue 3](#vue-3)
+    - [Vue 2](#vue-2)
     - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
     - [Loaders](#loaders)
     - [Resolvers](#resolvers)
-    - [Helpers](#helpers)
     - [Bundling](#bundling)
     - [Dev Servers](#dev-servers)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
+    - [Transformers](#transformers)
+    - [Helpers](#helpers)
+    - [Bundling](#bundling-1)
+  - [Vue](#vue)
+    - [Integrations](#integrations-1)
     - [Routing](#routing)
     - [Loaders](#loaders-1)
     - [SSR / SSG](#ssr--ssg)
-    - [Integrations](#integrations-1)
+    - [Ecosystem](#ecosystem)
     - [Helpers](#helpers-1)
-    - [Bundling](#bundling-1)
-  - [Vue 2](#vue-2)
-    - [Integrations](#integrations-2)
+    - [Bundling](#bundling-2)
   - [React](#react-1)
-    - [Official](#official-1)
+    - [Official](#official)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
   - [Solid](#solid)
-    - [Integrations](#integrations-3)
+    - [Integrations](#integrations-2)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
+    - [Covered by default in Vite](#covered-by-default-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
 - [Integrations with Backends](#integrations-with-backends)
@@ -97,10 +101,15 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
+- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 
+#### Vue 2 
+
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
@@ -141,7 +150,14 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
+- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
+
+#### Bundling
+
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+- [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 #### Dev Servers
 
@@ -149,49 +165,55 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 <hr>
 
-### Vue 3
+### Vue
 
-#### Official
+[v23]: https://img.shields.io/badge/-2%2F3-3C8171
+[v2]: https://img.shields.io/badge/-v2-42b883
+[v3]: https://img.shields.io/badge/-v3-35495e
 
-- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue support.
+In this section, we use badges to indicate the targeted Vue version for each plugin.
+
+![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
+
+<!--lint disable awesome-list-item-->
+
+#### Integrations
+
+- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 #### Routing
 
-- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
-- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+- ![v23] [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
+- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
-- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
-- [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
+- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
+- ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### SSR / SSG
 
-- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
-- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
+- ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- ![v3] [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
+- ![v3] [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
-#### Integrations
+#### Ecosystem
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
-- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+- ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
+- ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 #### Helpers
 
-- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
+- ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 
 #### Bundling
 
-- [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+- ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 
-<hr>
-
-### Vue 2
-
-#### Integrations
-
-- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+<!--lint enable awesome-list-item-->
 
 <hr>
 
@@ -204,14 +226,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Loaders
 
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
 
 #### Framework
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
-
-#### Integrations
-
-- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
 
 <hr>
 
