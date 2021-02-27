@@ -44,18 +44,16 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Transformers](#transformers)
     - [Helpers](#helpers)
     - [Bundling](#bundling-1)
-  - [Vue 3](#vue-3-1)
-    - [Official](#official)
+  - [Vue](#vue)
+    - [Integrations](#integrations-1)
     - [Routing](#routing)
     - [Loaders](#loaders-1)
     - [SSR / SSG](#ssr--ssg)
-    - [Integrations](#integrations-1)
+    - [Integrations](#integrations-2)
     - [Helpers](#helpers-1)
     - [Bundling](#bundling-2)
-  - [Vue 2](#vue-2-1)
-    - [Integrations](#integrations-2)
   - [React](#react-1)
-    - [Official](#official-1)
+    - [Official](#official)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
     - [Integrations](#integrations-3)
@@ -160,49 +158,50 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 <hr>
 
-### Vue 3
+### Vue
 
-#### Official
+[v23]: https://img.shields.io/badge/-2%2F3-3C8171
+[v2]: https://img.shields.io/badge/-v2-42b883
+[v3]: https://img.shields.io/badge/-v3-35495e
 
-- [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue support.
+In this section, we use badges to indicate the targeting Vue version for each plugin.
+
+![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
+
+#### Integrations
+
+- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 
 #### Routing
 
-- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
-- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+- ![v23] [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
+- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
-- [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
-- [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
+- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### SSR / SSG
 
-- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
-- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
+- ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- ![v3] [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
+- ![v3] [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
 #### Integrations
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
-- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+- ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
+- ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 #### Helpers
 
-- [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
+- ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 
 #### Bundling
 
-- [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
-
-<hr>
-
-### Vue 2
-
-#### Integrations
-
-- [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+- ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 
 <hr>
 
