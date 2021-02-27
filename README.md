@@ -155,6 +155,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
 
 <hr>
 
