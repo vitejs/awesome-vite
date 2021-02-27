@@ -43,8 +43,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Bundling](#bundling)
     - [Transformers](#transformers)
     - [Helpers](#helpers)
-    - [Bundling](#bundling-1)
-    - [Dev Servers](#dev-servers)
   - [Vue](#vue)
     - [Integrations](#integrations-1)
     - [Routing](#routing)
@@ -122,6 +120,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
 - [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 #### Loaders
 
@@ -137,6 +136,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
 - [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+- [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 
 #### Transformers
 
@@ -149,17 +152,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
-
-#### Bundling
-
-- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
-- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
-- [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
-- [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
-
-#### Dev Servers
-
-- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 
 <hr>
 
