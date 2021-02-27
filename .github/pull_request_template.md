@@ -12,11 +12,12 @@
 
 - [ ] The plugin/tool is working with **Vite 2.0 and onward**.
 - [ ] The project is Open Source.
+- [ ] The project follows the [Vite Plugins Conventions](https://vitejs.dev/guide/api-plugin.html#conventions).
 - [ ] The repo should be at least 30 days old.
 - [ ] The documentation is in English.
 - [ ] The project is active and maintained.
 - [ ] The project accepts contributions.
-- [ ] Not a commercial product
+- [ ] Not a commercial product.
 
 ### Apps/Websites
 
