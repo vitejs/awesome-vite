@@ -33,14 +33,16 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Get Started](#get-started)
   - [Templates](#templates)
     - [Vue 3](#vue-3)
+    - [Vue 2](#vue-2)
     - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
     - [Loaders](#loaders)
     - [Resolvers](#resolvers)
-    - [Helpers](#helpers)
     - [Bundling](#bundling)
+    - [Transformers](#transformers)
+    - [Helpers](#helpers)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
@@ -49,16 +51,18 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Integrations](#integrations-1)
     - [Helpers](#helpers-1)
     - [Bundling](#bundling-1)
-  - [Vue 2](#vue-2)
+  - [Vue 2](#vue-2-1)
     - [Integrations](#integrations-2)
   - [React](#react-1)
     - [Official](#official-1)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
-  - [Solid](#solid)
     - [Integrations](#integrations-3)
+  - [Solid](#solid)
+    - [Integrations](#integrations-4)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
+    - [Covered by default in Vite](#covered-by-default-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
 - [Integrations with Backends](#integrations-with-backends)
@@ -100,6 +104,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 
+#### Vue 2 
+
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
