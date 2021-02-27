@@ -145,7 +145,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Dev Servers
 
-- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Use Vite as node dev server.
+- [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Dev server for nodejs backend framework.
 
 <hr>
 
