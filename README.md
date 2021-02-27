@@ -49,16 +49,15 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Routing](#routing)
     - [Loaders](#loaders-1)
     - [SSR / SSG](#ssr--ssg)
-    - [Integrations](#integrations-2)
+    - [Ecosystem](#ecosystem)
     - [Helpers](#helpers-1)
     - [Bundling](#bundling-2)
   - [React](#react-1)
     - [Official](#official)
     - [Loaders](#loaders-2)
     - [Framework](#framework)
-    - [Integrations](#integrations-3)
   - [Solid](#solid)
-    - [Integrations](#integrations-4)
+    - [Integrations](#integrations-2)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
     - [Covered by default in Vite](#covered-by-default-in-vite)
@@ -193,7 +192,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
 - ![v3] [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
-#### Integrations
+#### Ecosystem
 
 - ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
 - ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
@@ -219,14 +218,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
 
 #### Framework
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
-
-#### Integrations
-
-- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
 
 <hr>
 
