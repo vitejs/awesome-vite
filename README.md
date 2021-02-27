@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-git-repo-age awesome-github awesome-toc double-link-->
+<!--lint disable awesome-heading awesome-github awesome-toc double-link-->
 
 <p align="center">
   <br>
@@ -25,6 +25,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 ## Table of Contents
 
 <!--lint disable awesome-list-item-->
+
 <!-- toc -->
 
 - [Resources](#resources)
@@ -32,34 +33,46 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [Get Started](#get-started)
   - [Templates](#templates)
     - [Vue 3](#vue-3)
+    - [Vue 2](#vue-2)
+    - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
+    - [Loaders](#loaders)
+    - [Resolvers](#resolvers)
+    - [Bundling](#bundling)
+    - [Transformers](#transformers)
+    - [Helpers](#helpers)
   - [Vue 3](#vue-3-1)
     - [Official](#official)
     - [Routing](#routing)
-    - [Loaders](#loaders)
+    - [Loaders](#loaders-1)
     - [SSR / SSG](#ssr--ssg)
     - [Integrations](#integrations-1)
-    - [Helpers](#helpers)
-    - [Bundling](#bundling)
-  - [Vue 2](#vue-2)
+    - [Helpers](#helpers-1)
+    - [Bundling](#bundling-1)
+  - [Vue 2](#vue-2-1)
     - [Integrations](#integrations-2)
-  - [React](#react)
+  - [React](#react-1)
     - [Official](#official-1)
-    - [Loaders](#loaders-1)
+    - [Loaders](#loaders-2)
     - [Framework](#framework)
-  - [Solid](#solid)
     - [Integrations](#integrations-3)
+  - [Solid](#solid)
+    - [Integrations](#integrations-4)
   - [Rollup Plugins](#rollup-plugins)
     - [Included in Vite](#included-in-vite)
+    - [Covered by default in Vite](#covered-by-default-in-vite)
     - [Compatible with Vite](#compatible-with-vite)
     - [Community](#community)
+- [Integrations with Backends](#integrations-with-backends)
+  - [Ruby on Rails](#ruby-on-rails)
 - [Projects Using Vite.js](#projects-using-vitejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
 
 <!-- tocstop -->
+
 <!--lint enable awesome-list-item-->
 
 ## Resources
@@ -83,12 +96,22 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Vue 3
 
-- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite starter template.
-- [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Starter template with Vue 3, Vue Router and Tailwind CSS.
-- [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Starter template w/ TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+- [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
+- [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
+- [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
-- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+- [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
+- [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
+- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+
+#### Vue 2 
+
+- [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+#### React
+
+- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 
 ## Plugins
 
@@ -96,21 +119,44 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Integrations
 
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA for Vite.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
-- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
+- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
+- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
+- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
+- [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 
 #### Loaders
 
-- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled(wasm-pack) WebAssembly packages.
+- [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
+- [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 #### Resolvers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
 
+#### Bundling
+
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
+- [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
+
+#### Transformers
+
+- [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+
 #### Helpers
 
 - [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
+- [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
+- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
+- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
+- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
+
+#### Bundling
+
+- [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+
+<hr>
 
 ### Vue 3
 
@@ -120,37 +166,43 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Routing
 
-- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system-based routing.
-- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generater.
+- [vite-plugin-voie](https://github.com/vamplate/vite-plugin-voie) - File system based routing.
+- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
 - [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### SSR / SSG
 
-- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
+- [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
 #### Integrations
 
-- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Vite Plugin for Vue I18n.
-- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Vite plugin to load i18n translation message files.
+- [vite-plugin-vue-i18n](https://github.com/intlify/vite-plugin-vue-i18n) - Integration for Vue I18n.
+- [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 #### Helpers
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
-- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
 
 #### Bundling
 
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+
+<hr>
 
 ### Vue 2
 
 #### Integrations
 
 - [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+
+<hr>
 
 ### React
 
@@ -164,13 +216,21 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Framework
 
-- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app. Especially suitable for document site and demos/playgrounds of React components.
+- [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+
+#### Integrations
+
+- [@brillout/vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
+
+<hr>
 
 ### Solid
 
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+<hr>
 
 ### Rollup Plugins
 
@@ -183,20 +243,35 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [@rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
 - [@rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
+#### Covered by default in Vite
+
+- [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+- [@rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+- [@rollup/plugin-data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+- [@rollup/plugin-html](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
+- [@rollup/plugin-sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+- [@rollup/plugin-typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and Typescript.
+- [@rollup/plugin-wasm](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+- [@rollup/plugin-url](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+
 #### Compatible with Vite
 
 - [@rollup/plugin-beep](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
 - [@rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+- [@rollup/plugin-eslint](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
 - [@rollup/plugin-graphql](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-- [@rollup/plugin-image](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs enforce: 'pre').
+- [@rollup/plugin-image](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
 - [@rollup/plugin-inject](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+- [@rollup/plugin-legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
 - [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
-- [@rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+- [@rollup/plugin-strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 - [@rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin which loads virtual modules from memory.
+- [@rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
 #### Community
 
-- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite Docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
 
 ## Integrations with Backends
 
@@ -221,3 +296,5 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
+- [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
+- [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
