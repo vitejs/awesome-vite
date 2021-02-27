@@ -164,9 +164,11 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 [v2]: https://img.shields.io/badge/-v2-42b883
 [v3]: https://img.shields.io/badge/-v3-35495e
 
-In this section, we use badges to indicate the targeting Vue version for each plugin.
+In this section, we use badges to indicate the targeted Vue version for each plugin.
 
 ![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
+
+<!--lint disable awesome-list-item-->
 
 #### Integrations
 
@@ -180,8 +182,9 @@ In this section, we use badges to indicate the targeting Vue version for each pl
 
 #### Loaders
 
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
+- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### SSR / SSG
@@ -202,6 +205,8 @@ In this section, we use badges to indicate the targeting Vue version for each pl
 #### Bundling
 
 - ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+
+<!--lint enable awesome-list-item-->
 
 <hr>
 
