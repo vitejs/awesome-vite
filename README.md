@@ -129,7 +129,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
-- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Vite plugin for dynamically changing the theme color of the interface.
+- [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 
 #### Bundling
 
