@@ -204,6 +204,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### React
 
+- [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress. An included Demo to know where to start with a small written Cypress test to get you started.
+
 #### Official
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
