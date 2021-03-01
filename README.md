@@ -63,6 +63,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Community](#community)
 - [Integrations with Backends](#integrations-with-backends)
   - [Ruby on Rails](#ruby-on-rails)
+- [Migrations](#migrations)
+  - [Vue CLI](#vue-cli)
 - [Projects Using Vite.js](#projects-using-vitejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -275,6 +277,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_rails/tree/main/package) - Vite configuration for Ruby backends.
 - [vite_rails](https://github.com/ElMassimo/vite_rails) - Manage your Rails assets with Vite.
+
+## Migrations
+
+### Vue CLI
+
+- [vue-cli-plugin-vue](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 
 ## Projects Using Vite.js
 
