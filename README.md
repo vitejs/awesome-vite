@@ -66,6 +66,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundles icons on demand by PurgeIcons.
 - [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allows ESLint to work with bundling and dev server.
 
+### Helpers
+- [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto generation based on Projectstructure.
+
 ## Plugins for Vue 3
 
 ### Official
@@ -110,7 +113,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite.
-- [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias Generation based on Projectfolder.
 
 ### Bundling
 
