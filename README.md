@@ -110,7 +110,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
-- [vite-electron-stater](https://github.com/jctaoo/vite-electron-starter) - The electron project template using Vite&React in renderer process and esbuild in main process to fast development.
+- [vite-electron-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - The electron project template using Vite&React in renderer process and esbuild in main process to fast development.
 
 ## Plugins
 
