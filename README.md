@@ -102,6 +102,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Vite 2 Electron 12 Vue 3 Typescript Template.
 
 #### Vue 2 
 
