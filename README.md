@@ -53,6 +53,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
   - [React](#react-1)
     - [Official](#official)
     - [Loaders](#loaders-2)
+    - [Transformers](#transformers-1)
     - [Framework](#framework)
   - [Solid](#solid)
     - [Integrations](#integrations-2)
@@ -110,6 +111,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
+- [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
 
 ## Plugins
 
@@ -221,6 +223,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 - [vite-plugin-mdx](https://github.com/brillout/vite-plugin-mdx) - Use MDX for your Vite app, with support for MDX v1, MDX v2, HMR, and SSR.
+
+#### Transformers
+
+- [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - Plugin to compile Tailwind CSS with JSX and CSS-in-JS support.
 
 #### Framework
 
