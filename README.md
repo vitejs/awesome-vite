@@ -103,7 +103,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 
-#### Vue 2 
+#### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 #### React
@@ -152,6 +152,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
+- [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 <hr>
 
