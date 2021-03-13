@@ -35,6 +35,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Vue 3](#vue-3)
     - [Vue 2](#vue-2)
     - [React](#react)
+    - [Svelte](#svelte)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
@@ -112,6 +113,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
 - [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
+
+#### Svelte
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - A Svelte project template with SSR support.
 
 ## Plugins
 
