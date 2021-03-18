@@ -5,6 +5,7 @@
     "lint": "npx awesome-lint README.md"
   },
   "devDependencies": {
-    "awesome-lint": "^0.17.1"
+    "awesome-lint": "^0.17.1",
+    "markdown-toc": "^1.2.0"
   }
 }
