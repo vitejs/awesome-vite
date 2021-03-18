@@ -11,4 +11,5 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      - run: npm install
       - run: npm run lint
