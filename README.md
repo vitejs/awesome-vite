@@ -113,6 +113,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
 - [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
 
+#### Svelte
+
+- [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
