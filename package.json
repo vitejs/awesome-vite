@@ -1,7 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "toc": "npx markdown-toc -i --bullets=- README.md",
-    "lint": "npx awesome-lint"
+    "toc": "markdown-toc -i --bullets=- README.md",
+    "lint": "awesome-lint README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.17.1",
+    "markdown-toc": "^1.2.0"
   }
 }

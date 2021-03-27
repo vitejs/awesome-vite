@@ -11,6 +11,5 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      # no lint check for legacy
-      - run: rm ./README.legacy.md
-      - run: npx awesome-lint
+      - run: npm install
+      - run: npm run lint
