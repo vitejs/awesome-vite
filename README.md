@@ -24,56 +24,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Table of Contents
 
-<!--lint disable awesome-list-item-->
+<img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
 
-<!-- toc -->
-
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-- [Get Started](#get-started)
-  - [Templates](#templates)
-    - [Vue 3](#vue-3)
-    - [Vue 2](#vue-2)
-    - [React](#react)
-    - [Svelte](#svelte)
-- [Plugins](#plugins)
-  - [Framework-agnostic Plugins](#framework-agnostic-plugins)
-    - [Integrations](#integrations)
-    - [Loaders](#loaders)
-    - [Bundling](#bundling)
-    - [Transformers](#transformers)
-    - [Helpers](#helpers)
-  - [Vue](#vue)
-    - [Integrations](#integrations-1)
-    - [Routing](#routing)
-    - [Loaders](#loaders-1)
-    - [SSR / SSG](#ssr--ssg)
-    - [Ecosystem](#ecosystem)
-    - [Helpers](#helpers-1)
-    - [Bundling](#bundling-1)
-  - [React](#react-1)
-    - [Official](#official)
-    - [Loaders](#loaders-2)
-    - [Transformers](#transformers-1)
-    - [Framework](#framework)
-  - [Solid](#solid)
-    - [Integrations](#integrations-2)
-  - [Rollup Plugins](#rollup-plugins)
-    - [Included in Vite](#included-in-vite)
-    - [Covered by default in Vite](#covered-by-default-in-vite)
-    - [Compatible with Vite](#compatible-with-vite)
-    - [Community](#community)
-- [Integrations with Backends](#integrations-with-backends)
-  - [Ruby on Rails](#ruby-on-rails)
-- [Migrations](#migrations)
-  - [Vue CLI](#vue-cli)
-- [Projects Using Vite.js](#projects-using-vitejs)
-  - [Open Source](#open-source)
-  - [Apps/Websites](#appswebsites)
-
-<!-- tocstop -->
-
-<!--lint enable awesome-list-item-->
+Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ## Resources
 
