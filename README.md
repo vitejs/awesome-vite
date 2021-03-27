@@ -35,6 +35,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
     - [Vue 3](#vue-3)
     - [Vue 2](#vue-2)
     - [React](#react)
+    - [Svelte](#svelte)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
     - [Integrations](#integrations)
@@ -122,6 +123,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 #### Svelte
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
+
+#### Svelte
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - A Svelte project template with SSR support.
 
 ## Plugins
 
