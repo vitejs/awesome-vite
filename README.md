@@ -76,9 +76,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 #### Svelte
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
-
-#### Svelte
-- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - A Svelte project template with SSR support.
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ## Plugins
 
