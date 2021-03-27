@@ -115,6 +115,10 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 
+#### Svelte
+
+- [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
