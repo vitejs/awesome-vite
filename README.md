@@ -158,6 +158,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+- [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
 <hr>
 
