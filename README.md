@@ -112,6 +112,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
 - [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
+- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 
 ## Plugins
@@ -159,6 +160,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
 
 <hr>
 
@@ -288,8 +290,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Ruby on Rails
 
-- [vite-plugin-ruby](https://github.com/ElMassimo/vite_rails/tree/main/package) - Vite configuration for Ruby backends.
-- [vite_rails](https://github.com/ElMassimo/vite_rails) - Manage your Rails assets with Vite.
+- [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
+- [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 
 ## Migrations
 
