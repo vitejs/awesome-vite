@@ -34,6 +34,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
   - [Templates](#templates)
     - [Vue 3](#vue-3)
     - [Vue 2](#vue-2)
+    - [Preact](#preact)
     - [React](#react)
 - [Plugins](#plugins)
   - [Framework-agnostic Plugins](#framework-agnostic-plugins)
@@ -110,8 +111,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 #### Preact
 
-- [vite-preact] (https://github.com/richajak/vite-preact) - Smallest and Fastest Preact
-- 
+- [vite-preact](https://github.com/richajak/vite-preact) - Smallest and Fastest Preact.
+
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
