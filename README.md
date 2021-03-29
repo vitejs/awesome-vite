@@ -24,55 +24,9 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 ## Table of Contents
 
-<!--lint disable awesome-list-item-->
+<img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
 
-<!-- toc -->
-
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-- [Get Started](#get-started)
-  - [Templates](#templates)
-    - [Vue 3](#vue-3)
-    - [Vue 2](#vue-2)
-    - [React](#react)
-- [Plugins](#plugins)
-  - [Framework-agnostic Plugins](#framework-agnostic-plugins)
-    - [Integrations](#integrations)
-    - [Loaders](#loaders)
-    - [Bundling](#bundling)
-    - [Transformers](#transformers)
-    - [Helpers](#helpers)
-  - [Vue](#vue)
-    - [Integrations](#integrations-1)
-    - [Routing](#routing)
-    - [Loaders](#loaders-1)
-    - [SSR / SSG](#ssr--ssg)
-    - [Ecosystem](#ecosystem)
-    - [Helpers](#helpers-1)
-    - [Bundling](#bundling-1)
-  - [React](#react-1)
-    - [Official](#official)
-    - [Loaders](#loaders-2)
-    - [Transformers](#transformers-1)
-    - [Framework](#framework)
-  - [Solid](#solid)
-    - [Integrations](#integrations-2)
-  - [Rollup Plugins](#rollup-plugins)
-    - [Included in Vite](#included-in-vite)
-    - [Covered by default in Vite](#covered-by-default-in-vite)
-    - [Compatible with Vite](#compatible-with-vite)
-    - [Community](#community)
-- [Integrations with Backends](#integrations-with-backends)
-  - [Ruby on Rails](#ruby-on-rails)
-- [Migrations](#migrations)
-  - [Vue CLI](#vue-cli)
-- [Projects Using Vite.js](#projects-using-vitejs)
-  - [Open Source](#open-source)
-  - [Apps/Websites](#appswebsites)
-
-<!-- tocstop -->
-
-<!--lint enable awesome-list-item-->
+Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 ## Resources
 
@@ -104,15 +58,26 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
+- [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
+- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template. 
+
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
 - [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
 - [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
+- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
+- [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
+- [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
+
+#### Svelte
+
+- [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ## Plugins
 
@@ -134,6 +99,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+- [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 #### Bundling
 
@@ -159,6 +125,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
+- [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
 <hr>
 
@@ -288,8 +256,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Ruby on Rails
 
-- [vite-plugin-ruby](https://github.com/ElMassimo/vite_rails/tree/main/package) - Vite configuration for Ruby backends.
-- [vite_rails](https://github.com/ElMassimo/vite_rails) - Manage your Rails assets with Vite.
+- [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
+- [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 
 ## Migrations
 
