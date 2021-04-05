@@ -187,8 +187,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
 
-### General
-- [vite-preset-react](https://github.com/puruvj/vite-preset-vite) - All in one preset for your React app - HMR, Automatic React inject, removal of devtools in prod.
+### Presets
+- [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of devtools in prod.
 
 #### Loaders
 
