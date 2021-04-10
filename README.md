@@ -179,6 +179,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 - ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
+- ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 #### Bundling
 
