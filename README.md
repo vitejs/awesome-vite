@@ -74,6 +74,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
+- [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 #### Svelte
 
