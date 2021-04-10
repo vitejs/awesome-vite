@@ -57,8 +57,10 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
+- [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
-- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 Typescript Template.
+- [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
 
 #### Vue 2
 
@@ -73,6 +75,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
+- [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+- [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
 
 #### Svelte
 
@@ -114,6 +118,11 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 - [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) in TypeScript.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+- [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+
+#### SSR
+
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but with a simpler design that works with any view framework.
 
 #### Helpers
 
@@ -173,6 +182,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 - ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
+- ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 #### Bundling
 
@@ -187,6 +197,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Official
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
+
+### Presets
+- [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of devtools in prod.
 
 #### Loaders
 
