@@ -1,11 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "toc": "markdown-toc -i --bullets=- README.md",
     "lint": "awesome-lint README.md"
   },
   "devDependencies": {
-    "awesome-lint": "^0.17.1",
-    "markdown-toc": "^1.2.0"
+    "awesome-lint": "^0.17.1"
   }
 }

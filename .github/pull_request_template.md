@@ -1,4 +1,6 @@
-### Checklist
+> Please make sure all the requirements are satisfied, otherwise the PR could be closed without further notice.
+
+## Checklist
 
 - [ ] Title as described.
 - [ ] Make sure you put things in the right category.
@@ -19,10 +21,21 @@
 - [ ] The project accepts contributions.
 - [ ] Not a commercial product.
 
+### Starter Templates
+
+<!-- Ignore if you are not contributing to Starter Templates -->
+
+- [ ] The starter template is working with **Vite 2.0 and onward**.
+- [ ] The documentation is in English.
+- [ ] The starter template most provide enough instructions / documentation about how to start up and what's is included.
+- [ ] A screenshot or a live demo should be included.
+- [ ] The repo should be at least 30 days old.
+- [ ] Should be differentiable from the existing starter templates. 
+
 ### Apps/Websites
 
 <!-- Ignore if you are not contributing to Apps/Websites -->
 
 - [ ] The website is available without errors and load in a reasonable amount of time.
-- [ ] The website is using Vite intensively.
+- [ ] The website must be Open Source and showing it's using Vite intensively.
 - [ ] The website is original and not too simple. For that reason, blogs and simple landing pages are rejected.
