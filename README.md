@@ -116,6 +116,10 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 - [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
+#### SSR
+
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but with a simpler design that works with any view framework.
+
 #### Helpers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
