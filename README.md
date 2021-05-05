@@ -136,6 +136,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser. 
 
 <hr>
 
