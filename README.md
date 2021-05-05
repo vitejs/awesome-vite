@@ -272,6 +272,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 
+### Craft CMS
+- [Craft Vite](https://nystudio107.com/plugins/vite) - Plugin for integration with Craft CMS
+- [Vite.js Next Generation Frontend Tooling + Craft CMS](https://nystudio107.com/blog/using-vite-js-next-generation-frontend-tooling-with-craft-cms) - How to article on Vite.js <-> Craft CMS integration
+
 ## Migrations
 
 ### Vue CLI
