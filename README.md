@@ -77,7 +77,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
-- [vite-concent-starter](https://github.com/tnfe/vite-concent-pro) - Starter template with React, Typescript, Concent, Antd.
 
 #### Svelte
 
