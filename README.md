@@ -273,6 +273,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 
+### Adobe Experience Manager
+
+- [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager 6.5.7+ and AEM SDK.
+
 ## Migrations
 
 ### Vue CLI
