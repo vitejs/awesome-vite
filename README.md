@@ -119,6 +119,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) in TypeScript.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 - [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+- [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template for vite app, like html-webpack-plugin for webpack.
 
 #### SSR
 
