@@ -139,6 +139,12 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 - [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser. 
 
+#### Testing
+
+- [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Vite plugin with mocha and puppeteer.
+- [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - A @web/test-runner plugin to test Vite-powered projects.
+
 <hr>
 
 ### Vue
