@@ -286,6 +286,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Vue CLI
 
 - [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+- [wp2vite](https://github.com/tnfe/wp2vite) - A front-end project automatic conversion tool, You can make your webpack project support vite.
 
 ## Projects Using Vite.js
 
