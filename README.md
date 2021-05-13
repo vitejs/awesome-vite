@@ -119,6 +119,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-ts-nameof](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof](https://github.com/dsherret/ts-nameof) in TypeScript.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 - [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+- [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template for vite app, like html-webpack-plugin for webpack.
 
 #### SSR
 
@@ -136,6 +137,13 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser. 
+
+#### Testing
+
+- [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Vite plugin with mocha and puppeteer.
+- [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - A @web/test-runner plugin to test Vite-powered projects.
 
 <hr>
 
@@ -213,6 +221,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Framework
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+- [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
 <hr>
 
@@ -285,6 +294,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [VitePress](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+- [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 
 ### Apps/Websites
 
