@@ -280,6 +280,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+- [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ## Migrations
 
