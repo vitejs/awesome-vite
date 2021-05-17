@@ -61,6 +61,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 - [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
+- [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - vite 2.x + Vue 3.x + Vuex 4.x + Vue-router 4.x + Typescript Quick Template.
 
 #### Vue 2
 
