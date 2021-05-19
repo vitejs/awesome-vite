@@ -81,6 +81,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 #### Svelte
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
+- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ## Plugins
 
@@ -171,6 +172,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
+#### SSR
+
+SSR frameworks are listed at [SSR - Frameworks](#frameworks).
+
 #### SSG
 
 - ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
@@ -212,6 +217,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - Plugin to compile Tailwind CSS with JSX and CSS-in-JS support.
 
 #### Framework
+
+> :warning: SSR frameworks are listed at [SSR - Frameworks](#frameworks).
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
@@ -284,10 +291,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Frameworks
 
 - [vitedge](https://github.com/frandiox/vitedge) ![react] ![vue3] - Edge-side rendering with fullstack utilities.
-
-### Boilerplates
-
-- [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) ![svelte] - Svelte with SSR support.
 
 <!--lint enable awesome-list-item-->
 
