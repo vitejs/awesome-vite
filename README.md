@@ -283,7 +283,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Libraries
 
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering. ![react] ![vue3] 
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3] 
 - [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 
 ### Frameworks
