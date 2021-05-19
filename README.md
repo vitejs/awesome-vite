@@ -281,9 +281,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-ssr](https://github.com/frandiox/vite-ssr) ![react] ![vue3] - Server-side rendering.
 - [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) ![react] ![vue3] ![vue2] ![svelte] - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin.
 
-### Frameworks & Boilerplates
+### Frameworks
 
 - [vitedge](https://github.com/frandiox/vitedge) ![react] ![vue3] - Edge-side rendering with fullstack utilities.
+
+### Boilerplates
+
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) ![svelte] - Svelte with SSR support.
 
 <!--lint enable awesome-list-item-->
