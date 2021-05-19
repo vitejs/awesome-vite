@@ -218,7 +218,7 @@ SSR frameworks are listed at [SSR - Frameworks](#frameworks).
 
 #### Framework
 
-> :warning: SSR frameworks are listed at [SSR - Frameworks](#frameworks).
+> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
