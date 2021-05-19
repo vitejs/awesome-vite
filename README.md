@@ -174,7 +174,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### SSR
 
-SSR frameworks are listed at [SSR - Frameworks](#frameworks).
+SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 #### SSG
 
