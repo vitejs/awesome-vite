@@ -153,6 +153,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
 
+> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
+
 <!--lint disable awesome-list-item-->
 
 #### Integrations
@@ -171,10 +173,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
-
-#### SSR
-
-SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 #### SSG
 
@@ -218,10 +216,10 @@ SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 #### Framework
 
-> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
-
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
+
+> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 <hr>
 
@@ -276,21 +274,21 @@ SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 ## SSR
 
-[react]: https://img.shields.io/badge/-React-61dafb
-[vue2]: https://img.shields.io/badge/-Vue%20v2-41b883
-[vue3]: https://img.shields.io/badge/-Vue%20v3-41b883
-[svelte]: https://img.shields.io/badge/-Svelte-ff3e00
+[react]: https://img.shields.io/badge/-React-4ab2cf
+[vue2]: https://img.shields.io/badge/-Vue%202-42b883
+[vue3]: https://img.shields.io/badge/-Vue%203-42b883
+[svelte]: https://img.shields.io/badge/-Svelte-db552a
 
 <!--lint disable awesome-list-item-->
 
 ### Libraries
 
-- [vite-ssr](https://github.com/frandiox/vite-ssr) ![react] ![vue3] - Server-side rendering.
-- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) ![react] ![vue3] ![vue2] ![svelte] - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin.
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering. ![react] ![vue3] 
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 
 ### Frameworks
 
-- [vitedge](https://github.com/frandiox/vitedge) ![react] ![vue3] - Edge-side rendering with fullstack utilities.
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3] 
 
 <!--lint enable awesome-list-item-->
 
