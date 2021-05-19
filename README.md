@@ -121,10 +121,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 - [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template for vite app, like html-webpack-plugin for webpack.
 
-#### SSR
-
-- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but with a simpler design that works with any view framework.
-
 #### Helpers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
@@ -176,11 +172,13 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
-#### SSR / SSG
+#### SSR
+
+SSR frameworks are listed at [SSR - Frameworks](#ssr).
+
+#### SSG
 
 - ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
-- ![v3] [vite-ssr](https://github.com/frandiox/vite-ssr) - Server-side rendering.
-- ![v3] [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities.
 
 #### Ecosystem
 
@@ -219,6 +217,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - Plugin to compile Tailwind CSS with JSX and CSS-in-JS support.
 
 #### Framework
+
+> 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
@@ -273,6 +273,26 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Community
 
 - Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+
+## SSR
+
+[react]: https://img.shields.io/badge/-React-61dafb
+[vue2]: https://img.shields.io/badge/-Vue%20v2-41b883
+[vue3]: https://img.shields.io/badge/-Vue%20v3-41b883
+[svelte]: https://img.shields.io/badge/-Svelte-ff3e00
+
+<!--lint disable awesome-list-item-->
+
+### Libraries
+
+- [vite-ssr](https://github.com/frandiox/vite-ssr) ![react] ![vue3] - Server-side rendering.
+- [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) ![react] ![vue3] ![vue2] ![svelte] - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin.
+
+### Frameworks
+
+- [vitedge](https://github.com/frandiox/vitedge) ![react] ![vue3] - Edge-side rendering with fullstack utilities.
+
+<!--lint enable awesome-list-item-->
 
 ## Integrations with Backends
 
