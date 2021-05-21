@@ -60,7 +60,6 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Starter template using Vue 3 in Vite and latest Electron with fluent VS Code debug and GitHub release process out-of-box.
 - [vite-components-playground](https://xxholly32.github.io/vite-components-playground/) - A common Vue 3 components playground.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Template for Electron apps using Vite for both back and front-end, with automatic releases and updates.
-- [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - vite 2.x + Vue 3.x + Vuex 4.x + Vue-router 4.x + Typescript Quick Template.
 
 #### React
 
