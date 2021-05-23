@@ -97,6 +97,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 - [vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 - [vite-plugin-svg-icons](https://github.com/anncwb/vite-plugin-svg-icons) - Fast creating SVG sprites.
+- [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
 
 #### Loaders
 
