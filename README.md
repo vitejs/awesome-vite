@@ -62,6 +62,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 - [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
+- [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 #### Vue 2
 
