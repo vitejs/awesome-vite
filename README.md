@@ -337,3 +337,5 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 - [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
+- [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+- [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
