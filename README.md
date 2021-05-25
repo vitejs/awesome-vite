@@ -141,7 +141,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
-- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser.
+- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect Vue components and jump to source code directly from browsers.
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
 
 #### Testing
@@ -212,7 +212,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
 
 ### Presets
-- [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of devtools in prod.
+
+- [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
 
 #### Loaders
 
@@ -274,12 +275,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@rollup/plugin-legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
 - [@rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
 - [@rollup/plugin-strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
-- [@rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin which loads virtual modules from memory.
+- [@rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
 - [@rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 
 #### Community
 
-- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
+- Check the [Awesome Rollup list](https://github.com/rollup/awesome) for community-maintained rollup plugins, and refer to the Vite docs section about [rollup plugin compatibility](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatiblity).
 
 ## SSR
 
@@ -311,14 +312,18 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Adobe Experience Manager
 
-- [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager 6.5.7+ and AEM SDK.
+- [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
+
+### Craft CMS
+
+- [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
 ## Migrations
 
 ### Vue CLI
 
 - [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
-- [wp2vite](https://github.com/tnfe/wp2vite) - A front-end project automatic conversion tool, You can make your webpack project support vite.
+- [wp2vite](https://github.com/tnfe/wp2vite) - A front-end project automatic conversion tool, make your Webpack projects support Vite.
 
 ## Projects Using Vite.js
 
