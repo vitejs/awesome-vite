@@ -68,7 +68,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template. 
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - base admin template using Vue2, TypeScript, Element UI. 
+- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI. 
 
 #### React
 
