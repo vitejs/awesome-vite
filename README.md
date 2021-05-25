@@ -61,6 +61,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 - [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
+- [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 #### Vue 2
@@ -78,6 +79,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
+- [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
+- [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 #### Svelte
 
@@ -122,6 +125,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 - [vite-plugin-html-config](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 - [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template for vite app, like html-webpack-plugin for webpack.
+- [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - Transform markdown module to vue component.
+- [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with @vue/cli.
 
 #### Helpers
 
@@ -135,7 +140,8 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin for Vite.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
-- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser. 
+- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect vue components and jump to source code directly from browser.
+- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
 
 #### Testing
 
@@ -300,6 +306,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+- [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+
+### Adobe Experience Manager
+
+- [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager 6.5.7+ and AEM SDK.
 
 ## Migrations
 
@@ -327,3 +338,5 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 - [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
+- [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+- [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
