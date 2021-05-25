@@ -312,6 +312,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager 6.5.7+ and AEM SDK.
 
+### Craft CMS
+- [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS
+
 ## Migrations
 
 ### Vue CLI
