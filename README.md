@@ -144,6 +144,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 - [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect Vue components and jump to source code directly from browsers.
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
+- [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 #### Testing
 
