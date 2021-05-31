@@ -84,6 +84,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+- [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - [Vite official React template](https://github.com/vitejs/vite/tree/main/packages/create-app/template-react) + ReScript.
 
 #### Svelte
 
