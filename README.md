@@ -113,6 +113,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+- [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 
 #### Bundling
 
@@ -133,6 +134,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - Transform markdown module to vue component.
 - [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with @vue/cli.
 - [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
+- [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
 - [vite-plugin-transform](https://github.com/Silksofthesoul/vite-plugin-transform) - Plugin resolve paths in cases where standard ways dont help, and replacement functionality.
 
 #### SSR
