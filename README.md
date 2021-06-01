@@ -113,6 +113,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+- [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 
 #### Bundling
 
