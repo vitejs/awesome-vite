@@ -133,6 +133,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - Transform markdown module to vue component.
 - [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with @vue/cli.
 - [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
+- [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
 
 #### Helpers
 
