@@ -106,6 +106,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 - [vite-plugin-svg-icons](https://github.com/anncwb/vite-plugin-svg-icons) - Fast creating SVG sprites.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
+- [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
 
 #### Loaders
 
