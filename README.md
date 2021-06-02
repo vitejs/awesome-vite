@@ -356,4 +356,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
-- [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React. You could check the [online demo](https://react-device-frameset.zheeeng.me/).
+- [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
