@@ -153,6 +153,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
 - [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 - [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
+- [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 
 #### Testing
 
