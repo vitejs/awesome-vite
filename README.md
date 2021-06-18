@@ -108,6 +108,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
 - [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
 - [vite-plugin-host](https://github.com/falstack/vite-plugin-host) - Allow you to use the custom domain for development.
+- [vite-plugin-eruda](https://github.com/wuxiuran/vite-plugin-eruda) - Help you automatically open debugging tools in the development environment
 
 #### Loaders
 
