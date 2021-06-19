@@ -157,6 +157,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+- [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
 
 #### Testing
 
