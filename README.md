@@ -65,6 +65,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+- [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - a out-of-the-box vue3-SSR starter.
 
 #### Vue 2
 
