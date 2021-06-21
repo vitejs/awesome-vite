@@ -44,6 +44,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 ## Get Started
 
 - [@vite/create-app](https://github.com/vitejs/vite/tree/main/packages/create-app) - Scaffolding Your First Vite Project.
+- [vvtt](https://github.com/initdc/vvtt) - Vite + vue3 + ts + tailwindcss generator (nuxt style).
 
 ### Templates
 
