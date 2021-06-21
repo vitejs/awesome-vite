@@ -65,13 +65,14 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+- [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
 - [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - a out-of-the-box vue3-SSR starter.
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template. 
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI. 
+- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
+- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
 
 #### React
 
@@ -86,6 +87,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - [Vite official React template](https://github.com/vitejs/vite/tree/main/packages/create-app/template-react) + ReScript.
+- [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
 
 #### Svelte
 
@@ -109,6 +111,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
 - [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
 - [vite-plugin-host](https://github.com/falstack/vite-plugin-host) - Allow you to use the custom domain for development.
+- [vite-plugin-eruda](https://github.com/wuxiuran/vite-plugin-eruda) - Help you automatically open debugging tools in the development environment.
 
 #### Loaders
 
@@ -158,6 +161,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+- [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
 
 #### Testing
 
@@ -308,12 +312,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Libraries
 
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3] 
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3]
 - [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 
 ### Frameworks
 
-- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3] 
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
 
 <!--lint enable awesome-list-item-->
 
@@ -363,3 +367,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+- [Death Star dashboard](https://github.com/chojnicki/deathstar) - Example of dashboard build with Vue 3, TypeScript, Tailwind, Docker.
