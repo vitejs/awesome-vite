@@ -65,12 +65,13 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+- [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template. 
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI. 
+- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
+- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
 
 #### React
 
@@ -308,12 +309,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Libraries
 
-- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3] 
+- [vite-ssr](https://github.com/frandiox/vite-ssr) - Simplified Server Side Rendering with an SPA-like developer experience. ![react] ![vue3]
 - [vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 
 ### Frameworks
 
-- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3] 
+- [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
 
 <!--lint enable awesome-list-item-->
 
