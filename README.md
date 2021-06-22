@@ -66,7 +66,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
 - [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
-- [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - a out-of-the-box vue3-SSR starter.
+- [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - Vue3-SSR, prefetch and sync state to client with one line of code.
 
 #### Vue 2
 
