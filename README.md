@@ -68,6 +68,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
 - [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - Vue3-SSR, prefetch and sync state to client with one line of code.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vue 3 + Vuetify 3 template to make next generation desktop apps with web technologies.
+- [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 
 #### Vue 2
 
@@ -143,6 +144,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with @vue/cli.
 - [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
 - [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
+- [vite-plugin-virtual-html-template](https://github.com/hex-ci/vite-plugin-virtual-html-template) - HTML template for vite app, support flexible virtual URL.
 
 #### Helpers
 
