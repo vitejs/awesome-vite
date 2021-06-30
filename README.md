@@ -69,6 +69,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - Vue3-SSR, prefetch and sync state to client with one line of code.
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vue 3 + Vuetify 3 template to make next generation desktop apps with web technologies.
+- [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 
 #### Vue 2
 
