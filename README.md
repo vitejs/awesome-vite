@@ -153,7 +153,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
-- [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
@@ -166,6 +165,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 - [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
+- [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 
 #### Testing
 
