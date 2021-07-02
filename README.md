@@ -134,6 +134,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-compression](https://github.com/anncwb/vite-plugin-compression) - Use gzip or brotli to compress resources.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+- [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 
 #### Transformers
 
@@ -221,10 +222,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v23] [vite-plugin-components](https://github.com/antfu/vite-plugin-components) - On-demand components auto-importing.
 - ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
-
-#### Bundling
-
-- ![v3] [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 
 <!--lint enable awesome-list-item-->
 
