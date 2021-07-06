@@ -150,6 +150,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
 - [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
 - [vite-plugin-virtual-html-template](https://github.com/hex-ci/vite-plugin-virtual-html-template) - HTML template for vite app, support flexible virtual URL.
+- [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - A Vite plugin that supports `require.context` by code transforming.
 
 #### Helpers
 
