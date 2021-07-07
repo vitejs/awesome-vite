@@ -19,8 +19,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </p>
 
 <!--lint ignore-->
-> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
+> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Table of Contents
 
@@ -136,6 +136,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
+- [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents
 
 #### Transformers
 
@@ -209,7 +210,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
-- ![v3] [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents
 
 #### SSG
 
