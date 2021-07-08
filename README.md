@@ -20,6 +20,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 <!--lint ignore-->
 
+> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Table of Contents
 
