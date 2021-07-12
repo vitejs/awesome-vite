@@ -93,6 +93,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - [Vite official React template](https://github.com/vitejs/vite/tree/main/packages/create-app/template-react) + ReScript.
 - [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
 - [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite2.x + React + React-router-dom + TypeScript Quick Template.
+- [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite2.x + React + TypeScript + Eslint + Preitter + Windicss + Visualizer Quick Template.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 
 #### Svelte
@@ -175,7 +176,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
 - [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
 - [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
-
+- [vite-plugin-dynamic-publicpath](https://github.com/jy0529/vite-plugin-dynamic-publicpath) - Use dynamic import handler to change runtime public base path, like webpack's `__webpack_public_path__`.
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
