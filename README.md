@@ -43,7 +43,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ## Get Started
 
-- [@vite/create-app](https://github.com/vitejs/vite/tree/main/packages/create-app) - Scaffolding Your First Vite Project.
+- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Templates
 
