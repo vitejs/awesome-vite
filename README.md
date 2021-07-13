@@ -71,7 +71,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vue 3 + Vuetify 3 template to make next generation desktop apps with web technologies.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 - [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
-
+- [Vitesome 💨 ⛵️](https://github.com/alvarosaburido/vitesome/blob/main/README.md) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
