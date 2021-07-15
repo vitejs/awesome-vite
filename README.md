@@ -96,6 +96,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite2.x + React + React-router-dom + TypeScript Quick Template.
 - [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite2.x + React + TypeScript + Eslint + Preitter + Windicss + Visualizer Quick Template.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
+- [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - ReactJS, TypeScript, Jest, Testing Library, Tailwindcss, Eslint and Prettier.
 
 #### Svelte
 
