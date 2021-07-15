@@ -54,7 +54,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
-- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform template using Vue 3 + TypeScript + Element-plus + Vant.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
@@ -73,6 +72,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 - [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
+- [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform template using Vue 3 + TypeScript + Element-plus + Vant.
 
 #### Vue 2
 
