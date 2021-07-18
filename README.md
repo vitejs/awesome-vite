@@ -180,6 +180,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 - [vite-plugin-dynamic-publicpath](https://github.com/jy0529/vite-plugin-dynamic-publicpath) - Use dynamic import handler to change runtime public base path, like webpack's `__webpack_public_path__`.
 - [vitawind](https://github.com/huibizhang/vitawind) - Install and Setting Tailwindcss automatically for Vite.
+- [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 #### Testing
 
