@@ -183,6 +183,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitawind](https://github.com/huibizhang/vitawind) - Install and Setting Tailwindcss automatically for Vite.
 - [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
 - [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+- [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 #### Testing
 
