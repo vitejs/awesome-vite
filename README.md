@@ -123,6 +123,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-eruda](https://github.com/wuxiuran/vite-plugin-eruda) - Help you automatically open debugging tools in the development environment.
 - [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
+- [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - Integration with Stimulus enabling HMR.
 
 #### Loaders
 
@@ -180,6 +181,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 - [vite-plugin-dynamic-publicpath](https://github.com/jy0529/vite-plugin-dynamic-publicpath) - Use dynamic import handler to change runtime public base path, like webpack's `__webpack_public_path__`.
 - [vitawind](https://github.com/huibizhang/vitawind) - Install and Setting Tailwindcss automatically for Vite.
+- [vite-plugin-restart](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+- [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 - [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 #### Testing
