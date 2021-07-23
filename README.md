@@ -91,7 +91,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
-- [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - [Vite official React template](https://github.com/vitejs/vite/tree/main/packages/create-app/template-react) + ReScript.
+- [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - Vite official [React template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react) + ReScript.
 - [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
 - [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite2.x + React + React-router-dom + TypeScript Quick Template.
 - [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite2.x + React + TypeScript + Eslint + Preitter + Windicss + Visualizer Quick Template.
