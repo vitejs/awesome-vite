@@ -72,6 +72,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 - [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
+- [vue3 vite nutui](https://github.com/jdf2e/nutui) -  Use Vue3, Typescript and Vite to develop mobile UI Component library.
 
 #### Vue 2
 
@@ -371,6 +372,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [VitePress](https://github.com/vuejs/vitepress) - Static Site Generator powered by Vite and Vue.
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+- [vue3 vite nutui](https://github.com/jdf2e/nutui) -  Use Vue3, Typescript and Vite to develop mobile UI Component library.
 
 ### Apps/Websites
 
@@ -388,3 +390,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Death Star dashboard](https://github.com/chojnicki/deathstar) - Example of dashboard build with Vue 3, TypeScript, Tailwind, Docker.
+- [vue3 vite nutui](https://github.com/jdf2e/nutui) -  Use Vue3, Typescript and Vite to develop mobile UI Component library.
