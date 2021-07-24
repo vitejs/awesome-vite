@@ -2,7 +2,10 @@ import fs from 'fs/promises'
 import pLimit from 'p-limit'
 import { Octokit } from '@octokit/core'
 
-let OUT_DATE = 1000 * 60 * 60 * 24 * 30 * 9 // 9 months
+// @antfu: as vite is relative young and active, we could assume plugins that have no activities
+// in last 6 months are outdated. In that case, we remove them from the list. In the future when
+// vite become a bit more mature, we could possibility extend the limit.
+let OUT_DATE = 1000 * 60 * 60 * 24 * 30 * 6 // 6 months
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
 
