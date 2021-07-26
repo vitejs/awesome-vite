@@ -159,7 +159,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
 - [vite-plugin-virtual-html-template](https://github.com/hex-ci/vite-plugin-virtual-html-template) - HTML template for vite app, support flexible virtual URL.
 - [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - A Vite plugin that supports `require.context` by code transforming.
-- [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings
+- [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
 
 #### Helpers
 
