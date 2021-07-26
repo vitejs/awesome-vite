@@ -56,7 +56,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
-- [vite-wind](https://github.com/boussadjra/vite-wind) - Boilerplate with Tailwind CSS, TypeScript, css-pro-layout, 9+ components and dark mode support.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
@@ -72,6 +71,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 - [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
+- [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+- [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 #### Vue 2
 
@@ -125,6 +126,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - Integration with Stimulus enabling HMR.
+- [@nabla/vite-plugin-eslint](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 
 #### Loaders
 
@@ -160,6 +162,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-virtual-html-template](https://github.com/hex-ci/vite-plugin-virtual-html-template) - HTML template for vite app, support flexible virtual URL.
 - [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - A Vite plugin that supports `require.context` by code transforming.
 - [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
+- [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support commonJS to esm in vite.
 
 #### Helpers
 
@@ -380,7 +383,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Tailwind Pre-Processor](https://github.com/xiaoluoboding/tailwind-pre-processor) - An implementation of Tailwind CSS using Less / Stylus / Sass / SCSS.
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
-- [TypGame](https://github.com/rupamkairi/TypGame) - Test your typing performance.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
 - [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
