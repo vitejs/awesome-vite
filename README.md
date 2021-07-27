@@ -348,15 +348,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ## Integrations with Backends
 
-### Ruby on Rails
-
-- [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
-- [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
-
-### Django
-
-- [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
-
 ### Adobe Experience Manager
 
 - [AEM Vite](https://github.com/aem-vite/aem-vite) - Integration for Adobe Experience Manager and AEM SDK.
@@ -364,6 +355,15 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Craft CMS
 
 - [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
+
+### Django
+
+- [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+
+### Ruby on Rails
+
+- [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
+- [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 
 ## Migrations
 
