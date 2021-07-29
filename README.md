@@ -186,6 +186,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
+- [vite-plugin-external](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Better to define externals in vite2. It not only work on our source code, but also work on pre-bundling dependencies well.
 - [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
 - [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 - [vite-plugin-dynamic-publicpath](https://github.com/jy0529/vite-plugin-dynamic-publicpath) - Use dynamic import handler to change runtime public base path, like webpack's `__webpack_public_path__`.
