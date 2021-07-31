@@ -103,6 +103,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 - [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - ReactJS, TypeScript, Jest, Testing Library, Tailwindcss, Eslint and Prettier.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+- [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 
 #### Svelte
 
