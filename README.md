@@ -348,6 +348,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Frameworks
 
 - [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
+- [vitext](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
 
 <!--lint enable awesome-list-item-->
 
