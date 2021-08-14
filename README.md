@@ -400,7 +400,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
-- [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
+- [macOS in Svelte](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
