@@ -143,6 +143,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 - [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 - [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - A vite plugin for the Monaco Editor.
+- [vite-plugin-csv](https://github.com/SirwanAfifi/vite-plugin-csv) Import CSV files in your vite projects
 
 #### Bundling
 
@@ -237,7 +238,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-icons](https://github.com/antfu/vite-plugin-icons) - Access thousands of icons as Vue components.
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
-- [vite-plugin-csv](https://github.com/SirwanAfifi/vite-plugin-csv) Import CSV files in your vite projects
 
 #### SSG
 
