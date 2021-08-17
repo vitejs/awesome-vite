@@ -143,7 +143,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 - [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 - [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - A vite plugin for the Monaco Editor.
-- [vite-plugin-csv](https://github.com/SirwanAfifi/vite-plugin-csv) Import CSV files in your vite projects
+- [vite-plugin-csv](https://github.com/SirwanAfifi/vite-plugin-csv) - Import CSV files in your vite projects
 
 #### Bundling
 
