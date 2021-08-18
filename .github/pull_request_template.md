@@ -12,13 +12,13 @@
 
 <!-- Ignore if you are not contributing to Plugins/Tools -->
 
-- [ ] The plugin/tool is working with **Vite 2.0 and onward**.
+- [ ] The plugin/tool is working with **Vite 2.x and onward**.
 - [ ] The project is Open Source.
 - [ ] The project follows the [Vite Plugins Conventions](https://vitejs.dev/guide/api-plugin.html#conventions).
 - [ ] The plugin uses Vite specific hooks and can't be implemented as a [Compatible Rollup Plugin](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatibility).
 - [ ] The repo should be at least 30 days old.
 - [ ] The documentation is in English.
-- [ ] The project is active and maintained.
+- [ ] The project is active and maintained (projects that inactive for longer that 6 months will be removed without further notice).
 - [ ] The project accepts contributions.
 - [ ] Not a commercial product.
 
@@ -26,7 +26,7 @@
 
 <!-- Ignore if you are not contributing to Starter Templates -->
 
-- [ ] The starter template is working with **Vite 2.0 and onward**.
+- [ ] The starter template is working with **Vite 2.x and onward**.
 - [ ] The documentation is in English.
 - [ ] The starter template most provide enough instructions / documentation about how to start up and what's is included.
 - [ ] A screenshot or a live demo should be included.
