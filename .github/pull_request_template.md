@@ -15,6 +15,7 @@
 - [ ] The plugin/tool is working with **Vite 2.0 and onward**.
 - [ ] The project is Open Source.
 - [ ] The project follows the [Vite Plugins Conventions](https://vitejs.dev/guide/api-plugin.html#conventions).
+- [ ] The plugin uses Vite specific hooks and can't be implemented as a [Compatible Rollup Plugin](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatibility).
 - [ ] The repo should be at least 30 days old.
 - [ ] The documentation is in English.
 - [ ] The project is active and maintained.
