@@ -19,8 +19,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </p>
 
 <!--lint ignore-->
-> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
+> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Table of Contents
 
@@ -73,16 +73,16 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
-- [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment. 
+- [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
-- [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2),  UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
+- [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
 - [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
-- [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - A todo action template based on (Vue2 + ts + Vue-Router3 + Pinia1 + CompositionApi),  UI components contains (ElementUI + ViewUI + Vuesax4).
+- [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - A todo action template based on (Vue2 + ts + Vue-Router3 + Pinia1 + CompositionApi), UI components contains (ElementUI + ViewUI + Vuesax4).
 
 #### React
 
@@ -171,6 +171,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - A Vite plugin that supports `require.context` by code transforming.
 - [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support commonJS to esm in vite.
+- [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible with no '.vue' suffix in vite (should be useful for those who transfer webpack to vite)
 
 #### Helpers
 
