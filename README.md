@@ -205,7 +205,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Vite plugin with mocha and puppeteer.
 - [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - A @web/test-runner plugin to test Vite-powered projects.
-- [@cypress/vite-dev-server](https://docs.cypress.io/guides/component-testing/framework-configuration#Vite-   Based-Projects-Vue-React) (Vue or React) - Component testing w/ Cypress. Develop and test your components in  the browser.
+- [@cypress/vite-dev-server](https://docs.cypress.io/guides/component-testing/framework-configuration#Vite-Based-Projects-Vue-React) (Vue or React) - Component testing w/ Cypress. Develop and test your components in  the browser.
 
 <hr>
 
