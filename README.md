@@ -79,6 +79,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Vue 2
 
+- [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - TypeScript, Vue 2, Vue Router, Composition API, VueUse, File based routing, Auto import vuex store modules, Global components auto import and lint-staged commitlint.
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
 - [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
