@@ -200,6 +200,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 - [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 - [vite-plugin-external](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Better to define externals in vite2. It not only work on our source code, but also work on pre-bundling dependencies well.
+- [vite-plugin-vars-modifier](https://github.com/fanhaoyuan/vite-plugin-vars-modifier) - Convert variables from css preprocessor file.
 
 #### Testing
 
