@@ -302,7 +302,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin enables you to compile an Elm module
+- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 <hr>
 
