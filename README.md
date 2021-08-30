@@ -52,7 +52,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
-- [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
@@ -77,6 +76,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
+- [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
 
 #### Vue 2
 
