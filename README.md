@@ -112,6 +112,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
+#### Elm
+- [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
@@ -292,6 +295,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+<hr>
+
+### Elm
+
+#### Integrations
+
+- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin enables you to compile an Elm module
 
 <hr>
 
