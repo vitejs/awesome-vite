@@ -76,6 +76,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
+- [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
 - [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
 
 #### Vue 2
@@ -113,6 +114,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
+#### Elm
+- [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
@@ -136,6 +140,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - Integration with Stimulus enabling HMR.
 - [@nabla/vite-plugin-eslint](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 - [vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - Allows for the usage of [Relay](https://relay.dev).
+- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 #### Loaders
 
@@ -293,6 +298,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+<hr>
+
+### Elm
+
+#### Integrations
+
+- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 <hr>
 
