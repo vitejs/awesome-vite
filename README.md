@@ -179,6 +179,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support commonJS to esm in vite.
 - [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible with no '.vue' suffix in vite (should be useful for those who transfer webpack to vite)
+- [vite-plugin-content](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 
 #### Helpers
 
