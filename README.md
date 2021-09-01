@@ -108,6 +108,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 - [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 - [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, Typescript, Chakra UI, Jest, ESLint, Prettier, Husky.
+- [react-ts-vite-template](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 #### Svelte
 
