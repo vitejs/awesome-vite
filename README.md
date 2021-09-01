@@ -19,8 +19,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 </p>
 
 <!--lint ignore-->
-> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
+> **This awesome list is for Vite 2.x and onward. [Vite 1.x's list](./README.legacy.md) is archived.**
 
 ## Table of Contents
 
@@ -73,17 +73,21 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
-- [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment. 
+- [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
-- [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2),  UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
+- [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
+- [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
+- [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
 - [vue3 vite nutui](https://github.com/jdf2e/nutui) -  Use Vue3, Typescript and Vite to develop mobile UI Component library.
+
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
 - [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
-- [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - A todo action template based on (Vue2 + ts + Vue-Router3 + Pinia1 + CompositionApi),  UI components contains (ElementUI + ViewUI + Vuesax4).
+- [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - A todo action template based on (Vue2 + ts + Vue-Router3 + Pinia1 + CompositionApi), UI components contains (ElementUI + ViewUI + Vuesax4).
+- [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - TypeScript, Vue 2, Vue Router, Composition API, VueUse, File based routing, Auto import vuex store modules, Global components auto import and lint-staged commitlint.
 
 #### React
 
@@ -104,11 +108,17 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 - [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - ReactJS, TypeScript, Jest, Testing Library, Tailwindcss, Eslint and Prettier.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
+- [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
+- [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, Typescript, Chakra UI, Jest, ESLint, Prettier, Husky.
+- [react-ts-vite-template](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 #### Svelte
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+
+#### Elm
+- [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
 
 ## Plugins
 
@@ -132,6 +142,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - Integration with Stimulus enabling HMR.
 - [@nabla/vite-plugin-eslint](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
+- [vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - Allows for the usage of [Relay](https://relay.dev).
+- [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 #### Loaders
 
@@ -140,6 +152,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 - [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
+- [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - A vite plugin for the Monaco Editor.
 
 #### Bundling
 
@@ -168,6 +181,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - A Vite plugin that supports `require.context` by code transforming.
 - [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support commonJS to esm in vite.
+- [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible with no '.vue' suffix in vite (should be useful for those who transfer webpack to vite)
+- [vite-plugin-content](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 
 #### Helpers
 
@@ -195,6 +210,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 - [vite-plugin-tips](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 - [vite-plugin-external](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-external) - Better to define externals in vite2. It not only work on our source code, but also work on pre-bundling dependencies well.
+- [vite-plugin-vars-modifier](https://github.com/fanhaoyuan/vite-plugin-vars-modifier) - Convert variables from css preprocessor file.
 
 #### Testing
 
@@ -259,7 +275,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
 
-### Presets
+#### Presets
 
 - [vite-preset-react](https://github.com/puruvj/vite-preset-react) - All in one preset for your React app - HMR, Automatic React inject, removal of DevTools in prod.
 
@@ -286,6 +302,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+
+<hr>
+
+### Elm
+
+#### Integrations
+
+- [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 <hr>
 
@@ -347,6 +371,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Frameworks
 
 - [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
+- [vitext](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
+- [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit ![react]
 
 <!--lint enable awesome-list-item-->
 
@@ -369,12 +395,17 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 
+### Laravel
+
+- [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+
 ## Migrations
 
 ### Vue CLI
 
 - [vue-cli-plugin-vite](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 - [wp2vite](https://github.com/tnfe/wp2vite) - A front-end project automatic conversion tool, make your Webpack projects support Vite.
+- [webpack-to-vite](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## Projects Using Vite.js
 
@@ -394,7 +425,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
-- [macOS Web](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web.
+- [macOS in Svelte](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
