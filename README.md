@@ -428,3 +428,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Death Star dashboard](https://github.com/chojnicki/deathstar) - Example of dashboard build with Vue 3, TypeScript, Tailwind, Docker.
+- [Light Tab Page](https://github.com/Devifish/light-tab-page) - Lightweight Browser new tab extension, using Vue 3 + TypeScript + Composition API.
