@@ -116,6 +116,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+- [svelte-vite-starter](https://github.com/baileyherbert/svelte-vite-starter) - Next greate template for Svelte, TypeScript, SCSS, Babel, and HMR. 
 
 #### Elm
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications using Vite.
