@@ -79,8 +79,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
 - [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
 - [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
-- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) -  Vue3 + Vite + Electron with esbuild, so fast! ⚡
-- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) -  Vue3 + Vite + Electron + Nestjs with esbuild, crazy fast! ⚡
+- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) -  Vue3 + Vite + Electron with esbuild, so fast!
+- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) -  Vue3 + Vite + Electron + Nestjs with esbuild, crazy fast!
 
 #### Vue 2
 
