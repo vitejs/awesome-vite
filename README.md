@@ -147,6 +147,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@nabla/vite-plugin-eslint](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 - [vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - Allows for the usage of [Relay](https://relay.dev).
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
 
 #### Loaders
 
