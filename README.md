@@ -150,6 +150,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@nabla/vite-plugin-eslint](https://github.com/nabla/vite-plugin-eslint) - Runs ESLint asynchronously in a worker to keep HMR fast.
 - [vite-plugin-relay](https://github.com/oscartbeaumont/vite-plugin-relay) - Allows for the usage of [Relay](https://relay.dev).
 - [vite-plugin-tauri](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
+- [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack), the simple way.
 
 #### Loaders
 
@@ -189,6 +191,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support commonJS to esm in vite.
 - [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible with no '.vue' suffix in vite (should be useful for those who transfer webpack to vite)
 - [vite-plugin-content](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
+- [vite-plugin-require](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
+- [vite-plugin-css-modules](https://github.com/wangzongming/vite-plugin-css-modules) - vite projects to support can use css modules, Not just `.module.xxx` .
 
 #### Helpers
 
