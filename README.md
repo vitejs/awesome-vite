@@ -79,8 +79,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - A todo action template based on (Vue3 + ts + Vue-Router4 + Pinia2), UI components contains (Ant-Design-Vue + ElementPlus + NaiveUI).
 - [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
 - [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) -  Vite, Vue 3, and Tsx.
-- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) -  Vue3 + Vite + Electron with esbuild, so fast!
-- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) -  Vue3 + Vite + Electron + Nestjs with esbuild, crazy fast!
+- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) -  Vue3 + Vite + Electron with esbuild, so fast! ⚡
+- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) -  Vue3 + Vite + Electron + Nestjs with esbuild, crazy fast! ⚡
+- [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI, Cool!
 
 #### Vue 2
 
@@ -113,6 +114,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, Typescript, Chakra UI, Jest, ESLint, Prettier, Husky.
 - [react-ts-vite-template](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 - [vite-reactts-tailwind-rtk-eslint](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, Typescript, Tailwindcss, Redux Toolkit, eslint.
+- [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, Typescript, Jest, ESLint, Prettier, Husky, TailwindCSS 2, PostCSS, pnpm.
+- [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, TailwindCSS 2 JIT inside.
 
 #### Svelte
 
