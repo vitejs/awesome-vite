@@ -116,7 +116,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-tailwind-rtk-eslint](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, Typescript, Tailwindcss, Redux Toolkit, eslint.
 - [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, Typescript, Jest, ESLint, Prettier, Husky, TailwindCSS 2, PostCSS, pnpm.
 - [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, TailwindCSS 2 JIT inside.
-
+- [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5 (now officially called MUI), TypeScript, Dark mode toggle.
 #### Svelte
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, TailwindCSS, TypeScript.
