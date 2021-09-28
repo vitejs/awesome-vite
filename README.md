@@ -285,7 +285,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Official
 
-- [@vitejs/plugin-react-refresh](https://github.com/vitejs/vite/tree/main/packages/plugin-react-refresh) - Official React Refresh support.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
 
 #### Presets
 
