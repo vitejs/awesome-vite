@@ -195,6 +195,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-require](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
 - [vite-plugin-css-modules](https://github.com/wangzongming/vite-plugin-css-modules) - vite projects to support can use css modules, Not just `.module.xxx` .
 - [vite-plugin-macro](https://github.com/viteland/vite-plugin-macro) - Brings macro capabilities to Vite based projects.
+- [vite-plugin-global-style](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - A plugin that helps you deal with global styles, including `CSS`, `SASS`, `LESS` and `Stylus`.
 
 #### Helpers
 
