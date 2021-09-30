@@ -72,6 +72,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, Typescript and Vant to develop mobile applications.
 - [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + Typescript + WindiCSS + Vue Router 4, i18n and Iconify.
+- [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with tailwindCSS
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 - [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
