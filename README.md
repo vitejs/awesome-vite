@@ -82,7 +82,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 - [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
-- [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with tailwindCSS
+- [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with tailwindCSS.
 
 #### Vue 2
 
