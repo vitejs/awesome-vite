@@ -121,6 +121,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5 (now officially called MUI), TypeScript, Dark mode toggle.
 - [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite 2.xx + react-router-dom + react-icons + Prop-Types + Tailwind CSS, JIT enabled, dark mode enabled for media; absolute path, eslint, prettier and .vscode settings configured.
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS(with daisyUI). And already set up Firebase(v9), Prettier and ESLint. For improve building your faster prototyping.
+- [vite-react-cil](https://github.com/lgf196/vite-react-cil) - A react scaffold built with vite, supporting eslint, jest, svg, etc.
 
 #### Svelte
 
