@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@octokit/core": "^3.5.1",
-    "awesome-lint": "^0.17.1",
-    "p-limit": "^3.1.0"
+    "awesome-lint": "^0.18.0",
+    "p-limit": "^4.0.0"
   }
 }

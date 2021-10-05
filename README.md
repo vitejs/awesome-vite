@@ -1,4 +1,4 @@
-<!--lint disable awesome-heading awesome-github awesome-toc double-link-->
+<!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
 <p align="center">
   <br>
@@ -202,7 +202,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
 - [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
-- [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Headless testing your component.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
@@ -259,7 +258,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- ![v23] [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 - ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
