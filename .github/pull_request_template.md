@@ -6,6 +6,7 @@
 - [ ] Make sure you put things in the right category.
 - [ ] The description of your item should be a sentence with less than 24 words.
 - [ ] Omit unnecessary words already provided in the context (e.g. `for Vite`, `a Vite plugin`).
+- [ ] Use proper case for terms (e.g. `GitHub`, `TypeScript`, `CommonJS`, etc.)
 - [ ] Always add your items to the end of a list.
 
 ### Plugins/Tools
