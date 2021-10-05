@@ -5,8 +5,11 @@
 - [ ] Title as described.
 - [ ] Make sure you put things in the right category.
 - [ ] The description of your item should be a sentence with less than 24 words.
+- [ ] Avoid using links and parentheses in description. 
 - [ ] Omit unnecessary words already provided in the context (e.g. `for Vite`, `a Vite plugin`).
-- [ ] Use proper case for terms (e.g. `GitHub`, `TypeScript`, `CommonJS`, etc.)
+- [ ] Use proper case for terms (e.g. `GitHub`, `TypeScript`, `ESLint`, etc.)
+- [ ] When mentioning tools, omit versions whenever possible (e.g. use `TypeScript` instead of `TypeScript 4.x`, but keep `Vue 2` and `Vue 3` as they're incompatible).
+- [ ] When mentioning package names, use quotes whenever possible.
 - [ ] Always add your items to the end of a list.
 
 ### Plugins/Tools
