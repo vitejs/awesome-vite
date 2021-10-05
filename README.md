@@ -58,7 +58,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
 - [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
-- [d2-advance](https://github.com/d2-projects/d2-advance) - Boilerplate with Tailwind CSS, TypeScript. Advanced, colorful front-end integration practice.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 - [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
@@ -88,7 +87,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [vite-vue2-starter](https://github.com/matt-auckland/vite-vue2-starter) - Barebones Vue 2 starter, similar to Vue-Cli's base template.
 - [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
 - [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - A todo action template based on (Vue2 + ts + Vue-Router3 + Pinia1 + CompositionApi), UI components contains (ElementUI + ViewUI + Vuesax4).
 - [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - TypeScript, Vue 2, Vue Router, Composition API, VueUse, File based routing, Auto import vuex store modules, Global components auto import and lint-staged commitlint.
@@ -96,11 +94,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, TailwindCSS, TypeScript and Electron.
-- [vite-reactts-chakra-starter](https://github.com/Dieman89/vite-reactts-chakra-starter) - React, Typescript, Chakra, Cypress.
-- [electron-vite-react](https://github.com/twstyled/electron-vite-react) - Electron, TypeScript and Tailwind CSS with [twstyled](https://github.com/twstyled/twstyled).
 - [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, Typescript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React Typescript, TailwindCSS, SPA + PWA, Cypress and CI.
-- [vite-react-tailwind-rtk](https://github.com/jamosaur/vite-react-tailwind-rtk) - React, Tailwind, Redux Toolkit.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, Typescript, Antd.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
@@ -139,7 +134,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Integrations
 
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
-- [vite-eslint](https://github.com/ehutch79/vite-eslint) - Allow ESLint to work with bundling and dev server.
 - [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 - [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
@@ -164,12 +158,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 - [vite-plugin-svg-icons](https://github.com/anncwb/vite-plugin-svg-icons) - Fast creating SVG sprites.
 - [vite-plugin-rsw](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-- [vite-plugin-fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 - [vite-plugin-virtual-plain-text](https://github.com/zheeeng/vite-plugin-virtual-plain-text) - A Vite plugin loads file as plain text from the virtual assets workspace.
 - [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - A vite plugin for the Monaco Editor.
-- [vite-plugin-purge-icons](https://github.com/antfu/purge-icons/tree/main/packages/vite-plugin-purge-icons) - Bundle icons on demand by PurgeIcons.
 
 #### Bundling
 
@@ -310,7 +302,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Transformers
 
-- [vite-plugin-twstyled](https://github.com/twstyled/twstyled/tree/main/packages/vite-plugin-twstyled) - Plugin to compile Tailwind CSS with JSX and CSS-in-JS support.
 
 #### Framework
 
@@ -444,7 +435,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
-- [Tailwind Pre-Processor](https://github.com/xiaoluoboding/tailwind-pre-processor) - An implementation of Tailwind CSS using Less / Stylus / Sass / SCSS.
 - [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 - [Layoutit Grid](https://github.com/Leniolabs/layoutit-grid) - Interactive CSS Grid layout generator.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
