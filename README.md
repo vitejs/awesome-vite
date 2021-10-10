@@ -150,7 +150,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack), the simple way.
 - [vite-plugin-comlink](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
-
 #### Loaders
 
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
@@ -222,6 +221,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vars-modifier](https://github.com/fanhaoyuan/vite-plugin-vars-modifier) - Convert variables from css preprocessor file.
 - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
 - [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+- [vite-plugin-proxy-middleware](https://github.com/williamyorkl/vite-plugin-proxy-middleware) - A Plugin allows you to turn on `proxy` and `h2` options at the same time.
 
 #### Testing
 
@@ -242,6 +242,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ![v2] for Vue 2 only, ![v3] for Vue 3 only, and ![v23] for plugins that compatible with both versions.
 
 <!--lint ignore double-link-->
+
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 <!--lint disable awesome-list-item-->
@@ -298,13 +299,13 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Transformers
 
-
 #### Framework
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
 <!--lint ignore double-link-->
+
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
 
 <hr>
