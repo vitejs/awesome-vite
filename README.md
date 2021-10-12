@@ -114,6 +114,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5, TypeScript, Dark mode toggle.
 - [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite + `react-router-dom` + `react-icons` + Prop-Types + Tailwind CSS with JIT.
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
+- [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
+- [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
 
 #### Svelte
 
