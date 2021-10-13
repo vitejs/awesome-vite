@@ -81,6 +81,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 - [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 - [vitespa](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+- [Fantastic-admin](https://github.com/hooray/fantastic-admin) - An out-of-the-box backend framework, use Vue3 + Vite + Vuex + Vue-router + ElementPlus.
 
 #### Vue 2
 
