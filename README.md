@@ -116,6 +116,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 - [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
 - [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
+- [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - Vite + React + Typescript + pnpm + Jest + React Testing Library(incl. plugins) + ESLint(incl. plugins) + Prettier + TailwindCSS + Git Hooks (lint-staged + husky) + Pre Commit (eslint, prettier & jest) + Enforce Conventional commits (via commitlint)
 
 #### Svelte
 
