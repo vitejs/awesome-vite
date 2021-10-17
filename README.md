@@ -116,7 +116,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 - [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
 - [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
-- [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - Vite + React + Typescript + pnpm + Jest + React Testing Library with plugins + ESLint with plugins + Prettier + TailwindCSS + Runs eslint, prettier & tests on pre-commit + Enforces Conventional commits via commitlint
+- [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React-TS + Jest & Testing Library + ESLint & Prettier + TailwindCSS + Git Pre-Commit Hooks + Conventional Commits
 
 #### Svelte
 
@@ -259,7 +259,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based r/oute generator.
 
 #### Loaders
 
