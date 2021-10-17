@@ -259,7 +259,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based r/oute generator.
+- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
