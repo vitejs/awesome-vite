@@ -117,6 +117,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
 - [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
 - [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
+- [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
 
 #### Svelte
 
