@@ -81,6 +81,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 - [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 - [vitespa](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
+- [vite-vue-starter-template](https://github.com/Xwudao/vite-vue-starter) - Vite + Vue3 + Pinia2 + Vue-router + TS + Iconify + Element-Plus + Tailwindcss and etc...
 
 #### Vue 2
 
@@ -119,6 +120,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 - [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
 - [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+- [vite-react-starter-template](https://github.com/Xwudao/react-starter-template) - vite + react17 + react-router + redux/toolkit + ts + react-icons + mui + tailwindcss and etc...
 
 #### Svelte
 
@@ -258,34 +260,34 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-- ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
-- ![v2] [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+- ![v3][@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v2][vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
+- ![v2][unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 #### Routing
 
-- ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
+- ![v23][vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 
 #### Loaders
 
-- ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
-- ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
+- ![v23][vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- ![v3][vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
+- ![v3][vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 
 #### SSG
 
-- ![v3] [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
+- ![v3][vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation.
 
 #### Ecosystem
 
-- ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
-- ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+- ![v3][vite-plugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
+- ![v3][vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 
 #### Helpers
 
-- ![v23] [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
-- ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
-- ![v2] [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
+- ![v23][unplugin-vue-components](https://github.com/antfu/unplugin-vue-components) - On-demand components auto-importing.
+- ![v3][vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+- ![v2][vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 
 <!--lint enable awesome-list-item-->
 
