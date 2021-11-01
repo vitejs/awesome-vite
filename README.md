@@ -125,6 +125,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 - [svelte-vite-starter](https://github.com/baileyherbert/svelte-vite-starter) - Next template for Svelte, TypeScript, SCSS, Babel, and HMR.
+- [svelte kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 #### Elm
 
