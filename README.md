@@ -202,6 +202,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-global-style](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
 - [vite-plugin-shared-modules](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node_modules in monorepos.
 - [vite-plugin-nunjucks](https://github.com/Jax-p/vite-plugin-nunjucks) - Nunjucks templating engine.
+- [vite-plugin-require-transform](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
 #### Helpers
 
