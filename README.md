@@ -119,6 +119,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 - [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
 - [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+- [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Super-fast Vite + React + Electron template.
 
 #### Svelte
 
