@@ -134,8 +134,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Mithril
 
-- [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Vite starter template to scaffold a new Mithril project.
-- [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Vite starter template to scaffold a new Mithril with TypeScript project.
+- [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
+- [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
 
 ## Plugins
 
