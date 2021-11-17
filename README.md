@@ -132,6 +132,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
+#### Mithril
+
+- [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
+- [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
