@@ -101,7 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 - [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
 - [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite + React + React-router-dom + TypeScript Quick Template.
-- [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite + React + TypeScript + ESLint + Prettier + Windi CSS + Visualizer Quick Template.
+- [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite + React + TypeScript + ESLint + Prettier.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 - [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React, TypeScript, Jest, Testing Library, Tailwind CSS, ESLint and Prettier.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
