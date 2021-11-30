@@ -53,7 +53,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Vue 3
 
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
-- [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 + Vite template: Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 - [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
@@ -87,6 +86,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 - [vitespa](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 - [vue-tail-fire](https://github.com/sushil-kamble/vue-tail-fire) - Vue 3 + Vite + Firebase 9 + Tailwind CSS.
+- [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 template: Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
 
 #### Vue 2
 
