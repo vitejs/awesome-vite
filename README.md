@@ -344,7 +344,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte support for Vite.
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 <hr>
 
