@@ -149,6 +149,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Integrations
 
+- [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 - [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
@@ -277,6 +278,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 - ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 - ![v2] [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
@@ -335,6 +337,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 <!--lint ignore double-link-->
 
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
+
+<hr>
+
+### Svelte
+
+#### Integrations
+
+- [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 <hr>
 
