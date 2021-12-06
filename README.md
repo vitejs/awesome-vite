@@ -126,7 +126,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
 - [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
 - [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Vite + React + Electron template.
-- [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - A vite template which adds vendor splitting to vite to help in code-splitting. More details in README.
+- [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting to help in Code-Splitting. More details in README.
 
 #### Svelte
 
