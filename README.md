@@ -94,6 +94,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
 - [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
 - [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - Vue2 TypeScript starter template using composition-api.
+- [vite-vue2-mpa-template](https://github.com/selene-y/vite-vue2-mpa-template) - A multi-page application template using Vue2.
 
 #### React
 
