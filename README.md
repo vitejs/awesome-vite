@@ -128,6 +128,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
 - [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Vite + React + Electron template.
 - [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting.
+- [vite-react-stitches-radix](https://github.com/xixixao/vite-react-stitches-radix) - React, ESLint, Stitches, Radix.
 
 #### Svelte
 
