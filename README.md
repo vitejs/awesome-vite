@@ -440,6 +440,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
+### Docker
+
+- [Vite.js Docker Dev](https://github.com/nystudio107/vitejs-docker-dev) - Local development environment for developing vite.js via Docker container
+
 ### Django
 
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
