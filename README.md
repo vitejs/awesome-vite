@@ -442,7 +442,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Docker
 
-- [Vite.js Docker Dev](https://github.com/nystudio107/vitejs-docker-dev) - Local development environment for developing vite.js via Docker container
+- [Vite.js Docker Dev](https://github.com/nystudio107/vitejs-docker-dev) - Local development environment for developing vite.js via Docker container.
 
 ### Django
 
