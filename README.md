@@ -224,6 +224,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-nunjucks](https://github.com/Jax-p/vite-plugin-nunjucks) - Nunjucks templating engine.
 - [vite-plugin-require-transform](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 - [vite-plugin-twig](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
+- [vite-plugin-stache](https://github.com/pYr0x/vite-plugin-stache) - CanJS's template engine. Transforms `stache` files and template strings.
 
 #### Helpers
 
