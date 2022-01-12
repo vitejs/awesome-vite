@@ -87,6 +87,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitespa](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 - [vue-tail-fire](https://github.com/sushil-kamble/vue-tail-fire) - Vue 3 + Vite + Firebase 9 + Tailwind CSS.
 - [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 + Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
+- [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 
 #### Vue 2
 
@@ -222,6 +223,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-shared-modules](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node_modules in monorepos.
 - [vite-plugin-nunjucks](https://github.com/Jax-p/vite-plugin-nunjucks) - Nunjucks templating engine.
 - [vite-plugin-require-transform](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+- [vite-plugin-twig](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
 
 #### Helpers
 
@@ -252,6 +254,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [unplugin-auto-import](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
 - [vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
 - [vite-plugin-proxy-middleware](https://github.com/williamyorkl/vite-plugin-proxy-middleware) - A Plugin allows you to turn on `proxy` and `h2` options at the same time.
+- [@zougt/vite-plugin-theme-preprocessor](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
 #### Testing
