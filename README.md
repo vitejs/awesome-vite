@@ -483,6 +483,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 - [îles](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+- [Astro](https://github.com/withastro/astro) - modern static site builder built with Vite
 
 ### Apps/Websites
 
