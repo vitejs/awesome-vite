@@ -176,7 +176,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 - [vite-plugin-simple-gql](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 - [vite-plugin-ali-oss](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
-- [vite-plugin-babel-dev](https://github.com/owlsdepartment/vite-plugin-babel-dev) - use Babel during dev server to support f.ex. decorators or class fields in pure JS/JSX files
+- [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 #### Loaders
 
@@ -260,7 +260,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-proxy-middleware](https://github.com/williamyorkl/vite-plugin-proxy-middleware) - A Plugin allows you to turn on `proxy` and `h2` options at the same time.
 - [@zougt/vite-plugin-theme-preprocessor](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
-- [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - generates `manifest.dev.json` during dev server, for backend integration with any language/framework
+- [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
 #### Testing
 
