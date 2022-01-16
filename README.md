@@ -190,7 +190,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-svg-path-hot](https://github.com/williamyorkl/vite-plugin-svg-path-hot) - Dynamic Created Svg Folder And Hot update.
 - [vite-plugin-raw](https://github.com/xingw-z/vite-plugin-raw) - Transform any type file to string.
 
-
 #### Bundling
 
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
@@ -483,7 +482,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 - [îles](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
-- [Astro](https://github.com/withastro/astro) - modern static site builder
+- [Astro](https://github.com/withastro/astro) - modern static site builder.
 
 ### Apps/Websites
 
