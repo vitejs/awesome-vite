@@ -88,6 +88,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-tail-fire](https://github.com/sushil-kamble/vue-tail-fire) - Vue 3 + Vite + Firebase 9 + Tailwind CSS.
 - [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 + Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
+- [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 
 #### Vue 2
 
