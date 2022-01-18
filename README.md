@@ -89,6 +89,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 + Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
+- [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / Eslint airbnb / Stylelint / Github pages actions / Netlify.
 
 #### Vue 2
 
