@@ -88,6 +88,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-tail-fire](https://github.com/sushil-kamble/vue-tail-fire) - Vue 3 + Vite + Firebase 9 + Tailwind CSS.
 - [Vuelix](https://github.com/helixsoftco/vuelix) - Vue 3 + Auth System + OpenAPI Client Generator + Routes Transitions + i18n + File System Routing + Layouts System + Universal Icons Framework.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
+- [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
+- [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
 
 #### Vue 2
 
@@ -98,6 +100,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue2-mpa-template](https://github.com/selene-y/vite-vue2-mpa-template) - A multi-page application template using Vue2.
 - [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template usng vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
+- [vite-vue2-simple-starter](https://github.com/ryuhojin/vite-vue2-simple-starter) - Vue2 + Vue Router + Vuex + Axios Api + SASS With Sample Code.
 
 #### React
 
@@ -179,6 +182,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-simple-gql](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 - [vite-plugin-ali-oss](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 - [vite-plugin-flow](https://github.com/Eazymov/vite-plugin-flow) - Flow type checker support.
+- [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 - [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 #### Loaders
@@ -192,7 +196,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 - [vite-plugin-svg-path-hot](https://github.com/williamyorkl/vite-plugin-svg-path-hot) - Dynamic Created Svg Folder And Hot update.
 - [vite-plugin-raw](https://github.com/xingw-z/vite-plugin-raw) - Transform any type file to string.
-
 
 #### Bundling
 
@@ -454,6 +457,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
 
+### Docker
+
+- [Vite.js Docker Dev](https://github.com/nystudio107/vitejs-docker-dev) - Local development environment for developing Vite via Docker container.
+
 ### Django
 
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
@@ -487,6 +494,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [TroisJS](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 - [îles](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
+- [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ### Apps/Websites
 
