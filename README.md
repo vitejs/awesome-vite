@@ -90,6 +90,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
+- [tdesign-vue-next-starter](https://github.com/Tencent/tdesign-vue-next-starter) - TDesign + Vue 3.x + Vue Router + Vuex
 
 #### Vue 2
 
@@ -101,6 +102,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template usng vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 - [vite-vue2-simple-starter](https://github.com/ryuhojin/vite-vue2-simple-starter) - Vue2 + Vue Router + Vuex + Axios Api + SASS With Sample Code.
+- [tdesign-vue-starter](https://github.com/Tencent/tdesign-vue-starter) - TDesign + Vue 2.x + Vue Router + Vuex
 
 #### React
 
