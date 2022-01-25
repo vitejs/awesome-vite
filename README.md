@@ -266,7 +266,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-proxy-middleware](https://github.com/williamyorkl/vite-plugin-proxy-middleware) - A Plugin allows you to turn on `proxy` and `h2` options at the same time.
 - [@zougt/vite-plugin-theme-preprocessor](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
-- [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+- [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 
 #### Testing
 
