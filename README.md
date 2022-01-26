@@ -477,6 +477,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
+### CakePHP 
+
+- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP 
+
 ## Migrations
 
 ### Vue CLI
