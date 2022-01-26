@@ -90,6 +90,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
+- [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022. Joyful development experience!
 
 #### Vue 2
 
