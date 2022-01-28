@@ -78,7 +78,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
-- [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
+- [vue-component-template](https://github.com/Houtaroy/vue-component-templat... A template for creating own Vue3 TSX component.
 - [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) - Vite, Vue 3, and Tsx.
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
@@ -91,6 +91,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
+- [fast-vue3](https://github.com/MaleWeb/fast-vue3) - Vite + Vue3 + TS + Pinia... A template for fast creating  Vue3
 
 #### Vue 2
 
