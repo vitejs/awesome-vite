@@ -49,6 +49,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Vanilla
 
 - [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Vite Starter template for embedded.
+- [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 #### Vue 3
 
