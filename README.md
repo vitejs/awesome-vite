@@ -479,6 +479,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
+### WinterCMS
+
+- [Vite + TailwindCSS](https://github.com/marcomessa/wn-vite-tailwind-theme) - Integration for WinterCMS.
+
 ## Migrations
 
 ### Vue CLI
