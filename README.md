@@ -216,6 +216,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 - [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents.
+- [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use node stream compress file to gzip or more.
 
 #### Transformers
 
@@ -483,9 +484,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
-### CakePHP 
+### CakePHP
 
-- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP. 
+- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ### WinterCMS
 
