@@ -157,6 +157,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
 - [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
 
+#### Others
+
+- [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+
 ## Plugins
 
 ### Framework-agnostic Plugins
@@ -484,9 +488,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 
-### CakePHP 
+### CakePHP
 
-- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP. 
+- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
 
 ### WinterCMS
 
