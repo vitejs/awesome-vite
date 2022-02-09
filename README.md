@@ -281,7 +281,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 - [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 - [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
-
+- [vite-plugin-dynamic-assets](https://github.com/chenxch/vite-plugin-dynamic-assets) - Resolve all resource files dynamic publicpath, like Webpack's __webpack__public__path__. 
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
