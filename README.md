@@ -43,6 +43,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 - [create-vite-pwa](https://github.com/chromeos/create-vite-pwa) - Same scaffolding options as `create-vite`, but with [PWA](https://web.dev/progressive-web-apps/) support out-of-the-box.
+- [create-vitawind](https://github.com/huibizhang/vitawind) - Scaffolding for Tailwindcss and Vite project
 
 ### Templates
 
@@ -94,6 +95,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 - [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
+- [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create Tailwindcss v3 + vite project rapidly.
 
 #### Vue 2
 
