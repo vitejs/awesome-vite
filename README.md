@@ -96,6 +96,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 - [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
+- [vite-vue-tailwind-v3](https://github.com/huibizhang/template-vite-vue-tailwind-v3) - Vite starter template for Vue3 + Tailwindcss and prettier-plugin-tailwindcss build-in, and you also can use our [creator](https://Vitawind.vercel.app/scaffolding/creator/) tool.
+- [vite-vue-ts-tailwind-v3](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Vite starter template for Vue3 + Typescript +  Tailwindcss and prettier-plugin-tailwindcss build-in, and you also can use our [creator](https://Vitawind.vercel.app/scaffolding/creator/) tool.
 - [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create Tailwindcss v3 + vite project rapidly.
 
 #### Vue 2
@@ -143,6 +145,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting.
 - [vite-react-stitches-radix](https://github.com/xixixao/vite-react-stitches-radix) - React, ESLint, Stitches, Radix.
 - [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Jest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
+- [Vitawind Templates](https://vitawind.vercel.app)
+  - [vite-react-tailwind-v3](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Vite starter template for React + Tailwindcss and prettier-plugin-tailwindcss build-in.
+  - [vite-react-ts-tailwind-v3](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Vite starter template for React + Typescript +  Tailwindcss and prettier-plugin-tailwindcss build-in.
+  - Or you also can use our [creator](https://vitawind.vercel.app/scaffolding/creator/) tool.
 
 #### Svelte
 
