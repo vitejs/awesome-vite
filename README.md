@@ -239,7 +239,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
 - [vite-plugin-content](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 - [vite-plugin-require](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
-- [vite-plugin-load-css-module](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules , not just `.module.xxx` (use vite internal css plugin).
+- [vite-plugin-load-css-module](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
 - [vite-plugin-css-modules](https://github.com/wangzongming/vite-plugin-css-modules) - vite projects to support can use css modules, Not just `.module.xxx` .
 - [vite-plugin-macro](https://github.com/viteland/vite-plugin-macro) - Brings macro capabilities to Vite based projects.
 - [vite-plugin-global-style](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
