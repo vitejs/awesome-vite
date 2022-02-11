@@ -49,6 +49,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Vanilla
 
 - [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Vite Starter template for embedded.
+- [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 #### Vue 3
 
@@ -91,7 +92,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vite + Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vite / Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
-- [Vitectron](https://github.com/hyroge/vite-vue-electron) - Powerful Vue Electron Desktop Application Template based on Vite-plugin. TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x
+- [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+- [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
+- [Vitectron](https://github.com/hyroge/vite-vue-electron) - Powerful Vue Electron Desktop Application Template. TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x
 
 #### Vue 2
 
@@ -137,6 +140,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Vite + React + Electron template.
 - [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting.
 - [vite-react-stitches-radix](https://github.com/xixixao/vite-react-stitches-radix) - React, ESLint, Stitches, Radix.
+- [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Jest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 
 #### Svelte
 
@@ -153,6 +157,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
 - [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
+
+#### Others
+
+- [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
 
 ## Plugins
 
@@ -187,6 +195,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 - [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 - [vite-plugin-resolve](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve) - Custom resolve module content.
+- [vite-plugin-electron-renderer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/electron-renderer) - Use Electron and Node.js API in Renderer-process.
+- [vite-plugin-fast-external](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/fast-external) - Support browser, Node.js and Electron. Without lexical transform. Support custom external code.
 
 #### Loaders
 
@@ -211,6 +221,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
 - [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 - [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents.
+- [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 
 #### Transformers
 
@@ -270,12 +281,15 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@zougt/vite-plugin-theme-preprocessor](https://github.com/GitOfZGT/vite-plugin-theme-preprocessor) - Easily implementing dynamic themes based on LESS or SASS.
 - [vite-plugin-remove-console](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 - [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
+- [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+- [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
 - [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - `@web/test-runner` integration.
+- [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
 
 <hr>
 
@@ -476,6 +490,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Laravel
 
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
+
+### CakePHP
+
+- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+
+### WinterCMS
+
+- [Vite + TailwindCSS](https://github.com/marcomessa/wn-vite-tailwind-theme) - Integration for WinterCMS.
 
 ## Migrations
 
