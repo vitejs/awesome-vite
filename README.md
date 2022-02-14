@@ -94,6 +94,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 - [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
+- [Vitecamp](https://github.com/nekobc1998923/vitecamp) - Vite / Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing
 
 #### Vue 2
 
