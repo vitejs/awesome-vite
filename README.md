@@ -247,6 +247,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-require-transform](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 - [vite-plugin-twig](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
 - [vite-plugin-stache](https://github.com/pYr0x/vite-plugin-stache) - CanJS's template engine. Transforms `stache` files and template strings.
+- [vite-plugin-pug-transformer](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 
 #### Helpers
 
