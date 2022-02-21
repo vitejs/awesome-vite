@@ -283,7 +283,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-dev-manifest](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
 - [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 - [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
-- [vite-plugin-redirect](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests
+- [vite-plugin-redirect](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
 
 #### Testing
 
