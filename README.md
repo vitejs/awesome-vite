@@ -96,6 +96,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
 - [Vitecamp](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
 - [vite-vue3-typescript-webcomponent](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
+- [vite-pinia-ts-windi-starter](https://github.com/yoruk-alper/vue-pinia-ts-windi-starter) - Pinia / TypeScript / Windi CSS / Vue Router 4 / ESLint / Prettier.
 
 #### Vue 2
 
