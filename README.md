@@ -56,19 +56,15 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
-- [vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick) - Starter template with Vue 3, TypeScript and Electron 11.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
-- [electron-vue-next](https://github.com/ci010/electron-vue-next) - Vue 3 and Electron with VS Code debug and GitHub release process out-of-box.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
-- [vite-electron-typescript-template](https://github.com/hocili/vite-electron-typescript-template/) - Electron 12 TypeScript Template.
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
 - [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
-- [vue3-SSR-starter](https://github.com/dongnaebi/vue3-SSR-starter) - Vue3-SSR, prefetch and sync state to client with one line of code.
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
@@ -76,7 +72,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
-- [Vitesse SSR](https://github.com/frandiox/vitesse-ssr-template) - Vitesse-based Server Side Rendering. Deploy to Vercel or any Node.js environment.
 - [Vitesse Edge](https://github.com/frandiox/vitessedge-template) - Vitesse-based Edge Side Rendering, powered by Vitedge. Deploy to Cloudflare Workers.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
 - [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
@@ -102,26 +97,22 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
-- [admin-base-tmpl](https://github.com/artskin/admin-base-tmpl) - Basic admin template using Vue2, TypeScript, Element UI.
 - [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
 - [vite-vue2-typescript](https://github.com/byoungd/vite-vue2-typescript) - Vue2 TypeScript starter template using composition-api.
 - [vite-vue2-mpa-template](https://github.com/selene-y/vite-vue2-mpa-template) - A multi-page application template using Vue2.
-- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template usng vue-property-decorator, vue-router, Vuex.
+- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 - [vite-vue2-simple-starter](https://github.com/ryuhojin/vite-vue2-simple-starter) - Vue2 + Vue Router + Vuex + Axios Api + SASS With Sample Code.
 
 #### React
 
 - [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
-- [vite-electron-esbuild-stater](https://github.com/jctaoo/vite-electron-esbuild-starter) - Starter template with React, TypeScript, Electron and esbuild.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, TypeScript, Antd.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-- [vite-react-rtkq](https://github.com/PrinceRajRoy/vite-react-rtkq) - A React + Redux Toolkit Query starter template with opt-in TypeScript.
-- [vite-react-quick](https://github.com/pohunchn/vite-react-quick) - Vite + React + React-router-dom + TypeScript Quick Template.
 - [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite + React + TypeScript + ESLint + Prettier.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 - [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React, TypeScript, Jest, Testing Library, Tailwind CSS, ESLint and Prettier.
@@ -149,7 +140,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
-- [svelte-vite-starter](https://github.com/baileyherbert/svelte-vite-starter) - Next template for Svelte, TypeScript, SCSS, Babel, and HMR.
 - [svelte kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 #### Elm
@@ -180,7 +170,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
 - [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
 - [vite-plugin-host](https://github.com/falstack/vite-plugin-host) - Allow you to use the custom domain for development.
-- [vite-plugin-eruda](https://github.com/wuxiuran/vite-plugin-eruda) - Help you automatically open debugging tools in the development environment.
 - [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
 - [vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - Fast run checkers (TypeScript/VLS/vue-tsc, etc.) in worker threads with overlay and terminal hint.
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr) - Integration with Stimulus enabling HMR.
@@ -222,7 +211,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-compression](https://github.com/anncwb/vite-plugin-compression) - Use gzip or brotli to compress resources.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
-- [vite-plugin-multi-device](https://github.com/SasanFarrokh/vite-plugin-multi-device) - Outputs for different devices.
 - [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents.
 - [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 - [vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
@@ -236,11 +224,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-template](https://github.com/IndexXuan/vite-plugin-html-template) - HTML template, like `html-webpack-plugin` for Webpack.
 - [vite-plugin-md2vue](https://github.com/WangXueZhi/vite-plugin-md2vue) - Transform markdown module to Vue component.
 - [vite-plugin-virtual-html](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
-- [vite-plugin-posthtml](https://github.com/chromeos/static-site-scaffold-modules/tree/main/modules/vite-plugin-posthtml) - Vite plugin to run [PostHTML](https://github.com/posthtml/posthtml). Currently only runs on served/built HTML files `index.html`.
-- [vite-plugin-plain-text](https://github.com/zheeeng/vite-plugin-plain-text) - A Vite plugin transforms the rule-matched file as plain text.
-- [vite-plugin-virtual-html-template](https://github.com/hex-ci/vite-plugin-virtual-html-template) - HTML template, support flexible virtual URL.
 - [vite-plugin-require-context](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-require-context) - Supports `require.context`.
-- [vite-remark-html](https://github.com/alloc/vite-remark-html) - Transform `.md` imports into HTML strings.
 - [vite-plugin-commonjs](https://github.com/originjs/vite-plugins/tree/main/packages/vite-plugin-commonjs) - Support CommonJS to ESM.
 - [vite-plugin-content](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 - [vite-plugin-require](https://github.com/wangzongming/vite-plugin-require) - A Vite plugin that supports `require` by code transforming.
@@ -257,21 +241,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Helpers
 
 - [vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths) - Support for TypeScript's path mapping.
-- [vite-plugin-faker](https://github.com/vue-toys/vite-plugin-faker) - Use TypeScript compiler to generate mock data.
 - [vite-plugin-style-import](https://github.com/anncwb/vite-plugin-style-import) - Introduces component library styles on demand.
-- [vite-plugin-mock](https://github.com/anncwb/vite-plugin-mock) - Mock plugin for development and production.
-- [vite-plugin-mocker](https://github.com/minjs1cn/vite-plugin-mocker) - Mocker server.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
-- [vite-plugin-import](https://github.com/meowtec/vite-plugin-import) - Modular import plugin.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
-- [view-launcher](https://github.com/view-launcher/view-launcher) - Inspect Vue components and jump to source code directly from browsers.
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
 - [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
-- [vite-plugin-cdn-import](https://github.com/MMF-FE/vite-plugin-cdn-import) - Import packages from CDN.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
-- [vite-plugin-async-catch](https://github.com/WJCHumble/vite-plugin-async-catch) - Auto inject try catch code for async function.
 - [vite-plugin-mock-server](https://github.com/enjoycoding/vite-plugin-mock-server) - Mock server plugin, support using TS and JS to write Mock API and HMR.
 - [vite-plugin-dynamic-publicpath](https://github.com/jy0529/vite-plugin-dynamic-publicpath) - Use dynamic import handler to change runtime public base path, like Webpack's `__webpack_public_path__`.
 - [vitawind](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
@@ -294,7 +271,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
-- [vite-web-test-runner-plugin](https://github.com/betaboon/vite-web-test-runner-plugin) - `@web/test-runner` integration.
 - [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
 
 <hr>
@@ -540,5 +516,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vue3-ssr-realworld-example-app](https://github.com/levchak0910/vue3-ssr-realworld-example-app) - Realworld app implementation using Vue 3 with SSR.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
-- [Death Star dashboard](https://github.com/chojnicki/deathstar) - Example of dashboard build with Vue 3, TypeScript, Tailwind, Docker.
 - [Context Note](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
