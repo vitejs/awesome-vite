@@ -46,11 +46,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 ### Templates
 
-#### Vanilla
-
-- [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
-- [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
-
 #### Vue 3
 
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
@@ -138,9 +133,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Svelte
 
+- [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
-- [svelte kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 
 #### Elm
 
@@ -154,6 +149,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Others
 
 - [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
+- [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
+- [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 
 ## Plugins
 
