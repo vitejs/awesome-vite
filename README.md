@@ -43,7 +43,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 - [create-vite-pwa](https://github.com/chromeos/create-vite-pwa) - Same scaffolding options as `create-vite`, but with [PWA](https://web.dev/progressive-web-apps/) support out-of-the-box.
-- [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for Vite + TailwindCSS project.
+- [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 
 ### Templates
 
@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Vite Starter template for embedded.
 - [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
-- [vite-vanilla-tailwind-v3](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Vite starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
+- [vite-vanilla-tailwind-v3](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
 
 #### Vue 3
 
@@ -98,7 +98,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vite / Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
 - [vite-vue-tailwind-v3](https://github.com/huibizhang/template-vite-vue-tailwind-v3) - Starter template for Vue3 + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [vite-vue-ts-tailwind-v3](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript +  TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-- [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create Vite TailwindCSS project rapidly.
+- [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
 
 #### Vue 2
 
