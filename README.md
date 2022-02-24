@@ -478,6 +478,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vite + TailwindCSS](https://github.com/marcomessa/wn-vite-tailwind-theme) - Integration for WinterCMS.
 
+### WordPress
+
+- [wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+
 ## Migrations
 
 ### Vue CLI
