@@ -213,7 +213,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents.
 - [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 - [vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
-- [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - `rollup-plugin-copy` with dev server support.
+- [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 
 #### Transformers
 
