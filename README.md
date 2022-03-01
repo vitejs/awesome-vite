@@ -96,6 +96,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-tailwind-v3](https://github.com/huibizhang/template-vite-vue-tailwind-v3) - Starter template for Vue3 + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [vite-vue-ts-tailwind-v3](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript +  TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
+- [vue3-ts-vite-vitest-todo](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
 
 #### Vue 2
 
@@ -140,6 +141,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Jest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 - [vite-react-tailwind-v3](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [vite-react-ts-tailwind-v3](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript +  TailwindCSS and `prettier-plugin-tailwindcss` build-in.
+- [vite-react-ts-extended](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
 
 #### Svelte
 
@@ -208,6 +210,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-monaco-editor](https://github.com/vdesjs/vite-plugin-monaco-editor) - Monaco Editor integration.
 - [vite-plugin-svg-path-hot](https://github.com/williamyorkl/vite-plugin-svg-path-hot) - Dynamic Created Svg Folder And Hot update.
 - [vite-plugin-raw](https://github.com/xingw-z/vite-plugin-raw) - Transform any type file to string.
+- [vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 
 #### Bundling
 
@@ -221,6 +224,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vue-docs](https://github.com/meetqy/vite-plugin-vue-docs) - Analyze vue components to automatically generate previewable documents.
 - [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 - [vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
+- [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
 
 #### Transformers
 
@@ -487,6 +491,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### WinterCMS
 
 - [Vite + TailwindCSS](https://github.com/marcomessa/wn-vite-tailwind-theme) - Integration for WinterCMS.
+
+### WordPress
+
+- [wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## Migrations
 
