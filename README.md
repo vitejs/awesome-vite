@@ -97,6 +97,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-ts-tailwind-v3](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript +  TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
 - [vue3-ts-vite-vitest-todo](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
+- [Vitectron](https://github.com/hyroge/vite-vue-electron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 
 #### Vue 2
 
@@ -277,6 +278,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 - [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 - [vite-plugin-redirect](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
+- [vite-plugin-live-reload](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 - [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - VConsole plugin, both for SPA and MPA.
 
 #### Testing
