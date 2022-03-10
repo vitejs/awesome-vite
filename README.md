@@ -277,7 +277,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-watch-and-run](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 - [vite-plugin-dynamic-base](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 - [vite-plugin-redirect](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
-- [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - another vConsole plugin, easy to use.
+- [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - VConsole plugin, both for SPA and MPA.
 
 #### Testing
 
