@@ -282,6 +282,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-redirect](https://github.com/ebeloded/vite-plugin-redirect) - Redirect server requests.
 - [vite-plugin-live-reload](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 - [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
+- [vite-plugin-file-mock](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
 
 #### Testing
 
