@@ -401,7 +401,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [@nxext/angular-vite](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules
+- [@nxext/angular-vite](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
 
 <hr>
 
