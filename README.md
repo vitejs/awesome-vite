@@ -397,6 +397,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 <hr>
 
+### Angular
+
+#### Integrations
+
+- [@nxext/angular-vite](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules
+
+<hr>
+
 ### Rollup Plugins
 
 - [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
