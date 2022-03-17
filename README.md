@@ -201,6 +201,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-resolve](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve) - Custom resolve module content.
 - [vite-plugin-electron-renderer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/electron-renderer) - Use Electron and Node.js API in Renderer-process.
 - [vite-plugin-fast-external](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/fast-external) - Support browser, Node.js and Electron. Without lexical transform. Support custom external code.
+- [vite-plugin-optimizer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/optimizer) - Manually Pre-Bundling.
 
 #### Loaders
 
