@@ -120,7 +120,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
-- [vite-template-react-plus](https://github.com/0x219/vite-template-react-plus) - Vite + React + TypeScript + ESLint + Prettier.
+- [template-vite-minimal](https://github.com/UmaruLab/template-vite-minimal) - Vite + React + TypeScript + ESLint + Prettier.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
 - [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React, TypeScript, Jest, Testing Library, Tailwind CSS, ESLint and Prettier.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
