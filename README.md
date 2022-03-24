@@ -263,7 +263,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-theme](https://github.com/anncwb/vite-plugin-theme) - Dynamically changing the theme color.
 - [vite-aliases](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 - [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
-- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+- [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for https dev server.
 - [vite-plugin-vconsole](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 - [vite-dts](https://github.com/alloc/vite-dts) - Blazing fast plugin that generates `.d.ts` modules for libraries.
 - [vite-plugin-externals](https://github.com/crcong/vite-plugin-externals) - Exclude dependencies from the output bundles.
@@ -287,6 +287,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-live-reload](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 - [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 - [vite-plugin-file-mock](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
+- [vite-plugin-demand-import](https://github.com/liuweiGL/vite-plugin-demand-import) - Another import-on-demand plugin with no babel.
 
 #### Testing
 
