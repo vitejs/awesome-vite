@@ -102,7 +102,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - [Vue Naive](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
-- [vivu-npm](https://github.com/logustra/vivu-npm) - Simple starter template to build component library for vue.js 2-3.
+- [vivu-npm](https://github.com/logustra/vivu-npm) - Starter template to build component library.
 
 #### Vue 2
 
