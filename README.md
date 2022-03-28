@@ -101,6 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) - Vue3 / Vite / TailwindCSS website starter template, with guides on each page.
 - [vite-boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - [Vue Naive](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+- [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 
 #### Vue 2
 
