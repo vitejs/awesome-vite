@@ -220,7 +220,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-svg-path-hot](https://github.com/williamyorkl/vite-plugin-svg-path-hot) - Dynamic Created Svg Folder And Hot update.
 - [vite-plugin-raw](https://github.com/xingw-z/vite-plugin-raw) - Transform any type file to string.
 - [vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
-- [vite-plugin-import-rewriter](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Override the vite plugin for imported module addresses.
+- [vite-plugin-import-rewriter](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Override import based on conditions.
 
 #### Bundling
 
