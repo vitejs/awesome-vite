@@ -559,4 +559,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Context Note](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
-- [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React and Vue components.
+- [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
