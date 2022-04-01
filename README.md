@@ -208,6 +208,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-optimizer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/optimizer) - Manually Pre-Bundling.
 - [vite-plugin-dynamic-import](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/dynamic-import) - Enhance Vite builtin dynamic import.
 - [vite-plugin-esmodule](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/esmodule) - Build ES module to CommonJs module for Node.js.
+- [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
 
 #### Loaders
 
