@@ -418,6 +418,18 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 <hr>
 
+### Electron
+
+#### Integrations
+
+- [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.  
+
+#### Presets
+
+- [vite-plugin-electron-config](https://github.com/alex8088/vite-plugin-electron-config) - Electron plugin for Vite, support for main process, renderer process and preload script.
+
+<hr>
+
 ### Rollup Plugins
 
 - [Vite Rollup Plugins](https://vite-rollup-plugins.patak.dev/) - Compatibility list for official rollup plugins.
