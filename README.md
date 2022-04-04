@@ -103,6 +103,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vue Naive](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 - [vivu-npm](https://github.com/logustra/vivu-npm) - Starter template to build component library.
+- [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Electron + electron-vite + Vue3 + TypeScript.
 
 #### Vue 2
 
@@ -416,6 +417,18 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [@nxext/angular-vite](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+
+<hr>
+
+### Electron
+
+#### Integrations
+
+- [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.  
+
+#### Presets
+
+- [vite-plugin-electron-config](https://github.com/alex8088/vite-plugin-electron-config) - Electron plugin for Vite, support for main process, renderer process and preload script.
 
 <hr>
 
