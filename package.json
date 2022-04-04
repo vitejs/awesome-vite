@@ -1,9 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "lint": "awesome-lint README.md"
+    "lint": "awesome-lint README.md",
+    "cleanup": "node scripts/cleanup.mjs"
   },
   "devDependencies": {
-    "awesome-lint": "^0.17.1"
+    "@octokit/core": "^3.5.1",
+    "awesome-lint": "^0.18.0",
+    "p-limit": "^4.0.0"
   }
 }
