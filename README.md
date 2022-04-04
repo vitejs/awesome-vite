@@ -262,7 +262,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@import-meta-env/unplugin](https://github.com/iendeavor/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 - [vite-plugin-load-css-module](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
 - [vite-plugin-remain-exports](https://github.com/coconilu/vite-plugin-remain-exports) - Remaining exports from the entry file that imported by html.
-
+- [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
 
 #### Helpers
 
