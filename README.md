@@ -126,7 +126,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 - [template-vite-minimal](https://github.com/UmaruLab/template-vite-minimal) - Vite + React + TypeScript + ESLint + Prettier.
 - [vite-boilerplate](https://github.com/lmachens/vite-boilerplate) - Full-Stack template with TypeScript, React, Storybook and Express.
-- [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React, TypeScript, Jest, Testing Library, Tailwind CSS, ESLint and Prettier.
+- [reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 - [Tropical](https://github.com/bensmithett/tropical) - React, Storybook, MDX, Fela, SSR prerendering, and [islands architecture](https://www.npmjs.com/package/tropical-islands).
 - [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 - [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
