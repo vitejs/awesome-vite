@@ -68,7 +68,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
-- [electron-vue-vite](https://github.com/caoxiemeihao/electron-vue-vite) - Electron, Vue3, Vite integration.
+- [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Real simple Electron + Vite + Vue boilerplate.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
