@@ -200,7 +200,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 - [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 - [vite-plugin-resolve](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve) - Custom resolve module content.
-- [vite-plugin-electron-renderer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/electron-renderer) - Use Electron and Node.js API in Renderer-process.
+- [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 - [vite-plugin-fast-external](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/fast-external) - Support browser, Node.js and Electron. Without lexical transform. Support custom external code.
 - [vite-plugin-optimizer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/optimizer) - Manually Pre-Bundling.
 - [vite-plugin-dynamic-import](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/dynamic-import) - Enhance Vite builtin dynamic import.
