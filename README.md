@@ -151,6 +151,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-extended](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
 - [vite-react-starter](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
 - [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
+- [vite-react-proste](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + Axios + SASS + Jest + Testing Library + `react-query` + `react-error-boundary` + Classnames + ESLint + Stylelint + Prettier + Project preset information.
 
 #### Svelte
 
@@ -425,7 +426,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.  
+- [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 #### Presets
 
