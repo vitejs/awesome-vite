@@ -150,8 +150,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-tailwind-v3](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [vite-react-ts-extended](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
 - [vite-react-starter](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
-- [vite-ant-design-pro](https://github.com/1247748612/vite-ant-design-pro) - Like [ant-design-pro]("https://github.com/ant-design/ant-design-pro") but based on Vite
-- [vite-plugin-antd-layout](https://github.com/1247748612/vite-ant-design-pro) - Quickly build the same layout as [ant-design-pro]("https://github.com/ant-design/ant-design-pro") 
+- [vite-ant-design-pro](https://github.com/1247748612/vite-ant-design-pro) - Like [ant-design-pro]("https://github.com/ant-design/ant-design-pro"), React + antd + ProComponents + ReactQuery + ReactRouter6
 
 #### Svelte
 
