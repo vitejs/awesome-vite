@@ -216,6 +216,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-dynamic-import](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/dynamic-import) - Enhance Vite builtin dynamic import.
 - [vite-plugin-esmodule](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/esmodule) - Build ES module to CommonJs module for Node.js.
 - [vite-plugin-dynamic-import-module](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
+- [vite-plugin-mp](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 
 #### Loaders
 
