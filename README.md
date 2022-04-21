@@ -231,6 +231,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-raw](https://github.com/xingw-z/vite-plugin-raw) - Transform any type file to string.
 - [vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - Define presets to automatically create and optimize responsive images.
 - [vite-plugin-import-rewriter](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
+- [vite-plugin-xml-loader](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
 
 #### Bundling
 
