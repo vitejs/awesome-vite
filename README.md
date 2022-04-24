@@ -105,6 +105,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vivu-npm](https://github.com/logustra/vivu-npm) - Starter template to build component library.
 - [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Electron + electron-vite + Vue3 + TypeScript.
 - [vue3-pc-template](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
+- [ViTauri](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports
 
 #### Vue 2
 
