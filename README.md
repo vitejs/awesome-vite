@@ -106,7 +106,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Electron + electron-vite + Vue3 + TypeScript.
 - [vue3-pc-template](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
 - [ViTauri](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
-- [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - A free and open source middle and background management system basic solution, based on mainstream technologies such as Vue3, TypeScript, Element-Plus, Pinia and Vite.
+- [v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - a minimal admin template.
 
 #### Vue 2
 
