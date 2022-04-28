@@ -106,6 +106,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Electron + electron-vite + Vue3 + TypeScript.
 - [vue3-pc-template](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
 - [ViTauri](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+- [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin) - Admin Starter Template based on Vite + Ant Design Vue 3 + Vue3 + TypeScript + Vue-Router4 + Auto imports + unocss + pinia + others
 
 #### Vue 2
 
