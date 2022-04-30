@@ -195,6 +195,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 - [vite-plugin-mpa](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 - [vite-react-jsx](https://github.com/alloc/vite-react-jsx) - React 17's automatic JSX runtime for your entire bundle.
+- [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel to address some experimental features not supported by Esbuild. (eg: decorator)
 - [vite-plugin-spritesmith](https://github.com/evont/vite-plugin-spritesmith) - Converts a set of images into a spritesheet and SASS/LESS/Stylus mixins.
 - [vite-plugin-host](https://github.com/falstack/vite-plugin-host) - Allow you to use the custom domain for development.
 - [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
@@ -211,7 +212,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-simple-gql](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 - [vite-plugin-ali-oss](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 - [vite-plugin-flow](https://github.com/Eazymov/vite-plugin-flow) - Flow type checker support.
-- [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+- [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.[]
 - [vite-plugin-babel](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 - [vite-plugin-resolve](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/resolve) - Custom resolve module content.
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
