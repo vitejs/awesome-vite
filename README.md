@@ -107,6 +107,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-pc-template](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
 - [ViTauri](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 - [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` +  `Unocss` + `Ant-design-vue` + `Auto imports`.
+- [vue-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - A Vue3 SSR boilerplate with Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint support. No combined state management, UI or style library.
 
 #### Vue 2
 
