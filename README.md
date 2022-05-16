@@ -563,6 +563,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-go](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
+### Rust
+
+- [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+
 ## Migrations
 
 ### Vue CLI
