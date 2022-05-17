@@ -44,6 +44,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 - [create-vite-pwa](https://github.com/chromeos/create-vite-pwa) - Same scaffolding options as `create-vite`, but with [PWA](https://web.dev/progressive-web-apps/) support out-of-the-box.
 - [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
+- [create-electron-vite](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ### Templates
 
