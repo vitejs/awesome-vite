@@ -360,7 +360,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 - ![v2] [vite-plugin-vue2-svg](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
@@ -372,6 +371,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
 - ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+
+#### Transformers
+
+- ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Vue code preview for vite-plugin-md.
 
 #### Helpers
 
