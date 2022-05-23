@@ -183,7 +183,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Electron
 
-- [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Quick Start for vite-plugin-electron.
+- [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
 
 #### Others
 
