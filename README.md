@@ -58,19 +58,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated starter template.
 - [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
 - [vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
-- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vue-vben-admin](https://github.com/anncwb/vue-vben-admin) - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
-- [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
-- [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
 - [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
-- [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
-- [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue boilerplate.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
 - [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
@@ -78,8 +73,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-ts-vue3-todo](https://github.com/nabaonan/todos-action/tree/master/vue-vite-ts-setup) - Vue3 + TS + Vue-Router4 + Pinia2 template.
 - [vue-component-template](https://github.com/Houtaroy/vue-component-template) - A template for creating own Vue3 TSX component.
 - [vite-vue3-tsx-starter](https://github.com/snowdreamtech/vite-vue3-tsx-starter) - Vue 3, and Tsx.
-- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
-- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 - [naive-ui-dashboard-template](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 - [vitailse](https://github.com/zynth17/vitailse) - Like Vitesse but with Tailwind CSS.
 - [vitespa](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
@@ -89,7 +82,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
-- [electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [Vitalis](https://github.com/Edsonalencar/Vitalis-template) - Vue 3 / Vue Router 4 / TypeScript / Tailwind CSS / ESlint / Prettier.
 - [Vitecamp](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
 - [vite-vue3-typescript-webcomponent](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
@@ -99,13 +91,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-ts-tailwind-v3](https://github.com/huibizhang/template-vite-vue-ts-tailwind-v3) - Starter template for Vue3 + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [Vitawind Creator](https://vitawind.vercel.app/scaffolding/creator/) - Create TailwindCSS project rapidly.
 - [vue3-ts-vite-vitest-todo](https://github.com/hefengxian/vue3-ts-vite-vitest-todo) - Vue 3 / TypeScript / Vite / Vitest with full tests / Composition API / Pure TS/TSX.
-- [Vitectron](https://github.com/hyroge/vite-vue-electron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [vue3-tailwind3-website-starter](https://github.com/feitian124/vue3-tailwind3-website-starter.git) - Vue3 / Vite / TailwindCSS website starter template, with guides on each page.
 - [vite-boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - [Vue Naive](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - Admin template, based on Vue 3 + Element-plus.
 - [vivu-npm](https://github.com/logustra/vivu-npm) - Starter template to build component library.
-- [electron-vite-boilerplate](https://github.com/alex8088/electron-vite-boilerplate) - Electron + electron-vite + Vue3 + TypeScript.
 - [vue3-pc-template](https://github.com/parajs/vue3-pc-template) - Vite + ElementPlus + Vue3 + TS + Vue-Router4 + Vuex4 + Vue-use + Vue-i18n PC Template.
 - [ViTauri](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 - [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
@@ -124,7 +114,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### React
 
-- [vite-reactts-electron-starter](https://github.com/lTimeless/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [vite-reactts-antd-starter](https://github.com/asurraa/react-vite2-ts-antd) - React, TypeScript, Antd.
@@ -149,7 +138,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-starter](https://github.com/uchihamalolan/vite-react-ts) - React, TypeScript, Jest, ESLint, Prettier, TailwindCSS, Husky, Conventional Commits.
 - [vite-react-tailwind-jit](https://github.com/KrishGarg/vite-react-tailwind-jit-template) - React with TailwindCSS configured.
 - [vital](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
-- [vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron) - Vite + React + Electron template.
 - [vite-react-vendor-split](https://github.com/KrishGarg/vite-react-vendor-split-template) - React + TypeScript + Vendor Chunk Splitting.
 - [vite-react-stitches-radix](https://github.com/xixixao/vite-react-stitches-radix) - React, ESLint, Stitches, Radix.
 - [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Jest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
@@ -172,6 +160,21 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
+#### Electron
+
+- [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
+- [electron-vite-react](https://github.com/electron-vite/electron-vite-react) - Electron + Vite + React template.
+- [electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
+- [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
+- [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
+- [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
+- [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
+- [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
+- [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
+- [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
+- [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
+- [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
@@ -180,10 +183,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
 - [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
-
-#### Electron
-
-- [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
 
 #### Others
 
