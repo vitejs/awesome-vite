@@ -253,6 +253,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets.
 - [vite-plugin-imagemin](https://github.com/anncwb/vite-plugin-imagemin) - Compress image assets.
 - [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
+- [vite-plugin-importer-next](https://github.com/zt123123/vite-plugin-importer) - fork from [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer), the only diffrent is that this module support parsing babel configuration automatically.
 - [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 - [vite-plugin-compression](https://github.com/anncwb/vite-plugin-compression) - Use gzip or brotli to compress resources.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
