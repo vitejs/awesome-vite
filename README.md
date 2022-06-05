@@ -575,6 +575,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
+### OctoberCMS
+
+- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS
+
 ## Migrations
 
 ### Vue CLI
