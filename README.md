@@ -385,6 +385,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v2] [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 - ![v23] [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 
+#### Video Tutorials
+
+- ![v23] [Rapid Development with Vite](https://vueschool.io/courses/rapid-development-with-vite)
+
 <!--lint enable awesome-list-item-->
 
 <hr>
