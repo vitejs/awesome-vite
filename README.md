@@ -293,6 +293,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
 - [vite-plugin-unocss-to-uni](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
 - [@modyfi/vite-plugin-yaml](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+- [vite-plugin-head](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
 
 #### Helpers
 
