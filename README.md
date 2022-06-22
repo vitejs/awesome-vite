@@ -232,6 +232,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mp](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 - [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 - [vite-plugin-commonjs](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+- [vite-plugin-multiple-page](https://github.com/yzydeveloper/vite-plugin-multiple-page) - More flexible MPA (multi-page application) supports html templates, path rewriting.
 
 #### Loaders
 
