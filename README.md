@@ -101,8 +101,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 - [vite-vue-proste](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 - [vue-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
-- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - Vite + Vue3 + TS + Pinia + vantUI to start a h5 application, and gain more than 2k+ stars support.
-- [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vite + Vue3 + TS + Pinia + ElementPlus with complete lint rules to help you create a PC website fastly.
+- [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - Vite + Vue3 + TS + Pinia + vantUI to start a h5 application.
+- [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vite + Vue3 + TS + Pinia + ElementPlus with complete lint rules.
 
 #### Vue 2
 
