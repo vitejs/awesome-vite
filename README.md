@@ -226,9 +226,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-resolve](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 - [vite-plugin-fast-external](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/fast-external) - Support browser, Node.js and Electron. Without lexical transform. Support custom external code.
-- [vite-plugin-optimizer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/optimizer) - Manually Pre-Bundling.
+- [vite-plugin-optimizer](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 - [vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
-- [vite-plugin-esmodule](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/esmodule) - Build ES module to CommonJs module for Node.js.
+- [vite-plugin-esmodule](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
 - [vite-plugin-dynamic-import-module](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
 - [vite-plugin-mp](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 - [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
