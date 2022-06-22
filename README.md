@@ -374,7 +374,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Transformers
 
-- ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview, be friendly to component's docs
+- ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
 #### Helpers
 
