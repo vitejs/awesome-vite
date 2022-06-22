@@ -604,6 +604,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [îles](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 - [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 - [Hathora](https://github.com/hathora/hathora) - Multiplayer game framework.
+- [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ### Apps/Websites
 
