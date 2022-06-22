@@ -5,7 +5,7 @@
 3. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
 4. Do not use words that are clearly implied in the description, such as `for Vite` or` Vite plugin`.
 5. The description should be short (one sentence in 24 words, no expanded explanation) and meaningful without using emoji.
-6. Do not use words that are not relevant to the description such as `Super-Fast` or `Super-Super-Fast`
+6. Do not use words that are not relevant to the description such as `Super-Fast` or `Super-Super-Fast`.
 
 
 ### Projects using Vite.js
@@ -18,7 +18,7 @@ Make sure you put things in the right category. There are two main categories:
 
 Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the Vite.
 You should put your project in this category if the following conditions are true:
-- The description for the link should not contain links to the author and third-party resources - this should be in the documentation (README)
+- The description for the link should not contain links to the author and third-party resources - this should be in the documentation (README).
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
 - The documentation is in English.
 - The project is active and maintained.
