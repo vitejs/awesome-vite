@@ -101,6 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 - [vite-vue-proste](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 - [vue-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+- [vue3-vant-mobile](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 
 #### Vue 2
 
