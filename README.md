@@ -180,6 +180,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+- [vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - A default template for building Elm single page applications. Includes elm-test, elm-review, and an example Github Action for performing tests.
 
 #### Mithril
 
