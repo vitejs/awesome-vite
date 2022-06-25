@@ -63,7 +63,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-ts-quick](https://github.com/pohunchn/vite-ts-quick) - Vue 3 + Vuex + Vue-router + TypeScript Quick Template.
 - [fast-crud](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 - [vivu](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
-- [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs)
+- [NeuVite](https://github.com/yooneskh/vite-neutralinojs-template) - Desktop app template with [Neutralino.js](https://github.com/neutralinojs/neutralinojs).
 - [vite-tauri-template](https://github.com/yooneskh/vite-tauri-template) - Tauri + Vite + Vue 3 + Vuetify 3 desktop app template.
 - [vue-vite-h5](https://github.com/LZHD/vue-vite-h5) - Use Vue3, TypeScript and Vant to develop mobile applications.
 - [Vitesome](https://github.com/alvarosaburido/vitesome) - Vue3 + TypeScript + WindiCSS + Vue Router 4, i18n and Iconify.
@@ -103,6 +103,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 - [vue-h5-template](https://github.com/sunniejs/vue-h5-template) - Vite + Vue3 + TS + Pinia + vantUI to start a h5 application.
 - [fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3) - Vite + Vue3 + TS + Pinia + ElementPlus with complete lint rules.
+- [vue3-vant-mobile](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 
 #### Vue 2
 
@@ -180,6 +181,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+- [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 #### Mithril
 
@@ -227,13 +229,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-resolve](https://github.com/vite-plugin/vite-plugin-resolve) - Custom resolve module content.
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 - [vite-plugin-fast-external](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/fast-external) - Support browser, Node.js and Electron. Without lexical transform. Support custom external code.
-- [vite-plugin-optimizer](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/optimizer) - Manually Pre-Bundling.
+- [vite-plugin-optimizer](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 - [vite-plugin-dynamic-import](https://github.com/vite-plugin/vite-plugin-dynamic-import) - Enhance Vite builtin dynamic import.
-- [vite-plugin-esmodule](https://github.com/caoxiemeihao/vite-plugins/tree/main/packages/esmodule) - Build ES module to CommonJs module for Node.js.
+- [vite-plugin-esmodule](https://github.com/vite-plugin/vite-plugin-esmodule) - Build ES module to CommonJs module for Node.js.
 - [vite-plugin-dynamic-import-module](https://github.com/Dunqing/vite-plugin-dynamic-import-module) - Support for dynamic import module with variables.
 - [vite-plugin-mp](https://github.com/zhuweiyou/vite-plugin-mp) - Configure multi-pages applications and code splitting.
 - [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 - [vite-plugin-commonjs](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
+- [vite-plugin-multiple-page](https://github.com/yzydeveloper/vite-plugin-multiple-page) - More flexible MPA (multi-page application) supports html templates, path rewriting.
 
 #### Loaders
 
@@ -294,6 +297,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server.
 - [vite-plugin-unocss-to-uni](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
 - [@modyfi/vite-plugin-yaml](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+- [vite-plugin-head](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
 
 #### Helpers
 
@@ -327,6 +331,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-simple-vconsole](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 - [vite-plugin-file-mock](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
 - [vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+- [vite-plugin-cem](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
 
 #### Testing
 
@@ -367,7 +372,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
-- ![v3] [vite-plugin-vuedoc](https://github.com/JasKang/vite-plugin-vuedoc) - Markdown Code block as Vue Preview components.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 - ![v2] [vite-plugin-vue2-svg](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
@@ -379,6 +383,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v3] [vite-plugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
 - ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+
+#### Transformers
+
+- ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 
 #### Helpers
 
@@ -526,7 +534,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vitedge](https://github.com/frandiox/vitedge) - Edge-side rendering with fullstack utilities. ![react] ![vue3]
 - [vitext](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
-- [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit ![react]
+- [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
 
 <!--lint enable awesome-list-item-->
 
@@ -599,6 +607,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [îles](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 - [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 - [Hathora](https://github.com/hathora/hathora) - Multiplayer game framework.
+- [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ### Apps/Websites
 
