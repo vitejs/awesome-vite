@@ -577,7 +577,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### OctoberCMS
 
-- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS
+- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
 
 ## Migrations
 
