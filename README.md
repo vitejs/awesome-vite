@@ -46,7 +46,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 - [create-electron-vite](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 - [create-vite-fast](https://github.com/microsoft/fast/tree/master/examples/vite-starters/vite-fast-starter) - Scaffolding a Vite + FAST project.
-- [create-vite-fast-typescript](https://github.com/microsoft/fast/tree/master/examples/vite-starters/vite-fast-typescript-starter) - Scaffolding a Vite + FAST + TypeScript project.
+- [create-vite-fast-typescript](https://github.com/microsoft/fast/tree/master/examples/vite-starters/vite-fast-typescript-starter) - Scaffolding a Vite + FAST + Typescript project.
 
 ### Templates
 
