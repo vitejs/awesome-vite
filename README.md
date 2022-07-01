@@ -172,12 +172,12 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 - [vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
-- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 - [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
 - [vite-electron-builder](https://github.com/cawa-93/vite-electron-builder/) - Electron apps using Vite for both back and front-end, with automatic releases.
 - [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 #### Elm
 
