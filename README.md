@@ -582,6 +582,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Go
 
 - [vite-go](https://github.com/torenware/vite-go) - Integration for Golang web apps.
+- [React](https://docs.gocopper.dev/getting-started/create-project/react) - Integration for [Copper](https://gocopper.dev/).
+- [React + TailwindCSS](https://docs.gocopper.dev/getting-started/create-project/react-+-tailwind) - Integration for [Copper](https://gocopper.dev/).
 
 ### Rust
 
