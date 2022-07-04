@@ -181,6 +181,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+- [vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 #### Mithril
 
@@ -586,6 +587,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Rust
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+
+### OctoberCMS
+
+- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
 
 ## Migrations
 
