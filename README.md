@@ -631,3 +631,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Context Note](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 - [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
+- [react-keyboard-navigator](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
