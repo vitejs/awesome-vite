@@ -238,6 +238,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 - [vite-plugin-commonjs](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 - [vite-plugin-multiple-page](https://github.com/yzydeveloper/vite-plugin-multiple-page) - More flexible MPA (multi-page application) supports html templates, path rewriting.
+- [vite-plugin-tencent-oss](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
 
 #### Loaders
 
