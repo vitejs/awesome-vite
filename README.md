@@ -176,11 +176,13 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+- [vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 #### Mithril
 
@@ -239,6 +241,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-multi-pages](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName
 - [vite-plugin-html-template-mpa](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support
 - [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config
+- [vite-plugin-tencent-oss](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
 
 #### Loaders
 
@@ -589,6 +592,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
+### OctoberCMS
+
+- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
+
 ## Migrations
 
 ### Vue CLI
@@ -612,6 +619,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 - [Hathora](https://github.com/hathora/hathora) - Multiplayer game framework.
 - [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+- [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 
 ### Apps/Websites
 
@@ -628,3 +636,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Context Note](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 - [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
+- [react-keyboard-navigator](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
