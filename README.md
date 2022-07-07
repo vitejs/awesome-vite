@@ -616,6 +616,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 - [Hathora](https://github.com/hathora/hathora) - Multiplayer game framework.
 - [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+- [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 
 ### Apps/Websites
 
