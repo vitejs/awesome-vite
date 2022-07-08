@@ -189,6 +189,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
 - [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
 
+#### Petite-Vue
+
+- [vite-petite-vue-starter](https://github.com/misitebao/vite-petite-vue-starter) - Starter using Vite + Petite-vue for super fast prototyping.
+
 #### Others
 
 - [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
@@ -340,7 +344,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
 - [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
-- [vitest](https://github.com/vitest-dev/vitest) -  A Vite-native test framework. It's fast!
+- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 <hr>
