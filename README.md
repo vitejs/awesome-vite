@@ -191,7 +191,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Petite-Vue
 
-- [vite-petite-vue-starter](https://github.com/misitebao/vite-petite-vue-starter) - Starter using Vite + Petite-vue for super fast prototyping.
+- [vite-petite-vue-starter](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
 
 #### Others
 
@@ -344,7 +344,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
 - [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
-- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 <hr>
