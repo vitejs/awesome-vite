@@ -42,7 +42,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 ## Get Started
 
 - [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
-- [create-vite-pwa](https://github.com/chromeos/create-vite-pwa) - Same scaffolding options as `create-vite`, but with [PWA](https://web.dev/progressive-web-apps/) support out-of-the-box.
 - [create-vitawind](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 - [create-electron-vite](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
@@ -113,6 +112,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 - [vite-vue2-simple-starter](https://github.com/ryuhojin/vite-vue2-simple-starter) - Vue2 + Vue Router + Vuex + Axios Api + SASS With Sample Code.
+- [vite-vue2-ts-template-starter](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 
 #### React
 
@@ -176,16 +176,22 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [vite-electron-ts](https://github.com/cyytemplate/vite-electron-ts) - Electron 12, Vue 3 and TypeScript.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
+- [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+- [vite-elm-spa](https://github.com/lindsaykwardell/vite-elm-spa) - An unopinionated template for building Elm single page applications.
 
 #### Mithril
 
 - [mithril-vite-starter](https://github.com/ArthurClemens/mithril-vite-starter) - Template for Mithril projects.
 - [mithril-ts-vite-starter](https://github.com/ArthurClemens/mithril-ts-vite-starter) - Template for Mithril projects with TypeScript.
+
+#### Petite-Vue
+
+- [vite-petite-vue-starter](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
 
 #### Others
 
@@ -236,6 +242,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-babel-compiler](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 - [vite-plugin-commonjs](https://github.com/vite-plugin/vite-plugin-commonjs) - A pure JavaScript implementation for CommonJs.
 - [vite-plugin-multiple-page](https://github.com/yzydeveloper/vite-plugin-multiple-page) - More flexible MPA (multi-page application) supports html templates, path rewriting.
+- [vite-plugin-tencent-oss](https://github.com/taosiqi/vite-plugin-tencent-oss) - Upload the production files bundled in the project to Tencent OSS, except for HTML.
+- [vite-plugin-multi-pages](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
+- [vite-plugin-html-template-mpa](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
+- [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 
 #### Loaders
 
@@ -331,12 +341,15 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-file-mock](https://github.com/venojs/vite-plugin-file-mock) - File system based local mock plugin.
 - [vite-plugin-qrcode](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 - [vite-plugin-cem](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
+- [vite-plugin-web-update-notification](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
 
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vite-plugin-test](https://github.com/aelbore/vite-plugin-test) - Mocha and puppeteer.
 - [vite-plugin-nightwatch](https://github.com/nightwatchjs/vite-plugin-nightwatch) - Nightwatch integration. Test your Vue or React components in isolation.
+- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
+- [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 
 <hr>
 
@@ -393,6 +406,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [vite-plugin-vue-gql](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 - ![v2] [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 - ![v23] [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
+- ![v23] [vite-plugin-vue-static-sfc](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
 
 <!--lint enable awesome-list-item-->
 
@@ -584,6 +598,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
+### OctoberCMS
+
+- [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
+
 ## Migrations
 
 ### Vue CLI
@@ -607,6 +625,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Astro](https://github.com/withastro/astro) - Modern Static Site Builder.
 - [Hathora](https://github.com/hathora/hathora) - Multiplayer game framework.
 - [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+- [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 
 ### Apps/Websites
 
@@ -623,3 +642,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 - [Context Note](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 - [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
+- [react-keyboard-navigator](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
