@@ -307,6 +307,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-unocss-to-uni](https://github.com/zguolee/vite-plugin-unocss-to-uni) - `UnoCSS` in `uni-app`.
 - [@modyfi/vite-plugin-yaml](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 - [vite-plugin-head](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
+- [vite-plugin-html-env](https://github.com/lxs24sxl/vite-plugin-html-env) - Injection of environment variables in `index.html`.
 
 #### Helpers
 
