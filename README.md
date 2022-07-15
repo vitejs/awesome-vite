@@ -154,7 +154,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-minimal-template](https://github.com/alessandropisu/vite-react-ts-minimal-template) - React + TypeScript + Airbnb ESLint + Prettier + Husky.
 - [react-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 - [Viact](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
-- [Viterts](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Ant Design + Jest + Testing Library + ESLint + Airbnb + Prettier + SASS/SCSS and more.
+- [Viterts](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 
 #### Svelte
 
