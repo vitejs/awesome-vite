@@ -102,6 +102,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/vue-vite-ssr) - Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 - [vue3-vant-mobile](https://github.com/CharleeWa/vue3-vant-mobile) - Vite + Vue3 + Vant4 + Pinia + Vue-Router4 + TypeScript Mobile Template.
 - [vue3-powerbuild](https://github.com/UIC-Group/vue3-powerbuild) - Vue 3 + TypeScript + Tailwind CSS + Vite + Storybook + ESLint + Prettier.
+- [vele-admin](https://github.com/shellingfordly/vele-admin) - Simple element admin template base on Vue3 + Vite + ElementPlus + Vue-Router4 + TypeScript + Auto Imports + Vue Components
 
 #### Vue 2
 
