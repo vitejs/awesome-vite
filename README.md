@@ -129,18 +129,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-react-refresh](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-react-refresh) - Provide enhancements for [@vitejs/plugin-react-refresh](https://www.npmjs.com/package/@vitejs/plugin-react-refresh).
 - [vite-reactts17-chakra-jest-husky](https://github.com/The24thDS/vite-reactts17-chakra-jest-husky) - React 17, TypeScript, Chakra UI, Jest, ESLint, Prettier, Husky.
 - [react-ts-vite-template](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
-<<<<<<< HEAD
-- [vite-reactts-tailwind-rtk-eslint](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, Typescript, Tailwindcss, Redux Toolkit, eslint.
-- [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, Typescript, Jest, ESLint, Prettier, Husky, TailwindCSS 2, PostCSS, pnpm.
-- [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, TailwindCSS 2 JIT inside.
-- [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5 (now officially called MUI), TypeScript, Dark mode toggle.
-- [stravital](https://github.com/rizkimcitra/stravital) - Minimalist starter template for universal project, `React` + `TypeScript` + `Vite` + `TailwindCSS` + `Jotai`
-=======
 - [vite-reactts-tailwind-rtk-eslint](https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint) - React, TypeScript, Tailwind CSS, Redux Toolkit, eslint.
 - [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
 - [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, Tailwind CSS 2 JIT inside.
 - [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5, TypeScript, Dark mode toggle.
-- [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite + `react-router-dom` + `react-icons` + Prop-Types + Tailwind CSS with JIT.
+- [stravital](https://github.com/rizkimcitra/stravital) - Minimalist starter template for universal project, `React` + `TypeScript` + `Vite` + `TailwindCSS` + `Jotai`
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 - [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
 - [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
@@ -163,7 +156,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [react-vite-ssr](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 - [Viact](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 - [Viterts](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
->>>>>>> 639f2fd5258c23b03f84f86a680cc87d49d28b1b
 
 #### Svelte
 
