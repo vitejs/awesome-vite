@@ -5,7 +5,11 @@
 - [ ] Title as described.
 - [ ] Make sure you put things in the right category.
 - [ ] The description of your item should be a sentence with less than 24 words.
+- [ ] Avoid using links and parentheses in description. 
 - [ ] Omit unnecessary words already provided in the context (e.g. `for Vite`, `a Vite plugin`).
+- [ ] Use proper case for terms (e.g. `GitHub`, `TypeScript`, `ESLint`, etc.)
+- [ ] When mentioning tools, omit versions whenever possible (e.g. use `TypeScript` instead of `TypeScript 4.x`, but keep `Vue 2` and `Vue 3` as they're incompatible).
+- [ ] When mentioning package names, use quotes whenever possible.
 - [ ] Always add your items to the end of a list.
 
 ### Plugins/Tools
@@ -15,10 +19,10 @@
 - [ ] The plugin/tool is working with **Vite 2.x and onward**.
 - [ ] The project is Open Source.
 - [ ] The project follows the [Vite Plugins Conventions](https://vitejs.dev/guide/api-plugin.html#conventions).
-- [ ] The plugin uses Vite specific hooks and can't be implemented as a [Compatible Rollup Plugin](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatibility).
+- [ ] The plugin uses Vite-specific hooks and can't be implemented as a [Compatible Rollup Plugin](https://vitejs.dev/guide/api-plugin.html#rollup-plugin-compatibility).
 - [ ] The repo should be at least 30 days old.
 - [ ] The documentation is in English.
-- [ ] The project is active and maintained (projects that inactive for longer that 6 months will be removed without further notice).
+- [ ] The project is active and maintained (inactive projects for longer 6 months will be removed without further notice).
 - [ ] The project accepts contributions.
 - [ ] Not a commercial product.
 
