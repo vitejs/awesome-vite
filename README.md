@@ -117,7 +117,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, Typescript, Jest, ESLint, Prettier, Husky, TailwindCSS 2, PostCSS, pnpm.
 - [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, TailwindCSS 2 JIT inside.
 - [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5 (now officially called MUI), TypeScript, Dark mode toggle.
-- [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite 2.xx + react-router-dom + react-icons + Prop-Types + Tailwind CSS, JIT enabled, dark mode enabled for media; absolute path, eslint, prettier and .vscode settings configured.
+- [stravital](https://github.com/rizkimcitra/stravital) - Minimalist starter template for universal project, `React` + `TypeScript` + `Vite` + `TailwindCSS` + `Jotai`
 
 #### Svelte
 
