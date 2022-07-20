@@ -33,9 +33,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Documentation](https://vitejs.dev/)
 - [GitHub Repo](https://github.com/vitejs/vite)
 - [Release Notes](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
-- [Vue 3 Docs](https://v3.vuejs.org/)
+- [Vue 3 Docs](https://vuejs.org/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
-- [Migration from v1](https://vitejs.dev/guide/migration.html)
+- [Migration from v2](https://vitejs.dev/guide/migration.html)
 
 <!--### Tutorials-->
 
