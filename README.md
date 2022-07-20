@@ -133,7 +133,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-tailwind-template](https://github.com/Innei/vite-react-tailwind-template) - React 17, TypeScript, Jest, ESLint, Prettier, Husky, Tailwind CSS, PostCSS, pnpm.
 - [vite-react-ssr](https://github.com/Innei/vite-react-ssr) - Server Side Rendering project template base on Vite + React + React-router-dom, Tailwind CSS 2 JIT inside.
 - [vite-material-ui](https://github.com/christopher-caldwell/vite-material-ui) - Material UI v5, TypeScript, Dark mode toggle.
-- [stravital](https://github.com/rizkimcitra/stravital) - React 17 + Vite + `react-router-dom` + `react-icons` + Prop-Types + Tailwind CSS with JIT.
+- [stravital](https://github.com/rizkimcitra/stravital) - TypeScript, Git Hooks, Commitizen, Lint Staged, TailwindCSS.
 - [vite-react-ts-tailwind-firebase-starter](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 - [vite-react-express-boilerplate](https://github.com/joeynguyen/vite-react-express-boilerplate) - Full-Stack template with React and Express.
 - [vite-react-express-docker-boilerplate](https://github.com/joeynguyen/vite-react-express-docker-boilerplate) - Full-Stack template with Docker, React, and Express.
