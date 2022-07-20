@@ -608,6 +608,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vitewind](https://github.com/chkilel/vitewind-theme) - Integration for OctoberCMS.
 
+### Symfony
+
+- [Vite Bundle](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+
 ## Migrations
 
 ### Vue CLI
