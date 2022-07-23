@@ -51,7 +51,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-vanilla-tailwind-v3](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - Starter template for Tailwindcss and prettier-plugin-tailwindcss build-in.
 - [vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
-- [vite-tailwind-starter](hhttps://github.com/kometolabs/vite-tailwind-starter) - NoJS Tailwind CSS starter template
+- [vite-tailwind-starter](https://github.com/kometolabs/vite-tailwind-starter) - NoJS Tailwind CSS starter template
 
 #### Vue 3
 
