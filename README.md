@@ -157,6 +157,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Viact](https://github.com/MR-Mostafa/Viact) - React + TypeScript + ESLint + Prettier + Support RTL + mock REST API Viact + Storybook, ErrorBoundary, UnoCss and more.
 - [Viterts](https://github.com/erdoganbulut/viterts/) - React + TypeScript + Redux + React Router + Jest + ESLint + Airbnb + Prettier + SASS.
 - [ViteRC](https://github.com/potreco/viterc) - React 18 + TypeScript + ESLint (Airbnb) + Prettier + Husky + Jest + Absolute imports + Commit linting.
+- [VRTTV](https://github.com/Drumpy/vrttv-boilerplate) - React + TypeScript + TailwindCSS + Vite Plugins + ESLint + Prettier + Husky + Conventional Commits + Gitmoji + Github Actions + Vercel Deploy and more!
 
 #### Svelte
 
