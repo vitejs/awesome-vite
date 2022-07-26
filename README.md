@@ -616,6 +616,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vite Bundle](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
+### Shopify
+
+- [vite-plugin-shopify](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+
 ## Migrations
 
 ### Vue CLI
