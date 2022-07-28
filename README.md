@@ -620,6 +620,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-shopify](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
+### CodeIgniter
+
+- [codeigniter-vite](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
+
 ## Migrations
 
 ### Vue CLI
