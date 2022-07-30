@@ -627,6 +627,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [codeigniter-vite](https://github.com/firtadokei/codeigniter-vitejs) - Integration for CodeIgniter.
 
+### DDEV
+- [ddev-viteserve](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
+
 ## Migrations
 
 ### Vue CLI
