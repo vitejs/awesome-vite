@@ -252,7 +252,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-template-mpa](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
 - [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 - [vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
-- [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - A plugin which externalizes dependencies and resolves them independently from CDN (Content Delivery Network) providers using import maps and es-module-shims.
+- [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - A tool which externalizes dependencies and resolves them independently from CDN providers using import maps and es-module-shims.
 
 #### Loaders
 
