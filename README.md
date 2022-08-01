@@ -252,6 +252,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-template-mpa](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
 - [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 - [vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+- [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - Resolves them independently from CDN providers using import maps and es-module-shims.
 
 #### Loaders
 
