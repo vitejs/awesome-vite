@@ -257,7 +257,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vconsole-mpa](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 - [vite-plugin-browser-sync](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 - [vite-plugin-jspm](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
-- [vite-plugin-print-urls](https://github.com/yzydeveloper/vite-plugin-print-urls) - vite hmr and page reload will print server urls.
+- [vite-plugin-print-urls](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
 
 #### Loaders
 
