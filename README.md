@@ -296,6 +296,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-progress](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 - [vite-plugin-importus](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
 - [vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+- [vite-plugin-zip-file](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 
 #### Transformers
 
