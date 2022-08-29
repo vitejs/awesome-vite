@@ -540,6 +540,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
+### Flask
+
+- [Flask-Vite](https://pypi.org/project/flask-vite/) - Integration with Flask.
+
 ### Ruby on Rails
 
 - [vite-plugin-ruby](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
