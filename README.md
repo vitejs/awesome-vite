@@ -287,6 +287,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-env](https://github.com/lxs24sxl/vite-plugin-html-env) - Injection of environment variables in `index.html`.
 - [vite-plugin-html-inject](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 - [vite-plugin-inject-preload](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+- [@vituum/vite-plugin-handlebars](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`
+- [@vituum/vite-plugin-pug](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`
+- [@vituum/vite-plugin-nunjucks](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`
+- [@vituum/vite-plugin-liquid](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`
+- [@vituum/vite-plugin-twig](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`
+- [@vituum/vite-plugin-latte](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`
+- [@vituum/vite-plugin-posthtml](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`
+- [@vituum/vite-plugin-juice](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`
 
 #### Helpers
 
