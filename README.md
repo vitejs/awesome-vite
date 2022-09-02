@@ -149,6 +149,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Varsarr](https://github.com/altmshfkgudtjr/varsarr) - React, Typescript, Styled-Components, Recoil, React-Query, Axios, Absolute imports.
 - [viterjs-template](https://github.com/emre-cil/viterjs-template) - React + JavaScript + Redux + Styled-Components + Axios + ESLint + Prettier.
 - [react-vite-ts-boilerplate](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+- [vite-react-universal-template](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - vite3-react18-TypeScript-ReactRouterDom6-mobx6-Eslint-prettier-husky-template, and APIs auto importing.
 
 #### Svelte
 
