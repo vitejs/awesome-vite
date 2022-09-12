@@ -235,6 +235,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-print-urls](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
 - [vite-plugin-env-switch](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
 - [vite-plugin-msg-log](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
+- [vite-plugin-bullet-msg](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
+  
 #### Loaders
 
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
