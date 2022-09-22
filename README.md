@@ -164,7 +164,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - Support SerialPort, SQLite3 and node C/C++ addons.
 - [electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - Full stack uses Vite to run Electron application, including main process.
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - Electron 13, Vue 3 and TypeScript. Make your desktop development easier.
-- [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Simple Vue3 + Electron template with TypeScript, including ViteJS and Electron Builder
 - [fast-vite-electron](https://github.com/ArcherGu/fast-vite-electron) - Vue3 + Vite + Electron with esbuild.
 - [fast-vite-nestjs-electron](https://github.com/ArcherGu/fast-vite-nestjs-electron) - Vue3 + Vite + Electron + Nestjs with esbuild.
 - [vite-plugin-electron-quick-start](https://github.com/electron-vite/vite-plugin-electron-quick-start) - Template for Electron projects.
@@ -172,6 +171,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
+- [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Lightweight Vue3 + Electron template with TypeScript, including Electron Builder
 
 #### Elm
 
