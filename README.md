@@ -631,6 +631,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 - [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 - [IslandJS](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+- [Vituum](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ### Apps/Websites
 
