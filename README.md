@@ -98,6 +98,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue3-powerbuild](https://github.com/UIC-Group/vue3-powerbuild) - Vue 3 + TypeScript + Tailwind CSS + Vite + Storybook + ESLint + Prettier.
 - [vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 - [vitequality](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
+- [vite-deno-example](https://github.com/bartlomieju/vite-deno-example) - Vue 3 + Vite (for deno runtime + npm implementation).
 
 #### Vue 2
 
