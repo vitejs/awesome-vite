@@ -329,7 +329,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-browserslist-useragent](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
 - [vite-plugin-external](https://github.com/fengxinming/vite-plugins/tree/dev/packages/vite-plugin-mock-data) - Provides a simple way to mock data.
-- [vite-plugin-reverse-proxy](https://github.com/fengxinming/vite-plugins/tree/dev/packages/vite-plugin-reverse-proxy) - Makes the script to be served with the text/javascript MIME type instead of module MIME type.
+- [vite-plugin-reverse-proxy](https://github.com/fengxinming/vite-plugins/tree/dev/packages/vite-plugin-reverse-proxy) - Makes the script to be served with the `text/javascript` MIME type instead of module MIME type.
 
 #### Testing
 
