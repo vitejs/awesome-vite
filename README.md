@@ -237,7 +237,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-msg-log](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
 - [vite-plugin-bullet-msg](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 - [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
-  
+
 #### Loaders
 
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
@@ -327,6 +327,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-autogeneration-import-file](https://github.com/yuntian001/vite-plugin-autogeneration-import-file) - Automatically generates import file.
 - [vite-plugin-browserslist-useragent](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+- [vite-plugin-open-graph](https://github.com/Lmmmmmm-bb/vite-plugin-open-graph) - Generate Open Graph meta tags for your Vite app, support Twitter Card.
 
 #### Testing
 
