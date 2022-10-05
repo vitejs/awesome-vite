@@ -171,7 +171,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts-electron-starter](https://github.com/maxstue/vite-reactts-electron-starter) - React, Tailwind CSS, TypeScript and Electron.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
-- [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Lightweight Vue3 + Electron template with TypeScript, including Electron Builder
+- [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Lightweight Vue3 + Electron template with TypeScript, including Electron Builder.
 
 #### Elm
 
