@@ -296,6 +296,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-html-inject](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 - [vite-plugin-inject-preload](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 - [vite-plugin-document](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
+- [@vituum/vite-plugin-handlebars](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
+- [@vituum/vite-plugin-pug](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
+- [@vituum/vite-plugin-nunjucks](https://github.com/vituum/vite-plugin-nunjucks) - Nunjucks template engine support, transforms `.njk` templates to `.html`.
+- [@vituum/vite-plugin-liquid](https://github.com/vituum/vite-plugin-liquid) - Liquid template engine support, transforms `.liquid` templates to `.html`.
+- [@vituum/vite-plugin-twig](https://github.com/vituum/vite-plugin-twig) - Twig template engine support, transforms `.twig` templates to `.html`.
+- [@vituum/vite-plugin-latte](https://github.com/vituum/vite-plugin-latte) - Latte template engine support, transforms `.latte` templates to `.html`.
+- [@vituum/vite-plugin-posthtml](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
+- [@vituum/vite-plugin-juice](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 
 #### Helpers
 
@@ -623,6 +631,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Nhost](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 - [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 - [IslandJS](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
+- [Vituum](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ### Apps/Websites
 
