@@ -99,6 +99,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 - [vitequality](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
 - [vue-vite-tw-ts](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
+- [ionic-vue-vite](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic
+- [ionic-vue-pnpm-monorepo](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo
+- [ionic-vue-pnpm-express-monorepo](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo
+-[ionic-vue-capacitor](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo
 
 #### Vue 2
 
