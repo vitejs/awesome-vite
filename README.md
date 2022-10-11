@@ -337,6 +337,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-autogeneration-import-file](https://github.com/yuntian001/vite-plugin-autogeneration-import-file) - Automatically generates import file.
 - [vite-plugin-browserslist-useragent](https://github.com/kingyue737/vite-plugin-browserslist-useragent) - Compile browserslist query to a RegExp to test browser useragent.
 - [vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+- [vite-plugin-patch-env](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
+- [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 
 #### Testing
 
