@@ -174,6 +174,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitectron](https://github.com/hyroge/vitectron) - TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 - [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+- [vutron](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 #### Elm
 
