@@ -241,7 +241,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-msg-log](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
 - [vite-plugin-bullet-msg](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 - [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
-
+- [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 #### Loaders
 
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
