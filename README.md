@@ -348,6 +348,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite
 
 <hr>
 
