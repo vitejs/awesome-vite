@@ -101,7 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-tw-ts](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
 - [vite-vue-box](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 - [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
-- [vue-component-template](https://github.com/houtaroy/vue-component-template) - create your component using Vite, Vue 3, TSX, ESLint, Prettier.
+- [vue-component-template](https://github.com/houtaroy/vue-component-template) - Create your component using Vite, Vue 3, TSX, ESLint, Prettier.
 
 #### Vue 2
 
