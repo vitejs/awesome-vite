@@ -437,7 +437,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Helpers
 
-- ![v1718] [vite-plugin-react-inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+- [vite-plugin-react-inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 
 <!--lint ignore double-link-->
 
