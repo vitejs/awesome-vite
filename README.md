@@ -162,6 +162,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
+#### Solid
+
+- [vite-solid](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
+
 #### Electron
 
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
