@@ -101,6 +101,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-vite-tw-ts](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
 - [vite-vue-box](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 - [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
+- [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 - [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter development mainstream technologies such as out-of-the-box background template
 
 #### Vue 2
@@ -156,6 +157,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [react-vite-ts-boilerplate](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 - [vite-react-universal-template](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
 - [vite-reactts18-eslint-tailwindcss](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
+- [vite-plugin-react-views](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 #### Svelte
 
@@ -179,6 +181,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-electron-renderer](https://github.com/electron-vite/vite-plugin-electron-renderer) - Support use Node.js API in Electron-Renderer.
 - [electron-vue-template](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 - [Vitron](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
+- [Vutron](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 
 #### Elm
 
@@ -347,12 +350,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-reverse-proxy](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 - [vite-plugin-patch-env](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
 - [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+- [vite-plugin-debug](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
 
 #### Testing
 
 - [mocha-vite-puppeteer](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 - [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 
 <hr>
 
