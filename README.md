@@ -442,6 +442,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 - [@vitjs/vit](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
+#### Helpers
+
+- [vite-plugin-react-inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+
 <!--lint ignore double-link-->
 
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
