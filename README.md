@@ -274,6 +274,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-zip-file](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 - [vite-plugin-zip-pack](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 - [vite-plugin-cp](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+- [unplugin-compression](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 
 #### Transformers
 
