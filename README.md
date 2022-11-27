@@ -460,6 +460,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 <hr>
 
+### Preact
+
+#### Presets
+
+- [@preact/preset-vite](https://github.com/preactjs/preset-vite) - Preact preset for the vite bundler. Official plugin of the Preact team.
+
+<hr>
+
 ### Svelte
 
 #### Integrations
