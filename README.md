@@ -157,6 +157,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-universal-template](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
 - [vite-reactts18-eslint-tailwindcss](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
 - [vite-plugin-react-views](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+- [fine-admin](https://github.com/strivelen/fine-admin) - React 18 + TypeScript + Vite + pnpm + Antd V5 + Pro Components + React Router Dom V6 + Redux Toolkit + ahooks + ESLint + Prettier + Axios.
 
 #### Svelte
 
