@@ -99,7 +99,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vue-ts-starter](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 - [vitequality](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
 - [vue-vite-tw-ts](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
-- [vite-vue-box](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
+- [vite-vue-box](https://github.com/NelsonYong/vite-vue-box) - Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 - [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 - [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 
@@ -157,6 +157,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-universal-template](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
 - [vite-reactts18-eslint-tailwindcss](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
 - [vite-plugin-react-views](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+- [react-vite-template](https://github.com/985563349/react-vite-template) - A react project template.
 
 #### Svelte
 
