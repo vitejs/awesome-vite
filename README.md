@@ -103,6 +103,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 - [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 - [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+- [vue-component-template](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
 
 #### Vue 2
 
