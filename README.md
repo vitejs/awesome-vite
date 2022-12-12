@@ -464,7 +464,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Presets
 
-- [@preact/preset-vite](https://github.com/preactjs/preset-vite) - Official preset for Preact by the Preact team. Includes HMR, automatic Preact inject, removal of DevTools in prod.
+- [@preact/preset-vite](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
 
 <hr>
 
