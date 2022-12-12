@@ -104,6 +104,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 - [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 - [vue-component-template](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
+- [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TS, Less, i18n, Vitest, Vitepress, lodash, jQuery, axios, Pinia, Built-in logger, Built-in input validators, env files.
 
 #### Vue 2
 
@@ -254,7 +255,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
-
 
 #### Loaders
 
