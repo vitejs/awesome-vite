@@ -102,7 +102,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-box](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 - [vite-vue-js-starter-template](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
 - [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
-- [vue-component-template](https://github.com/houtaroy/vue-component-template) - Create your component using Vite, Vue 3, TSX, ESLint, Prettier.
+- [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
+- [vue-component-template](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
 
 #### Vue 2
 
@@ -264,6 +265,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-import-rewriter](https://github.com/yuexiaoliang/vite-plugin-import-rewriter) - Rewriter the import based on conditions.
 - [vite-plugin-xml-loader](https://github.com/lorenzoc25/vite-plugin-xml-loader) - Loads xml file as JSON.
 - [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl) - Import shader file chunks.
+- [vite-plugin-svgo](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
 
 #### Bundling
 
@@ -359,6 +361,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-patch-env](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
 - [vite-plugin-conditional-compile](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 - [vite-plugin-debug](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
+- [vite-plugin-externals-extension](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 #### Testing
 
