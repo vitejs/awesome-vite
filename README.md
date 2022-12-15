@@ -110,7 +110,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [ionic-vue-pnpm-monorepo](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
 - [ionic-vue-pnpm-express-monorepo](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
 - [ionic-vue-capacitor](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
-- [vite-plugin-isdev](https://github.com/message163/vite-plugin-isdev) -Vue3 / TypeScript / tsx Conditional annotation syntax distinguishes between production and development environments
+- [vite-plugin-isdev](https://github.com/message163/vite-plugin-isdev) -Vue3 / TypeScript / tsx Conditional annotation syntax distinguishes between production and development environments.
 
 #### Vue 2
 
