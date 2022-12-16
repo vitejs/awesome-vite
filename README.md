@@ -175,6 +175,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Solid
 
 - [vite-solid](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
+- [vitesse-solid](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 #### Electron
 
@@ -260,6 +261,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
+- [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 
 
 #### Loaders
