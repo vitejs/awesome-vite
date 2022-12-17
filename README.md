@@ -620,6 +620,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Laravel
 
+- [Laravel Vite Plugin](https://github.com/laravel/vite-plugin) - Official Plugin for the Laravel framework.
 - [Laravel Vite](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 - [Laravel Livewire Plugin](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
 
