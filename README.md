@@ -469,6 +469,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 - [vite-plugin-react-inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+- [vite-plugin-react-click-to-component](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 <!--lint ignore double-link-->
 
