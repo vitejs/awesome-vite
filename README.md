@@ -105,7 +105,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue3-bootstrap-ts-vitest-starter](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 - [vue-xs-admin](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 - [vue-component-template](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
-- [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, jQuery, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
+- [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 
 #### Vue 2
 
