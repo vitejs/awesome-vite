@@ -166,6 +166,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-reactts18-eslint-tailwindcss](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
 - [vite-plugin-react-views](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 - [react-vite-template](https://github.com/985563349/react-vite-template) - A react project template.
+- [react-xs-admin](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 #### Svelte
 
