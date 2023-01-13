@@ -110,7 +110,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [ionic-vue-pnpm-express-monorepo](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
 - [ionic-vue-capacitor](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
 - [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
+- [vite-vue-h5-app](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
 - [vulcan](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia,  APIs&Mock, ESLint, Prettier, auto-importing.
+
 
 #### Vue 2
 
@@ -384,7 +386,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-externals-extension](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 - [vite-plugin-api](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 - [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
-
 
 #### Testing
 
