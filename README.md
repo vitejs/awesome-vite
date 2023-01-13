@@ -110,7 +110,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [ionic-vue-pnpm-express-monorepo](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
 - [ionic-vue-capacitor](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
 - [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
-- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - TypeScript + Vue + Vite + Naive UI + Nestjs + mongodb.
+- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - TypeScript + Vue + Vite + Naive UI + Nestjs + MongoDB.
 
 #### Vue 2
 
