@@ -266,6 +266,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 - [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 - [vite-plugin-qiniu-oss](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
+- [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 
 #### Loaders
 
