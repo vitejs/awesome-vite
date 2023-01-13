@@ -301,6 +301,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-cp](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
 - [unplugin-compression](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 - [unplugin-imagemin](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+- [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
 #### Transformers
 
