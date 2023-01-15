@@ -699,6 +699,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Ladle](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 - [IslandJS](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 - [Vituum](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+- [Compiiile](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing markdown files with full-text search and presentation slides.
 
 ### Apps/Websites
 
