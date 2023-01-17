@@ -271,6 +271,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-qiniu-oss](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 - [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 - [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+- [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 
 #### Loaders
 
