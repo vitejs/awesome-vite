@@ -390,6 +390,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-externals-extension](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 - [vite-plugin-api](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 - [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+- [vite-plugin-auto-alias](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 #### Testing
 
