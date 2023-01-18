@@ -391,6 +391,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-api](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 - [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 - [vite-plugin-auto-alias](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
+- [vite-plugin-circular-dependency](https://github.com/threedayAAAAA/vite-plugin-circular-dependency) - Detect circular dependencies in vite projects.
 
 #### Testing
 
