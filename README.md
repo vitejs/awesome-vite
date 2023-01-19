@@ -377,7 +377,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-mock-dev-server](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 - [vite-plugin-externals-extension](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 - [vite-plugin-api](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
-- [vite-plugin-shortcuts](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population
+- [vite-plugin-shortcuts](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
 
 #### Testing
 
