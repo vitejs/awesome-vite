@@ -680,6 +680,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [ddev-viteserve](https://github.com/torenware/ddev-viteserve) - Add-on for running Vite in the PHP-oriented dev environment DDEV.
 
+### Node.js
+
+- [vite-express](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+
 ## Migrations
 
 ### Vue CLI
