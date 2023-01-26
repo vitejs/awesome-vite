@@ -32,7 +32,7 @@
 
 - [ ] The starter template is working with **Vite 2.x and onward**.
 - [ ] The documentation is in English.
-- [ ] The starter template most provide enough instructions / documentation about how to start up and what's is included.
+- [ ] The starter template must provide enough instructions / documentation about how to start up and what's included.
 - [ ] A screenshot or a live demo should be included.
 - [ ] The repo should be at least 30 days old.
 - [ ] Should be differentiable from the existing starter templates. 
