@@ -57,6 +57,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-tailwind-stimulus-starter](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 - [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 - [docker-vitejs-tailwind-handlebars](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
+- [vite-phaser-ts](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
 
 #### Vue 3
 
@@ -113,7 +114,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 - [vite-vue-h5-app](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
 - [vulcan](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia, APIs&Mock, ESLint, Prettier, auto-importing.
-- [vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+- [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 
 #### Vue 2
 
@@ -222,6 +223,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vit-singlefile-gzip](https://github.com/MillerRen/vite-singlefile-gzip.git) - Starter template for embedded.
 - [11st-Starter-Kit](https://github.com/stefanfrede/11st-starter-kit) - 11ty, powered by Vite with Tailwind CSS and Alpine.js.
 - [chrome-ext-template-preact-windi-vite](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - Preact, Windi CSS, TypeScript, Prettier, ESLint, GitHub Actions and Chrome Extension Manifest v3.
+- [vite-vanilla-ts-knockout](https://github.com/zeekrey/vite-vanilla-ts-knockout) - Starter template for Knockout.js, TypeScript.
 
 ## Plugins
 
@@ -276,6 +278,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 - [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
 - [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
+- [vite-plugin-multiple](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 
 #### Loaders
 
@@ -311,6 +314,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [unplugin-compression](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 - [unplugin-imagemin](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+- [vite-plugin-no-bundle](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 
 #### Transformers
 
@@ -398,6 +402,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 - [vite-plugin-auto-alias](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 - [vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
+- [vite-plugin-isomorphic-import](https://github.com/LyzSg/vite-plugin-isomorphic-import) -  Allows you to configure whether to import modules on the server-side or client-side.
 
 #### Testing
 
