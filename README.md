@@ -114,7 +114,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [ultimate-vite-ts-less-template](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 - [vite-vue-h5-app](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
 - [vulcan](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia, APIs&Mock, ESLint, Prettier, auto-importing.
-- [vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+- [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 
 #### Vue 2
 
