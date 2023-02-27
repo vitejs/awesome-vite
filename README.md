@@ -460,7 +460,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Transformers
 
 - ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
-- ![v3] [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue Sfc in markdown, supports online editing
+- ![v3] [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing
 
 #### Helpers
 
