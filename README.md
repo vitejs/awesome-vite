@@ -115,6 +115,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-h5-app](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
 - [vulcan](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia, APIs&Mock, ESLint, Prettier, auto-importing.
 - [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+- [vite-plugin-vue-sfc-in-js](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
 
 #### Vue 2
 
