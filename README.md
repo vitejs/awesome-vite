@@ -177,6 +177,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [leo-react-app](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
+- [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 #### Svelte
 
@@ -207,7 +208,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vitron](https://github.com/tada5hi/vitron) - Build beautiful (win, linux, mac) desktop apps for modern web projects with vite and electron.
 - [Vutron](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
-- [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process. 
+- [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
 #### Elm
 
@@ -406,7 +407,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-entry-shaking](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 - [vite-plugin-auto-alias](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 - [vite-plugin-image-placeholder](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
-- [vite-plugin-isomorphic-import](https://github.com/LyzSg/vite-plugin-isomorphic-import) -  Allows you to configure whether to import modules on the server-side or client-side.
+- [vite-plugin-isomorphic-import](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
 
 #### Testing
 
