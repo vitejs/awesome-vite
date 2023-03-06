@@ -177,7 +177,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [leo-react-app](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
-- [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - A flexible SPA template: React 18, TypeScript, ESlint & Prettier, Dev Container, Vitest, Storybook & Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+- [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 
 #### Svelte
 
