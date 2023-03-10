@@ -116,7 +116,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vulcan](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest&Cypress, Pinia, APIs&Mock, ESLint, Prettier, auto-importing.
 - [vite-plugin-ssr-vue3-ts-compositionAPI-i18n-fetchData](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 - [vite-plugin-vue-sfc-in-js](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
-- [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vite Vue 3 lib template: Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
+- [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 
 #### Vue 2
 
