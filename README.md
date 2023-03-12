@@ -277,7 +277,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
-- [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 - [vite-plugin-qiniu-oss](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 - [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 - [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
@@ -534,6 +533,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
+- [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+- [vite-plugin-solid-svg](https://github.com/jfgodoy/vite-plugin-solid-svg) - Vite plugin to Import SVG files as Solid.js Components
 
 <hr>
 
