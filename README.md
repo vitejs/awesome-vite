@@ -533,8 +533,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Integrations
 
 - [vite-plugin-solid](https://github.com/amoutonbrady/vite-plugin-solid) - Provides JSX transformation for Solid.
-- [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
-- [vite-plugin-solid-svg](https://github.com/jfgodoy/vite-plugin-solid-svg) - Vite plugin to Import SVG files as Solid.js Components
+- [vite-plugin-solid-markdown](https://github.com/xbmlz/vite-plugin-solid-markdown) - Compile markdown files to Solid components.
+- [vite-plugin-solid-svg](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 <hr>
 
