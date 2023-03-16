@@ -79,6 +79,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-quasar-starter](https://github.com/fyeeme/vite-quasar) - Vite 2.x + Vue 3.x + quasar 2.x starter.
 - [vue3-mobile-template](https://github.com/parajs/vue3-mobile-template) - Vue3 + TS + Vue-Router4 + Vuex4 + Vant + Vue-use + Vue-i18n Mobile Template.
 - [vue3-template](https://github.com/lecoueyl/vue3-template) - Vue 3 / Tailwind CSS / vue-router / PNPM / ESlint Airbnb / Stylelint / GitHub pages actions / Netlify.
+- [vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant)- Vue3 / Vant / Pinia / VueUse / TypeScript / SocketIO / Mobile Demo
 - [Modern Vue](https://github.com/byoungd/modern-vue-template) - Modern Vue stack 2022.
 - [Vitecamp](https://github.com/nekobc1998923/vitecamp) - Vue3 / Element Plus / Axios / Vue Router / Pinia / Windi CSS / icones / i18n / Markdown / Svg / ESLint Airbnb Style / Components and APIs auto importing.
 - [vite-vue3-typescript-webcomponent](https://github.com/skysign/vite-vue3-typescript-webcomponent) - Vue 3 / Typescript / boiler plate to develop Web Component.
