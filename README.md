@@ -284,7 +284,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 - [vite-plugin-multiple](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 - [vite-plugin-target](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
-- [vite-plugin-gitlab-flow](https://github.com/taosiqi/vite-plugin-gitlab-flow) -You can view the deployment information for the code in the console.
+- [vite-plugin-gitlab-flow](https://github.com/taosiqi/vite-plugin-gitlab-flow) - You can view the deployment information for the code in the console.
 
 #### Loaders
 
