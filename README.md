@@ -286,7 +286,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-target](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 - [vite-plugin-gitlab-flow](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
 - [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
-
+- [vite-plugin-react-mpa](https://github.com/dingff/vite-plugin-react-mpa) - An out-of-the-box mpa plugin for React.
 #### Loaders
 
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
