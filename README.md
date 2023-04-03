@@ -286,6 +286,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-target](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
 - [vite-plugin-gitlab-flow](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
 - [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+- [unplugin-config](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 - [vite-plugin-svg-spritemap](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 #### Loaders
@@ -415,6 +416,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-isomorphic-import](https://github.com/LyzSg/vite-plugin-isomorphic-import) - Allows you to configure whether to import modules on the server-side or client-side.
 - [vite-plugin-find-image-duplicates](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
 - [@froxz/vite-plugin-s3](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
+- [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 
 #### Testing
 
@@ -654,6 +656,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Django
 
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+- [django-vite-plugin](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
 ### Flask
 
