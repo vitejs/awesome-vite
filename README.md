@@ -654,6 +654,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Django
 
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+- [django-vite-plugin](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
 ### Flask
 
