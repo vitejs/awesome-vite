@@ -46,7 +46,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [create-electron-vite](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 - [create-vite-app](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
-- [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Powerful tool to scaffold your application choosing between different templates and extensions for Web apps, Web Extensions, Monorepos and more!
+- [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your application choosing between different templates or create a modular setup from the tools/libraries in trend with TypeScript!
 
 ### Templates
 
