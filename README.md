@@ -180,6 +180,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 - [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+- [vite-react-template](https://github.com/naqibhishamuddin/vite-template) - React 18, Typescript, SWC, Eslint, Prettier, React Testing Library, Vitest, Vitest UI, MSW, Husky, Lint-staged and Commitizen
+- [vite-rome](https://github.com/naqibhishamuddin/vite-rome) - React 18, Typescript, SWC, Rome, React Testing Library, Vitest, Vitest UI, MSW, Husky, Lint-staged and Commitizen
 
 #### Svelte
 
