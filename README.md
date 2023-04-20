@@ -458,6 +458,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - ![v23] [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
+- ![v23] [unplugin-svg-vue-component](https://github.com/jaw52/unplugin-svg-vue-component) - Use SVG as vue components with support for both vue2.7 and vue3.x.
 - ![v3] [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 - ![v2] [vite-plugin-vue2-svg](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 - ![v3] [unplugin-svg-component](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
