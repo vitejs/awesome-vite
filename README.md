@@ -180,6 +180,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 - [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+- [vite-react-ts-admin](https://github.com/xstnet/react-admin-template) - Background Management Template, Support SPA/MPA Layout based on React 18, TypeScript, AntdV5, Prettier, React Router 6, Ahooks.
 
 #### Svelte
 
