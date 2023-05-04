@@ -119,6 +119,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 - [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 - [vite-admin-plus](https://github.com/Miofly/vue-admin-plus) - Vue3，Vite4, Pinia, TypeScript, unocss, Auto Import and other plugin for Vue3 Admin. 
+- [vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vant, Pinia, VueUse, TypeScript, SocketIO, Mobile Demo.
+
 
 #### Vue 2
 
@@ -192,6 +194,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-solid](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
 - [vitesse-solid](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+- [vitesse-lite-solid](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
 
 #### Electron
 
@@ -288,6 +291,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-gitlab-flow](https://github.com/taosiqi/vite-plugin-gitlab-flow) - View the deployment information for the code in the console.
 - [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 - [unplugin-config](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
+- [vite-plugin-svg-spritemap](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 
 #### Loaders
 
@@ -368,6 +372,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-css-export](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
 - [vite-plugin-optimize-css-modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 - [Vite-plugin-haxe](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+- [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 
 #### Helpers
 
