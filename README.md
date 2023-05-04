@@ -192,6 +192,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-solid](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
 - [vitesse-solid](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+- [vitesse-lite-solid](https://github.com/Nauxscript/vitesse-lite-solid) - Lightweight Vite Starter Template for SolidJS.
 
 #### Electron
 
