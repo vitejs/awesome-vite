@@ -684,6 +684,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
+### TYPO3 CMS
+
+- [vite-asset-collector for TYPO3](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS
+
 ### Go
 
 - [vite-go](https://github.com/torenware/vite-go) - Integration for Golang web apps.
