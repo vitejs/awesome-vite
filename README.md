@@ -124,7 +124,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
-- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 - [vite-vue2-ts-template-starter](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 - [vitify-admin](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
@@ -283,7 +283,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 - [vite-plugin-qiniu-oss](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 - [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
-- [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+- [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 - [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 - [vite-plugin-multiple](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 - [vite-plugin-target](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
@@ -320,7 +320,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-copy-files](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 - [vite-plugin-progress](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 - [vite-plugin-importus](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
-- [vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+- [vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 - [vite-plugin-zip-file](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 - [vite-plugin-zip-pack](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 - [vite-plugin-cp](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
