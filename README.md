@@ -373,6 +373,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vite-plugin-haxe](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 - [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 - [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+- [vite-plugin-preload](https://github.com/jarlef/vite-plugin-preload) - A Plugin to preload all chunks and stylesheets when dealing with code splitting through frameworks (e.g React.lazy) instead of manualChunks in Vite
 
 #### Helpers
 
