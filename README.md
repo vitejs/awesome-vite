@@ -372,7 +372,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-optimize-css-modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 - [Vite-plugin-haxe](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 - [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
+- [vite-plugin-remix](https://github.com/yracnet/vite-plugin-remix) - Welcome Remix/RemixJS to ViteJS environment for development.
 - [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+
 
 #### Helpers
 
