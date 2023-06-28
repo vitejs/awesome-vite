@@ -310,7 +310,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 #### Bundling
 
-- [vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 - [vite-plugin-importer](https://github.com/ajuner/vite-plugin-importer) - Integration for babel-plugin-import.
 - [vite-plugin-banner](https://github.com/chengpeiquan/vite-plugin-banner) - Adds a banner to the top of each generated chunk.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
@@ -330,6 +329,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 - [vite-plugin-no-bundle](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 - [vite-plugin-clean](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+- [vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 #### Transformers
 
