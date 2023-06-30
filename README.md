@@ -692,7 +692,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### TYPO3 CMS
 
-- [vite-asset-collector for TYPO3](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS
+- [vite-asset-collector for TYPO3](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS.
 
 ### Go
 
