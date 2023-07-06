@@ -182,6 +182,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 - [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
 - [react-vite-tailwindcss-template](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+- [react-express-boilerplate](https://github.com/szoradigeza/react-express-boilerplate) - A minimalist template which uses: React, Express, TypeScript, Docker NgInx
 
 #### Svelte
 
