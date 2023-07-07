@@ -58,6 +58,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 - [docker-vitejs-tailwind-handlebars](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
 - [vite-phaser-ts](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
+- [vite-tinybase](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
+- [vite-tinybase-ts](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 
 #### Vue 3
 
@@ -119,12 +121,13 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 - [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
 - [vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vant, Pinia, VueUse, TypeScript, SocketIO, Mobile Demo.
+- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 #### Vue 2
 
 - [vite-vue2-windicss-starter](https://github.com/lstoeferle/vite-vue2-windicss-starter) - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 - [vite-ts-vue2-todo](https://github.com/nabaonan/todos-action/tree/master/vue2-vite-ts) - Vue2 + ts + Vue-Router3 + Pinia1 + Composition API.
-- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript startar template using vue-property-decorator, vue-router, Vuex.
+- [vite-vue2-ts-starter](https://github.com/logue/vite-vue2-ts-starter) - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 - [vite-vue2-ts-vuetify-starter](https://github.com/logue/vite-vue2-vuetify-ts-starter) - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 - [vite-vue2-ts-template-starter](https://github.com/Luncode/vite-vue2-ts-template-starter) - Vite + Vue2 + Typescript + Vuex + Vue-router + Axios + Sass Simple Template.
 - [vitify-admin](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
@@ -152,7 +155,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-ts-ghactions-template](https://github.com/pchmn/vite-react-ts-ghactions-template) - React, TypeScript, Vitest + React Testing Library, GitHub Actions + GitHub Pages, ESLint, Prettier, Husky, Commitlint.
 - [vite-react-tailwind-v3](https://github.com/huibizhang/template-vite-react-tailwind-v3) - Starter template for React + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
 - [vite-react-ts-tailwind-v3](https://github.com/huibizhang/template-vite-react-ts-tailwind-v3) - Starter template for React + Typescript + TailwindCSS and `prettier-plugin-tailwindcss` build-in.
-- [vite-react-ts-extended](https://github.com/laststance/vite-react-ts-extended) - React, TypeScript, TailwindCSS, MSW, Axios, Jest, React Testing Library, ESLint, Prettier, GitHub Actions.
+- [create-react-app-vite](https://github.com/laststance/create-react-app-vite) - React, TypeScript, TailwindCSS, MSW, Vitest, React Testing Library, ESLint, Prettier, GitHub Actions.
 - [vite-react-starter](https://github.com/fabgrel10/vite-react-starter) - React + ESLint + Prettier + SASS + Emotion + TailwindCSS + Jest + Testing Library.
 - [chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - React + TypeScript + SASS + Prettier + ESLint + GitHub Actions + Chrome Extension Manifest v3.
 - [vite-ant-design-pro](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
@@ -181,6 +184,9 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-tailwind-template](https://github.com/nrabhiram/vite-react-ts-tailwind-template) - React, TypeScript, ESLint, Prettier, Husky, Vitest for specs, and Tailwind + CSS Modules.
 - [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+- [react-vite-tailwindcss-template](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
+- [vite-tinybase-react](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
+- [vite-tinybase-ts-react](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
 
 #### Svelte
 
@@ -282,7 +288,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-assemblyscript-asc](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 - [vite-plugin-qiniu-oss](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 - [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
-- [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+- [Vite-plugin-graphiql](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 - [vite-plugin-graphql-server](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 - [vite-plugin-multiple](https://github.com/vite-plugin/vite-plugin-multiple) - Allow multiple Vite to run simultaneously.
 - [vite-plugin-target](https://github.com/vite-plugin/vite-plugin-target) - Electron, Node.js, etc.
@@ -290,6 +296,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 - [unplugin-config](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 - [vite-plugin-svg-spritemap](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+- [@spiriit/vite-plugin-svg-spritemap](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
+- [vite-plugin-auto-mpa-html](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 
 #### Loaders
 
@@ -306,6 +314,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-remark-rehype](https://github.com/y-nk/vite-plugin-remark-rehype) - Loads and transform markdown files using the unified ecosystem.
 - [vite-plugin-gltf](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 - [vite-plugin-importmap](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
+- [vite-plugin-thumbhash](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 - [vite-plugin-uniwebviewjs-ssr](https://github.com/censujiang/vite-plugin-uniwebviewjs-ssr) - A solution for using uni-webview-js under vite's SSR (or SSG).
 
 #### Bundling
@@ -320,7 +329,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-copy-files](https://github.com/mistjs/vite-plugin-copy-files) - Move files to the location of the corresponding package directory.
 - [vite-plugin-progress](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 - [vite-plugin-importus](https://github.com/Geocld/vite-plugin-importus) - Modularly import plugin, compatible with antd, lodash, material-ui and so on.
-- [vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+- [vite-plugin-build](https://github.com/samonxian/vite-plugin-build) - Transform the whole folder in library mode.
 - [vite-plugin-zip-file](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 - [vite-plugin-zip-pack](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 - [vite-plugin-cp](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
@@ -329,6 +338,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-image-optimizer](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 - [vite-plugin-no-bundle](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 - [vite-plugin-clean](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
+- [vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
 
 #### Transformers
 
@@ -368,10 +378,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@vituum/vite-plugin-juice](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 - [vite-plugin-setting-css-module](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 - [vite-plugin-version-mark](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
-- [vite-plugin-css-export](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+- [vite-plugin-css-export](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JavaScript, and support nested rules.
 - [vite-plugin-optimize-css-modules](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 - [Vite-plugin-haxe](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 - [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
+- [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 
 #### Helpers
 
@@ -421,6 +432,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-find-image-duplicates](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
 - [@froxz/vite-plugin-s3](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
+- [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 
 #### Testing
 
@@ -450,8 +462,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/main/packages/plugin-vue) - Official Vue 3 support.
-- ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
+- ![v2] [@vitejs/plugin-vue2](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
+- ![v2] [@vitejs/plugin-vue2-jsx](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
 - ![v2] [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2) - Vue 2 integration.
 - ![v2] [unplugin-vue2-script-setup](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
@@ -459,6 +473,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 - ![v3] [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
+- ![v3] [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 
 #### Loaders
 
@@ -480,6 +495,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v3] [vite-plugin-md-preview](https://github.com/JasKang/vite-plugin-md-preview) - Markdown code preview.
 - ![v3] [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - Code preview for Vue SFC in Markdown, supports online editing.
+- ![v3] [vite-plugin-vue-css-modules](https://github.com/zeokku/vite-plugin-vue-css-modules) - Implicit usage of CSS Modules for template and script SFC tags with static replacement.
 
 #### Helpers
 
@@ -488,6 +504,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v2] [vite-plugin-vue2-suffix](https://github.com/williamyorkl/vite-plugin-vue2-suffix) - Compatible without '.vue' suffix.
 - ![v23] [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser.
 - ![v23] [vite-plugin-vue-static-sfc](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
+- ![v3] [vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
+- ![v3] [vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
 
 <!--lint enable awesome-list-item-->
 
@@ -497,7 +515,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Official
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite/tree/main/packages/plugin-react) - The all-in-one Vite plugin for React projects.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 #### Presets
 
@@ -563,7 +582,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- [@nxext/angular-vite](https://github.com/nxext/nx-extensions/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
+- [@nxext/angular-vite](https://github.com/nxext/nxext-experimental/tree/main/packages/angular/vite) - A plugin that uses SWC to compile Angular modules.
 
 <hr>
 
@@ -637,6 +656,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react] ![vue3] ![vue2] ![svelte]
 - [ssr](https://github.com/zhangyuang/ssr) - A Server Side Rendering framework combined with Webpack/Vite. ![react] ![vue3] ![vue2]
 - [vavite](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+- [vue-ssr](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3]
 
 ### Frameworks
 
@@ -684,6 +704,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### WordPress
 
 - [wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+
+### TYPO3 CMS
+
+- [vite-asset-collector for TYPO3](https://github.com/s2b/vite-asset-collector) - Integration for TYPO3 CMS.
 
 ### Go
 
