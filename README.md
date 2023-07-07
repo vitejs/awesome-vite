@@ -510,7 +510,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-- [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+- [generouted](https://github.com/oedotme/generouted#react-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 #### Loaders
 
@@ -560,7 +560,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-- [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+- [generouted](https://github.com/oedotme/generouted#solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 <hr>
 
