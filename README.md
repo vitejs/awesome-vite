@@ -740,6 +740,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-express](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
+### ASP.NET Core
+
+- [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+
 ## Migrations
 
 ### Vue CLI
