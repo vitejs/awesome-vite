@@ -136,6 +136,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### React
 
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+- [vite-react-typescript](https://github.com/R35007/vite-react-typescript) - Vite React Typescript. husky, commitlint, eslint, prettier, stylelint, lint-staged, tailwindcss, sass, mui, tanstack router, redux toolkit, redux-saga, vitest, rtl, cypress.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
