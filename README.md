@@ -193,6 +193,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+- [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
 
 #### Solid
 
