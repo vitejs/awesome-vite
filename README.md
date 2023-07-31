@@ -666,6 +666,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vitext](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
 - [Vise](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
+- [@fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 
 <!--lint enable awesome-list-item-->
 
