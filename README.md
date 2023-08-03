@@ -260,7 +260,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack), the simple way.
 - [vite-plugin-comlink](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 - [vite-plugin-sass-dts](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
-- [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Type checker (TypeScript, Vue SFC, etc.) based on the webpack 5 plugin.
 - [vite-plugin-simple-gql](https://github.com/alansikora/vite-plugin-simple-gql) - Easily import .graphql and .gql files.
 - [vite-plugin-ali-oss](https://github.com/xiaweiss/vite-plugin-ali-oss) - Upload the production files bundled in the project to Ali OSS, except for HTML.
 - [vite-plugin-webfont-dl](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
@@ -470,7 +469,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue) - Official Vue 3 support.
+- ![v3] [@vitejs/plugin-vue](https://github.com/vitejs/vite-plugin-vue) - Official Vue 3 support.
 - ![v3] [@vitejs/plugin-vue-jsx](https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue-jsx) - Official Vue 3 JSX support.
 - ![v2] [@vitejs/plugin-vue2](https://github.com/vitejs/vite-plugin-vue2) - Official Vue 2 support.
 - ![v2] [@vitejs/plugin-vue2-jsx](https://github.com/vitejs/vite-plugin-vue2-jsx) - Official Vue 2 JSX support.
@@ -778,7 +777,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### React
 
 - [CRA migration guide](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
-- [CRA to Nx + Vite tool](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
 ## Projects Using Vite.js
 
