@@ -120,7 +120,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vue-sfc-in-js](https://github.com/iosamuel/vite-plugin-vue-sfc-in-js) - Vue SFC syntax in JS files, allows to create multiple components in a single .js file.
 - [vite-vue-lib-template](https://github.com/ehsan-shv/vite-vue-lib-template) - Vue 3, Eslint, Prettier, Conventional Commit, Pre-commit, Lint-staged, Semantic-release, TypeScript.
 - [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loader that can convert the style px in the vue tag to vw.
-- [vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vant, Pinia, VueUse, TypeScript, SocketIO, Mobile Demo.
+- [vue3-ts-pinia-vant](https://github.com/zhousg/consult-patient-h5-vue3-ts-pinia-vant) - Vue3, Vue Router, Pinia, Composition API, TypeScript, Vant4, VueUse, Axios, SocketIO, PostCSS, ESlint, Prettier, Husky, Lint-staged, Mock, Amap, QQ Login, Alipay Sandbox, Eruda, CI/CD, Vercel, Mobile Project.
 - [antdv-pro](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 #### Vue 2
@@ -187,12 +187,14 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [react-vite-tailwindcss-template](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 - [vite-tinybase-react](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
 - [vite-tinybase-ts-react](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
+- [vite-react_best_practices-template](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
 
 #### Svelte
 
 - [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+- [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
 
 #### Solid
 
@@ -296,9 +298,13 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [unplugin-fonts](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 - [unplugin-config](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 - [vite-plugin-svg-spritemap](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
+- [vite-plugin-dc](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
 - [@spiriit/vite-plugin-svg-spritemap](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
 - [vite-plugin-json-server](https://github.com/yracnet/vite-plugin-json-server) - A seamless integration of JSON Server library.
+- [vite-plugin-react-mpa](https://github.com/dingff/vite-plugin-react-mpa) - An out-of-the-box MPA.
 - [vite-plugin-auto-mpa-html](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
+- [vite-plugin-cloudflare-functions](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
+
 
 #### Loaders
 
@@ -339,6 +345,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-no-bundle](https://github.com/ManBearTM/vite-plugin-no-bundle) - Generate unbundled code for use with native ESM or other bundlers.
 - [vite-plugin-clean](https://github.com/z-ti/vite-plugin-clean) - Remove or Clean your build folder(s).
 - [vite-plugin-css-injected-by-js](https://github.com/marco-prontera/vite-plugin-css-injected-by-js) - Takes the CSS and adds it to the page through the JS.
+- [vite-plugin-copy-dts](https://github.com/biggerstar/vite-plugin-copy-dts) - Merge declare module and declare global to target d.ts.
 
 #### Transformers
 
@@ -383,6 +390,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [Vite-plugin-haxe](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 - [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 - [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
+- [vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 #### Helpers
 
@@ -433,6 +441,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@froxz/vite-plugin-s3](https://github.com/Froxz/vite-plugin-s3) - Allows you to upload files to S3.
 - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 - [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
+- [vite-plugin-cli-copy](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 
 #### Testing
 
@@ -474,6 +483,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator.
 - ![v3] [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 - ![v3] [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
+- ![v3] [vite-plugin-vue-routes](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
 
 #### Loaders
 
@@ -490,6 +500,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - ![v3] [unplugin-vue-i18n](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 - ![v3] [vite-plugin-i18n-resources](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
+- ![v3] [vite-plugin-i18n-autoimport](https://github.com/PengBoUESTC/vite-plugin-i18n-autoimport) - Auto import i18n config file for components.
 
 #### Transformers
 
@@ -586,6 +597,18 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 <hr>
 
+### Fastify
+
+#### Integrations
+
+- [vite-plugin-fastify](https://github.com/Vanilla-IceCream/vite-plugin-fastify) - Fastify plugin for Vite with Hot-module Replacement.
+
+#### Routing
+
+- [vite-plugin-fastify-routes](https://github.com/Vanilla-IceCream/vite-plugin-fastify-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+
+<hr>
+
 ### Electron
 
 #### Integrations
@@ -664,6 +687,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vitext](https://github.com/aslemammad/vitext) - The Next.js like React framework for better User & Developer experience. ![react]
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
 - [Vise](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
+- [@fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 
 <!--lint enable awesome-list-item-->
 
@@ -741,6 +765,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-express](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
+### ASP.NET Core
+
+- [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+
 ## Migrations
 
 ### Vue CLI
@@ -785,3 +813,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Preview.js](https://previewjs.com) - An IDE extension to instantly preview React, Vue 2 and Vue 3 components.
 - [react-keyboard-navigator](https://github.com/zheeeng/react-keyboard-navigator) - A suite of React components and hook for selecting from sibling components through the keyboard.
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
+- [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
