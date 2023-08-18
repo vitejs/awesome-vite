@@ -560,7 +560,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Routing
 
-- [generouted](https://github.com/oedotme/generouted/tree/main/plugins/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+- [generouted](https://github.com/oedotme/generouted/tree/main/packages/solid-router) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 
 <hr>
 
