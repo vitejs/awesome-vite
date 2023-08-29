@@ -60,7 +60,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-phaser-ts](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
 - [vite-tinybase](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
 - [vite-tinybase-ts](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
-- [vite-vanilla-js-template](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template with vanilla JavaScript with ESlint, Prettier, PostCSS w/ Nesting, Autoprefixer, CSS Nano, CSS Reset.
+- [vite-vanilla-js-template](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 
 #### Vue 3
 
