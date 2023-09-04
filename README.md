@@ -551,6 +551,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-react-inspector](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 - [vite-plugin-react-click-to-component](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
+#### SSG
+
+- [vite-react-ssg](https://github.com/Daydreamer-riri/vite-react-ssg) - Static-site generation for React.
+
 <!--lint ignore double-link-->
 
 > 💡 SSR frameworks are listed at [SSR - Frameworks](#ssr).
