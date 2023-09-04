@@ -395,6 +395,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-leader-line](https://github.com/yehan68/vite-plugin-leader-line) - Add default export to leader-line.
 - [vite-plugin-generate-html](https://github.com/gedouu/vite-plugin-generate-html) - Define separate output files for JavaScript and CSS bundles.
 - [vite-plugin-turbo-console](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+- [vite-plugin-html-injection](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 #### Helpers
 
