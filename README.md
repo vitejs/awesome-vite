@@ -377,7 +377,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-head](https://github.com/KesionX/vite-plugin-head) - Modify, add, delete `Metadata` in the head element.
 - [vite-plugin-html-env](https://github.com/lxs24sxl/vite-plugin-html-env) - Injection of environment variables in `index.html`.
 - [vite-plugin-html-inject](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
-- [vite-plugin-inject-preload](https://github.com/Applelo/vite-plugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
+- [unplugin-inject-preload](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 - [vite-plugin-document](https://github.com/JiangWeixian/vite-plugin-document) - Use `Document.tsx` as html template.
 - [@vituum/vite-plugin-handlebars](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
 - [@vituum/vite-plugin-pug](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
@@ -447,7 +447,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-vitepress-auto-sidebar](https://github.com/QC2168/vite-plugin-vitepress-auto-sidebar) - Automatically generates sidebar data by scanning directories, based on vitepress.
 - [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 - [vite-plugin-cli-copy](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
-- [vite-plugin-module-list](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder. 
+- [vite-plugin-module-list](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 
 #### Testing
 
