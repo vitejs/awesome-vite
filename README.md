@@ -46,6 +46,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [create-electron-vite](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 - [create-vite-app](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+- [bati](https://batijs.github.io) - Scaffolding a Vike project.
 
 ### Templates
 
