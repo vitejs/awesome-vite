@@ -326,6 +326,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-gltf](https://github.com/nytimes/rd-bundler-3d-plugins) - Load, transform, optimize, and compress glTF 3D files.
 - [vite-plugin-importmap](https://github.com/yuexiaoliang/vite-plugin-importmap) - I call this SASS at the code level.
 - [vite-plugin-thumbhash](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
+- [vite-plugin-php](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 - [unplugin-vue-images](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
 
 #### Bundling
