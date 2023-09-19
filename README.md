@@ -465,6 +465,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vitest-preview](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+- [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
 <hr>
 
