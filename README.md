@@ -47,7 +47,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [create-vite-app](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
-- [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your application choosing between different templates or create a modular setup from the tools/libraries in trend with TypeScript!
+- [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 
 ### Templates
 
