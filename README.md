@@ -315,6 +315,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@storybook/builder-vite](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 - [@builder.io/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 - [vite-plugin-meta-env](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
+- [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 
 #### Loaders
 
