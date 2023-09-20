@@ -195,7 +195,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react_best_practices-template](https://github.com/CodelyTV/vite-react_best_practices-template) - Template for creating React apps with TypeScript following best practices: Unit and end-to-end tests, Continuous Integration, and linting.
 - [vite-react-ssr-boost-template](https://github.com/Lomray-Software/vite-template) - Template for creating `React 18` SSR/SPA apps with `TypeScript`, `Mobx`, `React Router`, `Head Manager`, Suspense, Streaming. Also included CI/CD, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `Semantic Release`.
 - [vite-react-ts-shadcn-starter](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
-- [template-tauri-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Starter Vite template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
+- [template-tauri-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 #### Svelte
 
