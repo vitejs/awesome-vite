@@ -461,6 +461,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 - [vite-plugin-cli-copy](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 - [vite-plugin-module-list](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
+- [vite-env-caster](https://github.com/niku98/vite-env-caster) - Transform environment variables to javascript's type.
 
 #### Testing
 
