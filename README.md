@@ -461,6 +461,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-global-const](https://github.com/censujiang/vite-plugin-global-const) - Define constants for reuse of your code.
 - [vite-plugin-cli-copy](https://github.com/wChenonly/vite-plugin-cli-copy) - Start the project and automatically copy the terminal's network URL.
 - [vite-plugin-module-list](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
+- [unplugin-info](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module
 
 #### Testing
 
