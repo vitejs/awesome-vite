@@ -317,6 +317,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [@builder.io/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 - [vite-plugin-meta-env](https://github.com/wei-design/vite-plugin-meta-env) - Define dynamic env variables in import.meta.env.
 - [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
+- [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 
 #### Loaders
 
