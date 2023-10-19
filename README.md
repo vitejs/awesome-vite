@@ -64,6 +64,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-tinybase-ts](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
 - [vite-vanilla-js-template](https://github.com/Barata-Ribeiro/vite-vanilla-js-template) - Starter template ESlint, Prettier, PostCSS, Nesting, Autoprefixer, CSS Nano, CSS Reset.
 - [vite-starter-markup-template](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
+- [create-domco](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 
 #### Vue 3
 
