@@ -246,6 +246,11 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 
 - [vite-petite-vue-starter](https://github.com/misitebao/vite-petite-vue-starter) - Starter template.
 
+#### VanJS
+
+- [vite-vanjs-js](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
+- [vite-vanjs-ts](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
+
 #### Others
 
 - [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
