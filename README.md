@@ -616,6 +616,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
+#### Helpers
+
+- [vite-plugin-kit-routes](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 <hr>
 
 ### Solid
