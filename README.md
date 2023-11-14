@@ -482,6 +482,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-module-list](https://github.com/davidbonnet/vite-plugin-module-list) - Automatically import the modules found in a specified folder.
 - [unplugin-info](https://github.com/yjl9903/unplugin-info) - Export build information as a virutal module.
 - [vite-plugin-auto-origin](https://github.com/s2b/vite-plugin-auto-origin) - Detect origin configuration automatically based on incoming requests to dev server.
+- [vite-plugin-deadfile](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
 
 #### Testing
 
