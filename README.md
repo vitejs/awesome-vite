@@ -840,6 +840,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### React
 
 - [CRA migration guide](https://github.com/nordcloud/pat-frontend-template/blob/master/docs/CRA_MIGRATION_GUIDE.md) - A step-by-step guide for migrating a project from Create React App.
+- [Viject](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## Projects Using Vite.js
 
