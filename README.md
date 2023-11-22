@@ -484,6 +484,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-auto-origin](https://github.com/s2b/vite-plugin-auto-origin) - Detect origin configuration automatically based on incoming requests to dev server.
 - [vite-plugin-deadfile](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
 - [vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
+- [vite-font-extractor-plugin](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 - [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
 
 #### Testing
