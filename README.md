@@ -205,7 +205,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-react-dapp-template](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 - [vite-express-ssr-ts](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 - [vite-react-flow-template](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
-- [react-vite-template](https://github.com/Mirazex/react-vite-template) - frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features)
+- [react-vite-template](https://github.com/Mirazex/react-vite-template) - Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features).
   
 #### Svelte
 
