@@ -488,6 +488,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 - [vite-font-extractor-plugin](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 - [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+- [vite-plugin-ngrok](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
 
 #### Testing
 
