@@ -334,6 +334,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 - [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 - [remix-development-tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+- [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 
 #### Loaders
 
@@ -488,6 +489,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 - [vite-font-extractor-plugin](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 - [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+- [vite-plugin-ngrok](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
 - [vite-plugin-docker](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 
 #### Testing
