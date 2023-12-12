@@ -204,15 +204,16 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-dapp-template](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 - [vite-express-ssr-ts](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 - [vite-react-flow-template](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
-- [react-vite-template](https://github.com/Mirazex/react-vite-template) - Frontend template for building web apps (React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged and others features).
-  
+- [react-vite-template](https://github.com/Mirazex/react-vite-template) - React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged.
+- [gravity-ui-vite-template](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
+
 #### Svelte
 
 - [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
 - [sttv](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 - [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
-- [vite-svelte-flow-template](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template. 
+- [vite-svelte-flow-template](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
 
 #### Solid
 
@@ -334,6 +335,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 - [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 - [remix-development-tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+- [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 
 #### Loaders
 
@@ -488,6 +490,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - Utility that represents bundles as an interactive treemap.
 - [vite-font-extractor-plugin](https://github.com/a3mitskevich/vite-font-extractor-plugin) - Utility that minification bundle fonts by glyphs.
 - [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
+- [vite-plugin-ngrok](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
+- [vite-plugin-docker](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 
 #### Testing
 
