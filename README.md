@@ -355,6 +355,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-thumbhash](https://github.com/cijiugechu/vite-plugin-thumbhash) - Load and transform images using ThumbHash.
 - [vite-plugin-php](https://github.com/donnikitos/vite-plugin-php) - Load and process PHP-entry files instead of default index.html.
 - [unplugin-vue-images](https://github.com/vtrbo/unplugin-vue-images) - Use the image resource as a component.
+- [vite-plugin-lqip](https://github.com/drwpow/vite-plugin-lqip) - Generate low quality image placeholders (LQIP) in any Vite app
 
 #### Bundling
 
