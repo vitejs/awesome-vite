@@ -492,6 +492,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-i18n-detector](https://github.com/hemengke1997/vite-plugin-i18n-detector) - Lazyload i18n locale resources.
 - [vite-plugin-ngrok](https://github.com/aphex/vite-plugin-ngrok) - Integration with Ngrok, allowing you to easily share your local development server.
 - [vite-plugin-docker](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
+- [vite-plugin-rest-api](https://github.com/yracnet/vite-plugin-rest-api) - Generate route mapping for API Routes services from the directory tree.
 
 #### Testing
 
