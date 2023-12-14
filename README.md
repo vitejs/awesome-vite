@@ -797,6 +797,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### WordPress
 
 - [wordpress-vite-assets](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+- [Kima](https://github.com/axelilali/kima) - Theme with Twig.
 
 ### TYPO3 CMS
 
