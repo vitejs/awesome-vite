@@ -206,6 +206,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-flow-template](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
 - [react-vite-template](https://github.com/Mirazex/react-vite-template) - React, TypeScript, Vite, Mantine, Million, Husky, Prettier, Import Sorter, Lint-staged.
 - [gravity-ui-vite-template](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
+- [vite-react-component-library-starter](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 
 #### Svelte
 
