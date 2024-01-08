@@ -842,7 +842,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Node.js
 
 - [vite-express](https://github.com/szymmis/vite-express) - Integration for Express web apps.
-- [vite-manifest](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
+- [vite-manifest-parser](https://github.com/sullay/vite-manifest-parser) - Parses manifest.json to generate HTML script and link tags.
 
 ### ASP.NET Core
 
