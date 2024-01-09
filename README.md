@@ -440,6 +440,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-console-line](https://github.com/lq9958/vite-plugin-console-line) - Add **console.log()** file location and line number infomation in browser's console.
 - [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 - [unplugin-generate-component-name](https://github.com/CCherry07/unplugin-generate-component-name) - Automatically generate component's name.
+- [@laynezh/vite-plugin-lib-assets](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
 
 #### Helpers
 
