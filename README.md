@@ -57,7 +57,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 - [vite-tailwind-nojs-starter](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 - [vite-tailwind-stimulus-starter](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
-- [vite-tailwind](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
 - [docker-vitejs-tailwind-handlebars](https://github.com/dendrofen/docker-vitejs-tailwind-handlebars) - Starter template for TailwindCSS and Handlebars (Docker Compose).
 - [vite-phaser-ts](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
 - [vite-tinybase](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
