@@ -35,7 +35,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Release Notes](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 - [Vue 3 Docs](https://vuejs.org/)
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
-- [Migration from v2](https://vitejs.dev/guide/migration.html)
+- [Migration from v4](https://vitejs.dev/guide/migration.html)
 
 <!--### Tutorials-->
 
