@@ -210,6 +210,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [gravity-ui-vite-template](https://github.com/gravity-ui/gravity-ui-vite-example) - Template with Gravity UI ecosystem (React, TypeScript, Gravity UI, Vite, Husky, ESLint, Prettier, Lint-staged).
 - [vite-react-component-library-starter](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 - [vite-template-awesome-soho](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
+- [react-component-library-vite](https://github.com/gsharath/react-component-library-vite) - A library template for with React, Javascript,styled components and multiple output files.
 
 #### Svelte
 
