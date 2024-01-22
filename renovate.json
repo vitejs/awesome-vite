@@ -1,6 +1,28 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
-  ]
+	"timezone": "Asia/Tokyo",
+	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
+	"extends": ["config:recommended"],
+	"includePaths": ["."],
+	"schedule": ["at any time"],
+	"autoApprove": true,
+	"packageRules": [
+		{
+			"groupName": "react",
+			"matchPackageNames": ["@types/react", "@types/react-dom"],
+			"matchPackagePrefixes": ["react"]
+		},
+		{
+			"groupName": "eslint",
+			"matchPackageNames": ["@types/eslint", "babel-eslint"],
+			"matchPackagePrefixes": ["@typescript-eslint/", "eslint"]
+		},
+		{
+			"matchUpdateTypes": ["patch"],
+			"automerge": true
+		},
+		{
+			"matchUpdateTypes": ["major", "minor"],
+			"automerge": false
+		}
+	]
 }
