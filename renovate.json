@@ -2,8 +2,7 @@
 	"timezone": "Asia/Tokyo",
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:recommended"],
-	"includePaths": ["."],
-	"schedule": ["at any time"],
+	"schedule": ["every 12am"],
 	"autoApprove": true,
 	"packageRules": [
 		{
