@@ -341,6 +341,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
 - [remix-development-tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 - [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
+- [vite-plugin-biome](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 
 #### Loaders
 
