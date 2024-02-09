@@ -608,7 +608,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Loaders
 
 - [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
-- [vite-plugin-react-rich-svg](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options! (Such as dataURI, SVGR component and raw html code)
+- [vite-plugin-react-rich-svg](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 #### Transformers
 
