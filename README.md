@@ -447,7 +447,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-public-typescript](https://github.com/hemengke1997/vite-plugin-public-typescript) - Inject Typescript into `index.html`.
 - [unplugin-generate-component-name](https://github.com/CCherry07/unplugin-generate-component-name) - Automatically generate component's name.
 - [@laynezh/vite-plugin-lib-assets](https://github.com/laynezh/vite-plugin-lib-assets) - Extracts resource files referenced in `library mode` instead of embedded them as base64.
-- [css-media-splitter/vite-plugin](https://github.com/levchak0910/css-media-splitter) - Tool that extracts all @media at-rules into a dedicated .css files and download it only when user's device matches the media query.
+- [css-media-splitter/vite-plugin](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 
 #### Helpers
 
