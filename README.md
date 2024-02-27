@@ -798,10 +798,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [django-vite](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 - [django-vite-plugin](https://github.com/protibimbok/django-vite-plugin) - Integration for Django applications including vite plugin.
 
-### Drupal
- - [Vite module](https://www.drupal.org/project/vite) - Backend integration for Drupal.
- - [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Twig template engine support with support for includes/embeds and Drupal twig features.
-
 ### Flask
 
 - [Flask-Vite](https://pypi.org/project/flask-vite/) - Integration with Flask.
@@ -866,6 +862,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### ASP.NET Core
 
 - [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
+
+### Drupal
+ - [Vite module](https://www.drupal.org/project/vite) - Backend integration for Drupal.
+ - [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
 ## Migrations
 
