@@ -865,6 +865,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
+### Drupal
+- [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
+- [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
+
 ## Migrations
 
 ### Vue CLI
