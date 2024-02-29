@@ -343,6 +343,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 - [vite-plugin-biome](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 - [vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+- [@tomjs/vite-plugin-electron](https://github.com/tomjs/vite-plugin-electron) - Easily develop Electron applications.
 
 #### Loaders
 
