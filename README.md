@@ -65,7 +65,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-starter-markup-template](https://github.com/Grinch3214/vite-starter-markup-template) - Starter template for Markup.
 - [create-domco](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 - [vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
-- [vite-alpine-template](https://github.com/dvd101x/vite-alpine) Starter template for Alpine.
+- [vite-alpine-template](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 
 #### Vue 3
 
