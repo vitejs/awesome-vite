@@ -212,6 +212,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-component-library-starter](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 - [vite-template-awesome-soho](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 - [react-component-library-vite](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
+- [template-vite-react-server](https://github.com/state-less/template-vite-react-server) - React + React Server: Blazing fast Components on the Backend.  
 
 #### Svelte
 
