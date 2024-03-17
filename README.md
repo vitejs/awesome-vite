@@ -146,6 +146,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### React
 
+- [template-vite-react-server](https://github.com/state-less/template-vite-react-server) - Vite + React + React Server: Blazing fast  Components on the Backend.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-reactts-eslint-prettier](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, TypeScript, Axios.
