@@ -264,7 +264,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### GitHub
 
-- [github-action-template](https://github.com/hywax/github-action-template) - Starter template for Github Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
+- [github-action-template](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
 
 #### Others
 
