@@ -262,7 +262,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vanjs-js](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
 - [vite-vanjs-ts](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
 
-#### Github
+#### GitHub
 
 - [github-action-template](https://github.com/hywax/github-action-template) - Starter template for Github Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
 
