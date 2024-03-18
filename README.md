@@ -406,6 +406,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-imagemin](https://github.com/vHeemstra/vite-plugin-imagemin) - Optimize and compress your image assets and optionally create WebP/AVIF.
 - [vite-plugin-lib-types](https://github.com/keuby/vite-plugin-lib-types) - Generate DTS file while building library.
 - [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
+- [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Plugin for Vite to generating robots.txt for production and development builds.
 
 #### Transformers
 
