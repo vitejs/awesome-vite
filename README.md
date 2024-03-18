@@ -212,7 +212,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-component-library-starter](https://github.com/rayyamhk/vite-react-component-library-starter) - A starter template for creating React component libraries with `TypeScript`, `Tailwind CSS`, `Storybook`, `Vitest`, `ESLint`, `Prettier`, `Husky`, and `GitHub Action`.
 - [vite-template-awesome-soho](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 - [react-component-library-vite](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
-- [vite-react-redux-saga-typescript](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `Typescript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`
+- [vite-react-redux-saga-typescript](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `TypeScript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`
 
 #### Svelte
 
