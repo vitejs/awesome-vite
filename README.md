@@ -263,6 +263,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vanjs-js](https://github.com/yahia-berashish/vite-vanjs-js) - VanJS and VanX with vanilla JavaScript.
 - [vite-vanjs-ts](https://github.com/yahia-berashish/vite-vanjs-ts) - VanJS and VanX with TypeScript.
 
+#### GitHub
+
+- [github-action-template](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, Typescript, ESLint, Vitest, Husky, Conventional Commits.
+
 #### Others
 
 - [P5.js Starter Template](https://github.com/makinteract/p5js-vite) - Templates for creating P5.js sketches.
