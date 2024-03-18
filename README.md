@@ -374,6 +374,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-ms-clarity](https://github.com/KermanX/vite-plugin-ms-clarity) - Inject the Microsoft Clarity script to `index.html`.
 - [@cyco130/vite-plugin-mdx](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
 - [vite-awesome-svg-loader](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
+- [vite-plugin-auto-deployer](https://github.com/sdark1326632/vite-plugin-auto-deployer) - Automatically publish to server
+
+
 
 #### Bundling
 
