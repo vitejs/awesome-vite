@@ -522,6 +522,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-docker](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 - [vite-plugin-api-routes](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
 - [unplugin-detect-duplicated-deps](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+- [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
 
 #### Testing
 
@@ -874,6 +875,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
 ### Drupal
+
 - [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
 - [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
