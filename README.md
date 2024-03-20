@@ -213,6 +213,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-template-awesome-soho](https://github.com/comnori/vite-template-awesome-soho) - `DevContainer` Template for creating `React 18`, `Javascript + JSDoc`, `React Router`, `Ant Design`, `ESLint`, `EditorConfig`, `.env`, `SonarLint`, `Vitest`.
 - [react-component-library-vite](https://github.com/gsharath/react-component-library-vite) - A library template for with `React`, `Javascript`,`Styled-Components`, `Vitest`, `React Testing Library`, `Storybook`.
 - [ReTail](https://github.com/nikolailehbrink/retail) - Starter template for building Full Stack WEB applications with `Remix` using `TypeScript`, `Tailwind CSS`, `Prettier` and `ESLint`.
+- [vite-react-redux-saga-typescript](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `TypeScript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`.
 
 #### Svelte
 
@@ -876,6 +877,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vite.AspNetCore](https://github.com/Eptagone/Vite.AspNetCore) - Integration with ASP.NET Core projects.
 
 ### Drupal
+
 - [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
 - [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
