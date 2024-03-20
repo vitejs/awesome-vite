@@ -781,6 +781,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vue-ssr](https://github.com/bistroo/vue-ssr) - Minimalistic wrapper to develop and run SSR powered Vue apps. ![vue3]
 - [vite-ssr-boost](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react]
 - [SSRx](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
+- [Vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK. Allows adding SSR to a Vite app.
 
 ### Frameworks
 
