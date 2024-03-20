@@ -524,6 +524,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-docker](https://github.com/yracnet/vite-plugin-docker) - Docker utility based on Dockerode.
 - [vite-plugin-api-routes](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
 - [unplugin-detect-duplicated-deps](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
+- [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
 
 #### Testing
 
