@@ -352,6 +352,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 - [@tomjs/vite-plugin-electron](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 - [@tomjs/vite-plugin-vscode](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
+- [vite-plugin-px-rem-vw](https://github.com/zscumt123/vite-plugin-px-rem-vw) - Integrate PostCSS plugin pxTorem and pxTovw.
 
 #### Loaders
 
