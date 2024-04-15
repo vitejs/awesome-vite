@@ -631,6 +631,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-react-rich-svg](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 #### Transformers
+- [@stylin/vite-plugin](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
 
 #### Framework
 
