@@ -356,6 +356,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@tomjs/vite-plugin-electron](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 - [@tomjs/vite-plugin-vscode](https://github.com/tomjs/vite-plugin-vscode) - Easily use web frameworks to develop `VSCode Extension`'s `Webview`, and support `HMR` and `Debug`.
 - [vite-plugin-px-rem-vw](https://github.com/zscumt123/vite-plugin-px-rem-vw) - Integrate PostCSS plugin pxTorem and pxTovw.
+- [vite-plugin-mpg](https://github.com/just-ads/vite-plugin-multi-page) - Simple configuration of multi page applications.
 
 #### Loaders
 
