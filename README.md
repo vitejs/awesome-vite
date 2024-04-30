@@ -217,6 +217,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-redux-saga-typescript](https://github.com/Dulajdeshan/vite-react-redux-saga-typescript) - Starter template with `React`, `TypeScript`, `Redux (Redux Toolkit)`, `Saga`, `React Testing Library`, `ESLint`, `Prettier` and `Husky`.
 - [vite-complete-react-app](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
 - [vite-react-framer-starter](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
+- [vite-react-ts-d365webres](https://github.com/rsquarev/vite-react-ts-d365webres) - Starter template for Dynamics 365 CRM HTML Webresource `React + TypeScript + Vite + FluentUI v9 + Dynamics 365 HTML WebResource`
 
 #### Svelte
 
