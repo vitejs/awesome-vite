@@ -134,6 +134,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [arco-admin](https://github.com/LIjiAngChen8/arco-admin) - `Vite` + `ArcoDesign` + `TypeScript` follows `ESM` standards, offering an out-of-the-box,standardized, feature-rich template for middle and back-office management systems.
 - [materio-free-vuetify-nuxtjs-admin-template](https://github.com/themeselection/materio-vuetify-nuxtjs-admin-template-free) - Vuejs 3, Vite 5, Vuetify 3 & NuxtJS 3.
 - [vite-plugin-vue-style-bundler](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
+- [celeris-web](https://github.com/kirklin/celeris-web) - Monorepo Web App template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 
 #### Vue 2
 
