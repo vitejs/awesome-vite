@@ -152,6 +152,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-complete-react-app](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
 - [vite-react-framer-starter](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 - [vite-jsx-remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
+- [React Tanning](https://github.com/padunk/react-tanning) - 🌴 Starter template for building web applications with `React + Vite + TypeScript + TanStack + Tailwind`.
 
 #### Svelte
 
@@ -189,9 +190,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Petite-Vue
 
-
 #### VanJS
-
 
 #### GitHub
 
@@ -478,7 +477,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Presets
 
-
 #### Routing
 
 - [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
@@ -489,6 +487,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [vite-plugin-react-rich-svg](https://github.com/iGoodie/vite-plugin-react-rich-svg) - Seamless SVG loader with versatile import options; such as DataURI, SVGR Component and Raw HTML Code.
 
 #### Transformers
+
 - [@stylin/vite-plugin](https://github.com/sultan99/stylin/tree/main/packages/vite-plugin) - Transform CSS and SCSS modules into React components.
 
 #### Framework
@@ -554,7 +553,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Integrations
 
-
 <hr>
 
 ### Fastify
@@ -576,7 +574,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [electron-vite](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
 #### Presets
-
 
 <hr>
 
@@ -655,7 +652,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Adobe Experience Manager
 
-
 ### Craft CMS
 
 - [Craft Vite](https://github.com/nystudio107/craft-vite) - Plugin for integration with Craft CMS.
@@ -694,13 +690,11 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Go
 
-
 ### Rust
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 
 ### OctoberCMS
-
 
 ### Symfony
 
@@ -712,9 +706,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### CodeIgniter
 
-
 ### DDEV
-
 
 ### Node.js
 
@@ -733,7 +725,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ## Migrations
 
 ### Vue CLI
-
 
 ### React
 
