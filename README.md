@@ -252,7 +252,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@builder.io/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 - [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 - [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
-- [remix-development-tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+- [remix-development-tools](https://github.com/forge42dev/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 - [vite-plugin-legacy-swc](https://github.com/CyanSalt/vite-plugin-legacy-swc) - Legacy browser support with SWC.
 - [vite-plugin-biome](https://github.com/skrulling/vite-plugin-biome) - Biome linter.
 - [vite-plugin-oxlint](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
@@ -335,6 +335,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [css-media-splitter/vite-plugin](https://github.com/levchak0910/css-media-splitter) - Extracts all `@media` At-rules into a dedicated `.css` files and download it only when matches the media query.
 - [@tomjs/vite-plugin-html](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
 - [@tomjs/vite-plugin-iconify](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
+- [vite-plugin-icons-spritesheet](https://github.com/forge42dev/vite-plugin-icons-spritesheet) - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
 
 #### Helpers
 
