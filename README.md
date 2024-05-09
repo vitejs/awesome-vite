@@ -732,7 +732,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### PHP
 
-- [PHP-Vite](https://github.com/mindplay-dk/php-vite) - Integration for PHP, no framework dependencies. ([example](https://github.com/mindplay-dk/php-vite-mpa))
+- [PHP-Vite](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
 
 ## Migrations
 
