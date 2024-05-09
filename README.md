@@ -105,6 +105,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### React
 
+- [React-Template](https://github.com/deepaksisodiya/react-template) - React, Vite, ESlint, Prettier, TypeScript, React-Router-dom, VS Code Settings, Pre-commit Hooks with Husky, Environment Variables Support, Vitest (@testing-library/jest-dom, @testing-library/react, @testing-library/user-event, jsdom)
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
