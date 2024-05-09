@@ -152,6 +152,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-complete-react-app](https://github.com/ChrisUser/vite-complete-react-app) - Starter template for building web applications using `React`, `TypeScript`, `Redux Toolkit`, `React Router`, `Axios`, `Sass`, `Moment`, `ESLint`, `Prettier` and `React Testing Library`.
 - [vite-react-framer-starter](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 - [vite-jsx-remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
+- [React-Template](https://github.com/deepaksisodiya/react-template) - React, Vite, ESlint, Prettier, TypeScript, React-Router-dom, VS Code Settings, Pre-commit Hooks with Husky, Environment Variables Support, Vitest, @testing-library/jest-dom, @testing-library/react, @testing-library/user-event, jsdom
+
 
 #### Svelte
 
