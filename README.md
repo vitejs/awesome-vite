@@ -722,6 +722,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vite module](https://git.drupalcode.org/project/vite) - Backend integration for Drupal.
 - [vite-plugin-twig-drupal](https://github.com/larowlan/vite-plugin-twig-drupal) - Support for Twig with includes/embeds and Drupal specific twig features.
 
+### PHP
+
+- [PHP-Vite](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
+
 ## Migrations
 
 ### Vue CLI
