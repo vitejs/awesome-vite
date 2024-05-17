@@ -438,7 +438,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v2] [vite-plugin-vue2-svg](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 - ![v3] [unplugin-svg-component](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 - ![v23] [vite-plugin-markdown-mermaid](https://github.com/KermanX/vite-plugin-markdown-mermaid) - Load Markdown files, with Mermaid rendering support.
-- ![v3] [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - A loading program that can convert the inline style px in Vue to vw, suitable for Vite+Vue3.
+- ![v3] [vite-plugin-style-vw-loader](https://github.com/gitboyzcf/vite-plugin-style-vw-loader) - Converting the inline style px to vw.
 
 #### SSG
 
