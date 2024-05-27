@@ -183,6 +183,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 - [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
+#### Neutralino
+
+- [vite-react-neutralino-template](https://github.com/Bonnev/vite-react-neutralino-template) - Neutralino + Vite + React template.
+
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
