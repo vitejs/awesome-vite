@@ -750,7 +750,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [IslandJS](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 - [Vituum](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 - [Compiiile](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
-- [Gracile](https://github.com/gracile-web/gracile) - A thin, full-stack, meta-framework. Powered by Lit SSR.
+- [Gracile](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
 
 ### Apps/Websites
 
