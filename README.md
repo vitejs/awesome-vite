@@ -185,8 +185,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Neutralino
 
-Neutralino is a tool for lightweight cross-platform desktop apps.
-
 - [vite-react-neutralino-template](https://github.com/Bonnev/vite-react-neutralino-template) - Neutralino + Vite + React template.
 
 #### Elm
