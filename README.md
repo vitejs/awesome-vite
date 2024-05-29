@@ -394,7 +394,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
 - [vite-plugin-pretty-module-classnames](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the -module suffix to the class names of CSS modules.
 - [vite-plugin-serve-static](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
-- [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema
+- [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 
 #### Testing
 
