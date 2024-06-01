@@ -153,6 +153,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-framer-starter](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 - [vite-jsx-remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
 - [React Tanning](https://github.com/padunk/react-tanning) - Starter template with `React + Vite + TypeScript + TanStack + Tailwind`.
+- [Reactive](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
 
 #### Svelte
 
