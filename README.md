@@ -341,6 +341,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@tomjs/vite-plugin-html](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
 - [@tomjs/vite-plugin-iconify](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
 - [vite-plugin-icons-spritesheet](https://github.com/forge42dev/vite-plugin-icons-spritesheet) - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
+- [vite-plugin-abbrlink](https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme) - Add the abbrlink attribute to the `markdown` file in the specified directory
 
 #### Helpers
 
