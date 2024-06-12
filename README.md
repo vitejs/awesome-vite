@@ -153,6 +153,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-react-framer-starter](https://github.com/matozz/vite-react-framer-starter) - Starter template with `React`, `TypeScript`, `Framer Motion`, `Tailwind CSS`, `ESLint`, and `Prettier`.
 - [vite-jsx-remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
 - [React Tanning](https://github.com/padunk/react-tanning) - Starter template with `React + Vite + TypeScript + TanStack + Tailwind`.
+- [Reactive](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
 
 #### Svelte
 
@@ -340,6 +341,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@tomjs/vite-plugin-html](https://github.com/tomjs/vite-plugin-html) - Support compression, loading, CDN and others for `index.html`.
 - [@tomjs/vite-plugin-iconify](https://github.com/tomjs/vite-plugin-iconify) - Inject the global variable `IconifyProviders` into `index.html` for `iconify`, and support local area network and custom url.
 - [vite-plugin-icons-spritesheet](https://github.com/forge42dev/vite-plugin-icons-spritesheet) - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
+- [vite-plugin-abbrlink](https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme) - Add the abbrlink attribute to the `markdown` file in the specified directory.
 
 #### Helpers
 
@@ -392,8 +394,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-api-routes](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
 - [unplugin-detect-duplicated-deps](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 - [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
-- [vite-plugin-pretty-module-classnames](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the -module suffix to the class names of CSS modules.
+- [vite-plugin-pretty-module-classnames](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
 - [vite-plugin-serve-static](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
+- [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 
 #### Testing
 
@@ -756,6 +759,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vituum](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 - [Compiiile](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 - [Gracile](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
+- [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 
 ### Apps/Websites
 
