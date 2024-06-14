@@ -735,7 +735,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### PHP
 
 - [PHP-Vite](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
-- [PHP-Vite Starter Repo](https://github.com/nititech/php-vite-starter) - Modern vanilla PHP-Vite starter repository, with out of the box features like TypeScript/JavaScript transpilation, Tailwind CSS implementation, SASS/SCSS support, EJS template language support, image transformation tools and a SVG loader
+- [PHP-Vite Starter Repo](https://github.com/nititech/php-vite-starter) - Modern vanilla PHP-Vite starter repository, with out of the box features like TypeScript/JavaScript transpilation, Tailwind CSS implementation, SASS/SCSS support, EJS template language support, image transformation tools and a SVG loader.
 
 ## Migrations
 
