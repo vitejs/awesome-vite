@@ -759,6 +759,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Compiiile](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 - [Gracile](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
+- [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 
 ### Apps/Websites
 
