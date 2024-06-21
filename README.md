@@ -154,7 +154,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-jsx-remove-attributes](https://github.com/jacobbogers/rollup-plugin-jsx-remove-attributes) - Remove the `data-testid` (configurable) from production builds.
 - [React Tanning](https://github.com/padunk/react-tanning) - Starter template with `React + Vite + TypeScript + TanStack + Tailwind`.
 - [Reactive](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
-- [RVTGB](https://github.com/up2dul/rvtgb) - ⚛️ React + TypeScript starter template, with 📁 file-based routing with `Generouted`, and `Biome` as the code 📝 linter + formatter.
+- [RVTGB](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
 
 #### Svelte
 
