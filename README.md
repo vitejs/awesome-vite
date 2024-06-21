@@ -701,6 +701,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Go
 
+- [vite](https://github.com/olivere/vite) - Integration with Go.
+
 ### Rust
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
