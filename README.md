@@ -492,6 +492,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Routing
 
 - [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+- [vite-plugin-react-router-pages](https://github.com/liyatang/vite-plugin-react-router-pages) - File system based route generator for `react-router v6`.
 
 #### Loaders
 
