@@ -155,7 +155,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [React Tanning](https://github.com/padunk/react-tanning) - Starter template with `React + Vite + TypeScript + TanStack + Tailwind`.
 - [Reactive](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
 - [RVTGB](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
-- [vite-biome-tailwind-template](https://github.com/not-first/vite-biome-tailwind-template) - React, Typescript, BiomeJS, TailwindCSS.
+- [vite-biome-tailwind-template](https://github.com/not-first/vite-biome-tailwind-template) - React, Typescript, Biome, Tailwind CSS.
 
 #### Svelte
 
