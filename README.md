@@ -658,6 +658,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Vise](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
 - [@fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 - [vite-plugin-vercel](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
+- [vite-vlugin-vercel-skew-protection](https://github.com/bitttttten/vite-vlugin-vercel-skew-protection) - Helps configure Vercel Skew Protection.
 
 <!--lint enable awesome-list-item-->
 
