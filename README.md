@@ -493,6 +493,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Routing
 
 - [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
+- [unplugin-remix-router](https://github.com/ws-rush/unplugin-remix-router) - Generates a React Router file, that depends on Remix v2 file-based router convention.
 
 #### Loaders
 
