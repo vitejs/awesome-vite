@@ -64,6 +64,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [create-domco](https://github.com/rossrobino/domco) - Starter template for domco SSG.
 - [vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 - [vite-alpine-template](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
+- [vite-ts-lib-starter](https://github.com/matronator/vite-ts-lib-starter) - A minimal starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 
 #### Vue 3
 
