@@ -65,7 +65,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Starter template TypeScript, ESLint, Vitest, Husky, Conventional Commits, GitHub actions.
 - [vite-alpine-template](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 - [vite-ts-lib-starter](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
-- [vite-swagger-ui](https://github.com/lukefernandez/vite-swagger-ui) — Swagger UI with built-in support for multiple APIs.
+- [vite-swagger-ui](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
 
 #### Vue 3
 
