@@ -413,6 +413,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 - [@poyro/vitest](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
 
+#### Security
+
+- [vite-plugin-csp-guard](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
+
 <hr>
 
 ### Vue
