@@ -411,6 +411,11 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 
+#### Security
+
+- [vite-plugin-csp-guard](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
+- [vite-plugin-csp](https://github.com/josh-hemphill/vite-plugin-csp) - Lets you configure a Content Security Policy to your project.
+
 <hr>
 
 ### Vue
