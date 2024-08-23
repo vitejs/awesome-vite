@@ -160,6 +160,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [RVTGB](https://github.com/up2dul/rvtgb) - `React` + `TypeScript` starter template, with file-based routing with `Generouted` and `Biome`.
 - [vite-biome-tailwind-template](https://github.com/not-first/vite-biome-tailwind-template) - React, Typescript, Biome, Tailwind CSS.
 - [React Dapp Starter](https://github.com/Manta-Network/react-dapp-starter) - Enterprise-ready Web3 DApp starter with `TypeScript`, `TailwindCSS`, `Web3Modal`, `Wagmi`, `Shadcn UI`, `Zustand`, and `TanStack Query` for scalable decentralized applications.
+- [vite-template-react-ts-jest](https://github.com/ivanzusko/vite-template-react-ts-jest) - React + Typescript + Jest starter (`jest` was added to the offial `vite`'s `react-ts` template)
 
 #### Svelte
 
