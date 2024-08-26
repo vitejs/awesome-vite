@@ -351,6 +351,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-icons-spritesheet](https://github.com/forge42dev/vite-plugin-icons-spritesheet) - Generate a spritesheet and TypeScript types from SVG icons by listening to the icons folder changes.
 - [vite-plugin-abbrlink](https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme) - Add the abbrlink attribute to the `markdown` file in the specified directory.
 - [vite-plugin-native](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
+- [@yaml-js/vite](https://github.com/yaml-js/vite) - Enhance vite-powered projects with seamless YAML integration, allowing import of Yaml files and using them for app configuration.
 
 #### Helpers
 
