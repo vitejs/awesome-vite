@@ -759,6 +759,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [PHP-Vite](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
 - [PHP-Vite Starter Repo](https://github.com/nititech/php-vite-starter) - Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support.
+- [php-vitelinker](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
 
 ## Migrations
 
