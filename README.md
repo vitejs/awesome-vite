@@ -312,6 +312,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 - [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+- [vite-plugin-dynamic-chunk](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) - Split dependencies between entry and dynamic entry, and merge small chunks.
 
 #### Transformers
 
