@@ -168,6 +168,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 - [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
 - [vite-svelte-flow-template](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
+- [vite-svelte-docker-template](https://github.com/tony-stark-eth/vite-svelte-docker-template) - `Docker` + `Svelte` + `Vitest`.
 
 #### Solid
 
