@@ -353,6 +353,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-abbrlink](https://github.com/tangerball/abbrlink/tree/master/packages/vite-plugin-abbrlink#readme) - Add the abbrlink attribute to the `markdown` file in the specified directory.
 - [vite-plugin-native](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
 - [@yoichiro/vite-plugin-handlebars](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
+- [vite-plugin-magic-preloader](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 
 #### Helpers
 
@@ -409,6 +410,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-serve-static](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
 - [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
+- [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 - [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`, zero dependency.
 
 #### Testing
@@ -719,7 +721,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [vite-plugin-typo3](https://github.com/s2b/vite-plugin-typo3) - Frontend integration for TYPO3 CMS.
 - [vite-asset-collector for TYPO3](https://github.com/s2b/vite-asset-collector) - Backend integration for TYPO3 CMS.
-
 
 ### Go
 
