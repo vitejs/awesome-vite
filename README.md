@@ -411,7 +411,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 - [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
-- [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`, zero dependency.
+- [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`.
 
 #### Testing
 
