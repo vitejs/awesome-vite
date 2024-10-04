@@ -312,7 +312,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 - [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
-- [@yuanjianming/unplugin-image-convert](https://github.com/yuan66-hub/unplugin-image-convert) - Image Multi Format Conversion Plugin Based on Sharp.
+- [@yuanjianming/unplugin-image-convert](https://github.com/yuan66-hub/unplugin-image-convert) - Image multi format conversion plugin based on sharp.js.
 
 #### Transformers
 
