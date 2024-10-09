@@ -162,7 +162,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [React Dapp Starter](https://github.com/Manta-Network/react-dapp-starter) - Enterprise-ready Web3 DApp starter with `TypeScript`, `TailwindCSS`, `Web3Modal`, `Wagmi`, `Shadcn UI`, `Zustand`, and `TanStack Query` for scalable decentralized applications.
 - [vite-template-react-ts-jest](https://github.com/ivanzusko/vite-template-react-ts-jest) - `React` + `TypeScript` + `Jest`.
 - [vite-amplify](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
-
+- [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Best template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
 #### Svelte
 
 - [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
