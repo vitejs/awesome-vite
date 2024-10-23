@@ -162,6 +162,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [React Dapp Starter](https://github.com/Manta-Network/react-dapp-starter) - Enterprise-ready Web3 DApp starter with `TypeScript`, `TailwindCSS`, `Web3Modal`, `Wagmi`, `Shadcn UI`, `Zustand`, and `TanStack Query` for scalable decentralized applications.
 - [vite-template-react-ts-jest](https://github.com/ivanzusko/vite-template-react-ts-jest) - `React` + `TypeScript` + `Jest`.
 - [vite-amplify](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
+- [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Best template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
 #### Svelte
 
@@ -169,6 +170,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [svelte-vite-ssr](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 - [template-vite-svelte-ts-tailwind](https://github.com/RoyRao2333/template-vite-svelte-ts-tailwind) - Svelte + TypeScript + Tailwind CSS + Prettier.
 - [vite-svelte-flow-template](https://github.com/xyflow/vite-svelte-flow-template) - Svelte Flow starter template.
+- [vite-svelte-docker-template](https://github.com/tony-stark-eth/vite-svelte-docker-template) - `Docker` + `Svelte` + `Vitest`.
 
 #### Solid
 
@@ -314,6 +316,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-minipic](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 - [vite-plugin-robots](https://github.com/kolirt/vite-plugin-robots) - Generating `robots.txt`.
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+- [@yuanjianming/unplugin-image-convert](https://github.com/yuan66-hub/unplugin-image-convert) - Image multi format conversion plugin based on sharp.js.
 - [vite-plugin-dynamic-chunk](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) - Split dependencies between entry and dynamic entry, and merge small chunks.
 
 #### Transformers
