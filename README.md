@@ -321,6 +321,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 - [@yuanjianming/unplugin-image-convert](https://github.com/yuan66-hub/unplugin-image-convert) - Image multi format conversion plugin based on sharp.js.
 - [vite-plugin-dynamic-chunk](https://github.com/MrQinYQ/vite-plugin-dynamic-chunk) - Split dependencies between entry and dynamic entry, and merge small chunks.
+- [@yuanjianming/unplugin-compress-svga](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
+- [@yuanjianming/unplugin-font-spider](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
 
 #### Transformers
