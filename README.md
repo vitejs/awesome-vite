@@ -164,6 +164,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-amplify](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
 - [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
+
 #### Svelte
 
 - [SvelteKit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps.
@@ -276,6 +277,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-pagefind](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
 - [@mistjs/vite-plugin-px2viewport](https://github.com/aibayanyu20/vite-plugins/tree/main/packages/px2viewport) - A plugin that automatically converts inline styles and style files from px units to vw units.
 - [vite-multiple-assets](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
+- [vite-create-production-server-plugin](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
 - [vite-plugin-eslint2](https://github.com/ModyQyW/vite-plugin-eslint2) - Runs ESLint synchronously/asynchronously.
 
 #### Loaders
