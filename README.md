@@ -279,6 +279,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-multiple-assets](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
 - [vite-create-production-server-plugin](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
 - [vite-plugin-eslint2](https://github.com/ModyQyW/vite-plugin-eslint2) - Runs ESLint synchronously/asynchronously.
+- [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
 
 #### Loaders
 
