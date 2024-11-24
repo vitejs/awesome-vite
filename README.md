@@ -164,7 +164,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-amplify](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
 - [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
-- [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript, Vite 5, Ant Design v5, React Router v6, Zustand v4, Ant Design Charts v2`.
+- [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript, Vite, Ant Design, React Router, Zustand, Ant Design Charts`.
 
 #### Svelte
 
