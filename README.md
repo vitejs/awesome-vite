@@ -281,6 +281,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-eslint2](https://github.com/ModyQyW/vite-plugin-eslint2) - Runs ESLint synchronously/asynchronously.
 - [vite-plugin-vanilla](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development model.
 - [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
+- [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) -  Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
 
 #### Loaders
 
