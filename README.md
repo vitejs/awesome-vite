@@ -369,6 +369,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-native](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
 - [@yoichiro/vite-plugin-handlebars](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
 - [vite-plugin-magic-preloader](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+- [vite-plugin-replace-lodash](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
 
 #### Helpers
 
