@@ -98,7 +98,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vue-style-bundler](https://github.com/zhangfisher/vite-plugin-vue-style-bundler) - Auto bundle Vue/sfc styles into JavaScript.
 - [celeris-web](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 - [vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
-- [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Vue 3 Admin panel template based on `Vite` + `Vue3` + `NaiveUI` + `Tailwind` + `Pinia` + `MSW` + `TS` + `unocss`.
+- [YummyAdmin](https://github.com/doroudi/YummyAdmin) - Free Vue 3 Admin Panel template based on `Vite` + `Vue3` + `NaiveUI` + `Tailwind` + `Pinia` + `MSW` + `TS` + `unocss`.
 
 #### Vue 2
 
