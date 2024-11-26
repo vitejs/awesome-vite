@@ -164,6 +164,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-amplify](https://github.com/bebeal/vite-amplify) - Template with SSR + Express APIs + AWS Amplify Hosting.
 - [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
+- [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 
 #### Svelte
 
@@ -194,6 +195,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Vutron](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 - [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+
+### Tauri
+
+- [HuLa](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 #### Neutralino
 
@@ -280,7 +285,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-create-production-server-plugin](https://github.com/jrtderonde/vite-create-production-server-plugin) - Spin up a production HTTP serve after build.
 - [vite-plugin-eslint2](https://github.com/ModyQyW/vite-plugin-eslint2) - Runs ESLint synchronously/asynchronously.
 - [vite-plugin-page-html](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
+- [vite-plugin-vanilla](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development mode.
 - [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
+- [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) -  Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
 
 #### Loaders
 
@@ -368,6 +375,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-native](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
 - [@yoichiro/vite-plugin-handlebars](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
 - [vite-plugin-magic-preloader](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+- [vite-plugin-replace-lodash](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
 
 #### Helpers
 
