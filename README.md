@@ -209,6 +209,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
+#### F# and Fable
+- [vite-plugin-fable](https://nojaf.com/vite-plugin-fable/getting-started.html) - Template for using vite with `.fs` and `.fsproj` files and the F# compiler for js/ts (and more..) [Fable](https://www.fable.io)
+
 #### Petite-Vue
 
 #### VanJS
