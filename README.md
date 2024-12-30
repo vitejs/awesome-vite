@@ -199,6 +199,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 ### Tauri
 
 - [HuLa](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+- [TeyvatGuide](https://github.com/BTMuli/TeyvatGuide) - Game Tool for Genshin Impact player.
 
 #### Neutralino
 
