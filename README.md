@@ -753,6 +753,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Rust
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+- [vite-rs](https://github.com/Wulf/vite-rs) -  Embed ViteJS-compiled assets in your Rust binary 
 
 ### OctoberCMS
 
