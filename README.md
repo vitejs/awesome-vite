@@ -288,6 +288,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vanilla](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development mode.
 - [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
 - [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) -  Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
+- [vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 - [module-federation/vite](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
 
 #### Loaders
@@ -334,6 +335,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@yuanjianming/unplugin-compress-svga](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
 - [@yuanjianming/unplugin-font-spider](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
+- [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 
 #### Transformers
 
@@ -377,6 +379,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@yoichiro/vite-plugin-handlebars](https://github.com/yoichiro/vite-plugin-handlebars) - Import of Handlebars templates `.hbs` as ES Modules.
 - [vite-plugin-magic-preloader](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 - [vite-plugin-replace-lodash](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
+- [vite-plugin-material-symbols](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
 
 #### Helpers
 
@@ -754,6 +757,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Rust
 
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
+- [vite-rs](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
 
 ### OctoberCMS
 
