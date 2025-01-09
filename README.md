@@ -334,6 +334,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@yuanjianming/unplugin-compress-svga](https://github.com/yuan66-hub/unplugin-compress-svga) - Compress SVGA.
 - [@yuanjianming/unplugin-font-spider](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
+- [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 
 #### Transformers
 
