@@ -56,8 +56,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 - [vite-tailwind-nojs-starter](https://github.com/kometolabs/vite-tailwind-nojs-starter) - NoJS Tailwind CSS starter template.
 - [vite-tailwind-stimulus-starter](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
-- [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
-- [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 - [vite-phaser-ts](https://github.com/iwantantra/vite-phaser-ts) - Starter template with Phaser and Typescript.
 - [vite-tinybase](https://github.com/tinyplex/vite-tinybase) - Starter template for TinyBase.
 - [vite-tinybase-ts](https://github.com/tinyplex/vite-tinybase-ts) - Starter template for TinyBase and TypeScript.
@@ -68,6 +66,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-alpine-template](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 - [vite-ts-lib-starter](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 - [vite-swagger-ui](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
+- [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
+- [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 
 #### Vue 3
 
