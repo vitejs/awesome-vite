@@ -66,6 +66,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-alpine-template](https://github.com/dvd101x/vite-alpine) - Starter template for Alpine.
 - [vite-ts-lib-starter](https://github.com/matronator/vite-ts-lib-starter) - Starter template for libraries with TypeScript, Bun, Vitest, Prettier, Renovate and np.
 - [vite-swagger-ui](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
+- [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
 
 #### Vue 3
 
