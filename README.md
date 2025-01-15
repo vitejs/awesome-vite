@@ -310,6 +310,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@cyco130/vite-plugin-mdx](https://github.com/cyco130/vite-plugin-mdx) - Import MDX.
 - [vite-awesome-svg-loader](https://github.com/matafokka/vite-awesome-svg-loader) - Imports SVGs as source code, base64 and data URI. Preserves stroke width, replaces colors with currentColor. Optimizes SVGs with SVGO. Creates SVG sprites.
 - [vite-plugin-dir2json](https://github.com/buddywang/vite-plugin-dir2json) - Convert the directory structure into json data containing supported file paths.
+- [@responsive-image/vite-plugin](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 
 #### Bundling
 
