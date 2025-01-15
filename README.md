@@ -287,7 +287,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-page-html](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 - [vite-plugin-vanilla](https://github.com/Marinerer/vite-plugins/tree/main/packages/vanilla) - Vanilla multi-page web development mode.
 - [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
-- [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the html file during build. Useful for adding a copyright year to the HTML file.
+- [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 - [vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 
 #### Loaders
