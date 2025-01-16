@@ -68,6 +68,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-swagger-ui](https://github.com/lukefernandez/vite-swagger-ui) - Swagger UI with built-in support for multiple APIs.
 - [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
 - [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
+- [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
 
 #### Vue 3
 
