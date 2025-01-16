@@ -213,6 +213,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 #### F# and Fable
+
 - [vite-plugin-fable](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
 
 #### Petite-Vue
@@ -343,6 +344,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@yuanjianming/unplugin-font-spider](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 - [vite-plugin-static-filehash](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
 - [vite-plugin-singlefile-compression](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
+- [vite-plugin-builder](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
 #### Transformers
 
