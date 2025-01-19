@@ -168,6 +168,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
+- [vite-test-boilerplate]([https://github.com/larry-xue/react-admin-dashboard](https://github.com/CreativeZoller/vite-tests-boilerplate)) - Template for Bootstrapping with unit and e2e tests, coverage report all as a Christmas wish-list editor.
 
 #### Svelte
 
