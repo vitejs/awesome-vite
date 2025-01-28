@@ -168,6 +168,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-component-library-template](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
+- [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 
 #### Svelte
 
@@ -213,6 +214,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 #### F# and Fable
+
 - [vite-plugin-fable](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
 
 #### Petite-Vue
