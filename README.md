@@ -132,7 +132,6 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-vite-ts-boilerplate](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 - [vite-react-universal-template](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Zustand + ESlint + Prettier + Stylelint + Husky + Docker, and APIs auto importing.
 - [react-vite-template](https://github.com/985563349/react-vite-template) - A react project template.
-- [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - React + Tpescript + Manifest.build fullstack portfolio template.
 - [react-xs-admin](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 - [vite-mui-ts](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
@@ -170,6 +169,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-boilerplate](https://github.com/Aubergine-Community/react-basic-template) - Template for bootstrapping with `Eslint` + `Husky` + `Prettier`.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
+- [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - React + Tpescript + Manifest.build fullstack portfolio template.
 
 #### Svelte
 
