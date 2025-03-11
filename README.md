@@ -773,9 +773,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### V
 
-- [v-vite](https://github.com/siguici/v-vite) – A Vite.js plugin that enables seamless integration with the [V programming language](https://vlang.io).  
-- [vite.v](https://github.com/siguici/vite.v) – An adapter for integrating Vite.js into [Veb](https://modules.vlang.io/veb.html) applications.  
-- [v-vite/starter](https://github.com/v-vite/starter) – A preconfigured starter template for building [Veb](https://modules.vlang.io/veb.html) applications with Vite.js.  
+- [v-vite](https://github.com/siguici/v-vite) – Plugin to simplify frontend integration in Veb applications.
+- [vite.v](https://github.com/siguici/vite.v) – Backend adapter for integration with V in Veb applications.
+- [v-vite/starter](https://github.com/v-vite/starter) – A preconfigured starter template for building Veb applications.
 
 ### OctoberCMS
 
