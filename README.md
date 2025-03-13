@@ -534,7 +534,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v23] [vite-plugin-vue-static-sfc](https://github.com/arikw/vite-plugin-vue-static-sfc) - Serve ".vue" files as static assets.
 - ![v3] [vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Designed to enhance the Vue developer experience.
 - ![v3] [vite-plugin-vue-nested-sfc](https://github.com/HunYan-io/vite-plugin-vue-nested-sfc) - Nest SFCs inside your SFC.
-
+- ![v3] [vite-plugin-vue-style-in-template](https://github.com/peterroe/vite-plugin-vue-style-in-template) - Extract the style tags in template.
 <!--lint enable awesome-list-item-->
 
 <hr>
