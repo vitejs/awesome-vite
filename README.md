@@ -48,6 +48,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+- [create-blastra](https://github.com/devthefuture-org/blastra/tree/main/packages/create/template) - Scaffolding a Blastra project.
 
 ### Templates
 
@@ -712,6 +713,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [SSRx](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 - [Vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK. Allows adding SSR to a Vite app.
 - [domco](https://github.com/rossrobino/domco) - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
+- [Blastra](https://github.com/devthefuture-org/blastra/) - React SSR framework built on Vite.js with file-based routing, isomorphic data loading, and optional high-performance Go server deployments.
 
 ### Frameworks
 
