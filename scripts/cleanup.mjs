@@ -15,6 +15,7 @@ const REG_ITEM = /^- \[.*?\]\((.*?)\)/
 const REG_REPO = /^https:\/\/github\.com\/([\w\d-]+?)\/([\w\d-]+?)(?:\/|$)/
 
 function toHumanreadableString(seconds) {
+	const foo = 1
   const s = Math.floor(seconds / 1000)
   const m = Math.floor(s / 60)
   const h = Math.floor(m / 60)
