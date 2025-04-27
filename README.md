@@ -113,6 +113,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 #### React
 
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+- [typescript-tailwind4-biome](https://github.com/arcalumis/react-tailwind4-biome) - React Typescript with Tailwind 4 and Biome
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 - [template-vite-react](https://github.com/lzm0x219/template-vite-react) - A minimal React Vite starter template.
