@@ -171,8 +171,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
-- [vite-react-ssr](https://github.com/jquery-dlya-slabih/ssr) - Server side rendering template with `TypeScript`, `React 19`, `React Router`, `React Query`, `Valibot`, `Tailwind`, `ESLint`, `Prettier`, `Testing Library`, `Playwright`.
-- [vite-react-csr](https://github.com/jquery-dlya-slabih/csr) - Client side rendering template with `TypeScript`, `React 19`, `TanStack Router`, `React Query`, `Valibot`, `Tailwind`, `ESLint`, `Prettier`, `Testing Library`, `Playwright`.
+- [vite-react-ssr](https://github.com/jquery-dlya-slabih/vite-react-ssr) - Server side rendering template with `TypeScript`, `React 19`, `React Router`, `React Query`, `Valibot`, `Tailwind`, `ESLint`, `Prettier`, `Testing Library`, `Playwright`.
+- [vite-react-csr](https://github.com/jquery-dlya-slabih/vite-react-csr) - Client side rendering template with `TypeScript`, `React 19`, `TanStack Router`, `React Query`, `Valibot`, `Tailwind`, `ESLint`, `Prettier`, `Testing Library`, `Playwright`.
 
 #### Svelte
 
