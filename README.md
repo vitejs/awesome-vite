@@ -48,6 +48,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [create-nx-workspace](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
+- [create-vanjs](https://github.com/thednp/create-vanjs) - Scaffolding Your VanJS Project.
 
 ### Templates
 
@@ -222,6 +223,9 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 #### Petite-Vue
 
 #### VanJS
+- [vite-vanjs-ts](https://github.com/yahia-berashish/vite-vanjs-ts) - Template with Typescript and VanJS.
+- [vike-with-van](https://github.com/brillout/vike-with-van) - Template with Typescript, VanJS and Vike.
+- [vike-with-van-jsx](https://github.com/brillout/vike-with-van-jsx) - Template with Typescript, VanJS, Vike and JSX transformation.
 
 #### GitHub
 
@@ -625,6 +629,15 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 ### Angular
 
 #### Integrations
+
+<hr>
+
+### VanJS
+
+#### Integrations
+
+- [vite-plugin-vanjs](https://github.com/thednp/vite-plugin-vanjs) - A mini meta-framework for VanJS featuring file-system routing, JSX transformation, code splitting with lazy loading, metadata management and other tools.
+- [vite-vanjs-svg](https://github.com/thednp/vite-vanjs-svg) - Import SVG files as VanJS Components.
 
 <hr>
 
