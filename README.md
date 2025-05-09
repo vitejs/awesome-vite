@@ -833,6 +833,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [Vivliostyle CLI](https://github.com/vivliostyle/vivliostyle-cli) - A command-line tool for creating PDFs and other publications.
 
 ### Apps/Websites
 
