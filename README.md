@@ -452,6 +452,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 - [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 - [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`.
+- [vite-plugin-watch-node-modules](https://github.com/lostpebble/vite-plugin-watch-node-modules) - Watch matched `node_modules` for file changes and trigger a reload.
 
 #### Testing
 
