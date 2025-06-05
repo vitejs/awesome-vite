@@ -570,7 +570,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 - [vite-plugin-react-click-to-component](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
-- [vite-plugin-create ](https://github.com/dimatitov/vite-plugin-create) - Generates files and folders from templates, enabling fast creation of components, pages, and other boilerplate code.
+- [vite-plugin-create](https://github.com/dimatitov/vite-plugin-create) - Generates files and folders from templates, enabling fast creation of components, pages, and other boilerplate code.
 
 #### SSG
 
