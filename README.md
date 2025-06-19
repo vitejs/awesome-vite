@@ -69,7 +69,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
 - [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 - [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
-- [vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint) - Vanilla JS + Sass starter with ESLint, Stylelint and HTMLHint linting, image optimization, modern-normalize.
+- [vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint) - Starter template for Vanilla JS and Sass, with ESLint, Stylelint, HTMLHint, image optimization, and modern-normalize.
 
 #### Vue 3
 
