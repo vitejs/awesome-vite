@@ -111,6 +111,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vitify-admin](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 #### React
+
 - [Vitamin](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 - [vite-template-react](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 - [vitejs-template-react-rescript](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
