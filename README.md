@@ -321,7 +321,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 #### Bundling
 
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
-- [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Generate declaration files from `.ts` or `.vue` source files for lib.
+- [unplugin-dts](https://github.com/qmhc/unplugin-dts) - An unplugin that generates declaration files (*.d.ts) from .ts(x) or .vue source files when using library mode.
 - [vite-compression-plugin](https://github.com/XeryYue/vite-compression-plugin) - Use Node.js stream compress file to gzip or more.
 - [vite-plugin-chunk-split](https://github.com/sanyuan0704/vite-plugin-chunk-split) - Automatically code splitting, support unbundle in production.
 - [vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - Copy files and folders.
