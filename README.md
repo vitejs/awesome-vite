@@ -102,6 +102,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [celeris-web](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 - [vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 - [vite-vue3-tailwind4-daisyui5-starter-template](https://github.com/martinille/starter-template-vite-vue3-sass-tailwind4-daisyui5) - Starter template with Vue 3 + Vite + Tailwind CSS 4 + DaisyUI 5 + Sass.
+- [vite-vue-searchcraft-template](https://github.com/searchcraft-inc/vite-vue-searchcraft-template) - A `Vue` + `TypeScript` starter template for building apps with Searchcraft.
 
 #### Vue 2
 
