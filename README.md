@@ -457,6 +457,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 - [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
+- [vitest-react-profiler](https://github.com/greydragon888/vitest-react-profiler) - React component render tracking and performance testing utilities for Vitest.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 - [@poyro/vitest](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
