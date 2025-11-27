@@ -500,6 +500,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 - ![v3] [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 - ![v3] [vite-plugin-vue-routes](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+- ![v3] [vite-plugin-vue-layouts-next](https://github.com/loicduong/vite-plugin-vue-layouts-next) - A plugin supports router based layout configuration, works with `unplugin-vue-router` or `vite-plugin-pages`.
 
 #### Loaders
 
