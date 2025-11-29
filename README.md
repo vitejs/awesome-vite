@@ -172,6 +172,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [vite-react-intlayer](https://github.com/aymericzip/intlayer-vite-react-template) - Multilingual application template `Vite`, `React`, `TypeScript`, `Intlayer`
 
 #### Svelte
 
@@ -713,6 +714,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [SSRx](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 - [Vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK. Allows adding SSR to a Vite app.
 - [domco](https://github.com/rossrobino/domco) - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
+- [Intlayer](https://github.com/aymericzip/intlayer) - i18n solution focused on maintenability for vite application.
 
 ### Frameworks
 
