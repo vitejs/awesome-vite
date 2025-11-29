@@ -70,6 +70,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
 - [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 - [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
+- [vite-vanilla-sass-lint](https://github.com/marcop135/vite-vanilla-sass-lint) - Starter template for Vanilla JS and Sass, with `ESLint`, `Stylelint`, `HTMLHint`, image optimization, and `modern-normalize`.
 
 #### Vue 3
 
@@ -172,6 +173,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [vite-react-tailwind-lint](https://github.com/marcop135/vite-react-tailwind-lint) - Starter template for React and `Tailwind CSS`, with `ESLint`, `Stylelint`, and `Prettier` setup.
 
 #### Svelte
 
