@@ -103,6 +103,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [celeris-web](https://github.com/kirklin/celeris-web) - Template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router` + `Pinia` + `Unocss` + `Naive UI` + `pnpm Monorepo`.
 - [vite-ts-starter](https://github.com/pdsuwwz/vite-ts-starter) - Vue `I18n` Dynamic Router Localization Template, Internationalized Applications with `UnoCSS` + `Unplugin` + `Element-Plus` + `Vitest` + `TypeScript` + `Vue-Router` + `Vuex` + `Scss` + `ESLint` + `Stylelint` + `Husky` + `lint-staged`.
 - [vite-vue3-tailwind4-daisyui5-starter-template](https://github.com/martinille/starter-template-vite-vue3-sass-tailwind4-daisyui5) - Starter template with Vue 3 + Vite + Tailwind CSS 4 + DaisyUI 5 + Sass.
+- [vite-vue-searchcraft-template](https://github.com/searchcraft-inc/vite-vue-searchcraft-template) - A `Vue` + `TypeScript` starter template for building apps with Searchcraft.
 
 #### Vue 2
 
@@ -172,6 +173,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [vite-react-searchcraft-template](https://github.com/searchcraft-inc/vite-react-searchcraft-template) - A `React` + `TypeScript` starter template for building apps with Searchcraft.
 
 #### Svelte
 
