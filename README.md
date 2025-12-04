@@ -809,6 +809,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [PHP-Vite Starter Repo](https://github.com/nititech/php-vite-starter) - Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support.
 - [php-vitelinker](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
 
+### kintone
+
+- [vite-plugin-kintone-dev](https://github.com/GuSanle/vite-plugin-kintone-dev) - Develop for kintone using Vite with ESM module loading and HMR, automatically resolving event timing issues.
+
 ## Migrations
 
 ### Vue CLI
