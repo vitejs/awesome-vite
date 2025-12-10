@@ -395,6 +395,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-replace-lodash](https://github.com/mingtianyihou33/vite-plugin-replace-lodash) - Replacing the import of `lodash` with `lodash-es` is more beneficial to tree-shaking.
 - [vite-plugin-dynamic-prefetch](https://github.com/Linh-Tran-0312/vite-plugin-dynamic-prefetch) - Inject `<link rel="prefetch" />` tags into the HTML file for dynamic modules at runtime.
 - [vite-plugin-material-symbols](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
+- [vite-plugin-view](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-view) - Dynamically render pages using custom template engines instead of the static `.html` entry file.
 
 #### Helpers
 
