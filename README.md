@@ -500,6 +500,9 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - ![v3] [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes.
 - ![v3] [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Official experimental file based routing.
 - ![v3] [vite-plugin-vue-routes](https://github.com/Vanilla-IceCream/vite-plugin-vue-routes) - File-based routing, similar to SvelteKit and Next.js App Router.
+- [v5] [vite-plugin-api](https://github.com/yracnet/vite-plugin-api) - Express, Generate route mapping for API Routes services from the directory tree.
+- [v5] [vite-plugin-api-routes](https://github.com/yracnet/vite-plugin-api-routes) - Express, Generate route mapping for API Routes services from the directory tree.
+- [v5] [vite-plugin-ra-pages](https://github.com/yracnet/vite-plugin-ra-pages) - File-based routing for ReactAdmin Router.
 
 #### Loaders
 
