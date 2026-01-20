@@ -775,6 +775,12 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [create-rust-app](https://github.com/Wulf/create-rust-app) - Integration for Rust web apps.
 - [vite-rs](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
 
+### V
+
+- [v-vite](https://github.com/siguici/v-vite) – Plugin to simplify frontend integration in Veb applications.
+- [vite.v](https://github.com/siguici/vite.v) – Backend adapter for integration with V in Veb applications.
+- [v-vite/starter](https://github.com/v-vite/starter) – A preconfigured starter template for building Veb applications.
+
 ### OctoberCMS
 
 ### Symfony
