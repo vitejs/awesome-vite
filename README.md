@@ -447,7 +447,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-api-routes](https://github.com/yracnet/vite-plugin-api-routes) - Generate route mapping for API Routes services from the directory tree.
 - [unplugin-detect-duplicated-deps](https://github.com/tjx666/unplugin-detect-duplicated-deps) - Detect duplicate packaged dependencies.
 - [vite-plugin-vitepress-auto-nav](https://github.com/Xaviw/vite-plugin-vitepress-auto-nav) - Automatically generates `sidebar` and `nav` configurations by scanning directories, based on VitePress.
-- [vite-plugin-pretty-module-classnames](https://github.com/teplostanski/vite-plugin-pretty-module-classnames) - Adds the filename without the `-module` suffix to the class names of CSS modules.
+- [vite-plugin-readable-classnames](https://github.com/teplostanski/vite-plugin-readable-classnames) - Make your scoped CSS modules class names clear, consistent and readable by automatically adding component names — a better alternative to the default Vite behavior.
 - [vite-plugin-serve-static](https://github.com/reifiedbeans/vite-plugin-serve-static) - Allows serving arbitrary static files not in the `public/` directory.
 - [vite-plugin-valibot-env](https://github.com/idleberg/vite-plugin-valibot-env) - Validate environment variables against a Valibot schema.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
