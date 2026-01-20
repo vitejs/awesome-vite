@@ -138,6 +138,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-mui-ts](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 - [template-vite-react-ts-tailwind](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 - [vite-react-ts-template](https://github.com/bartstc/vite-ts-react-template) - React 18, TypeScript, ESlint, Prettier, Dev Container, Vitest, Storybook, Playwright, MSW, React Router 6, React Query, Chakra UI, Zustand.
+- [vite-react-template](https://github.com/naqibhishamuddin/vite-template) - React 18, Typescript, SWC, Eslint, Prettier, React Testing Library, Vitest, Vitest UI, MSW, Husky, Lint-staged and Commitizen
+- [vite-rome](https://github.com/naqibhishamuddin/vite-rome) - React 18, Typescript, SWC, Rome, React Testing Library, Vitest, Vitest UI, MSW, Husky, Lint-staged and Commitizen
 - [react-vite-tailwindcss-template](https://github.com/quavedev/react-vite-tailwindcss-template) - React, JavaScript, TailwindCSS, ESlint, Prettier, Pre-commit.
 - [vite-tinybase-react](https://github.com/tinyplex/vite-tinybase-react) - Starter template for TinyBase and React.
 - [vite-tinybase-ts-react](https://github.com/tinyplex/vite-tinybase-ts-react) - Starter template for TinyBase, TypeScript, and React.
