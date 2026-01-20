@@ -453,6 +453,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 - [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 - [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`.
+- [vite-plugin-import-map](https://github.com/dimatitov/vite-plugin-import-map) – Injects native import maps and syncs TypeScript `paths` with `tsconfig.json` for consistent aliasing across dev and IDE.
 
 #### Testing
 
