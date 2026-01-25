@@ -753,7 +753,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### CakePHP
 
-- [cakephp-vite](https://github.com/passchn/cakephp-vite) - Integration for CakePHP.
+- [cakephp-vite](https://github.com/josbeir/cakephp-vite) - Integration for CakePHP.
 
 ### WordPress
 
