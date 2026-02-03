@@ -453,6 +453,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 - [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 - [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`.
+- [vite-plugin-asset-manager](https://github.com/ejirocodes/vite-plugin-asset-manager) - Static asset management dashboard with visual tracking, duplicate detection, and bulk operations.
 
 #### Testing
 
