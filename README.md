@@ -278,7 +278,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@spiriit/vite-plugin-svg-spritemap](https://github.com/SpiriitLabs/vite-plugin-svg-spritemap) - Pack your SVG files in one spritemap file and use them with `<svg>`/`<img>` and directly in your CSS.
 - [vite-plugin-auto-mpa-html](https://github.com/iamspark1e/vite-plugin-auto-mpa-html) - A file directory-based automated multi-page build plugin that supports HTML templates using EJS.
 - [vite-plugin-cloudflare-functions](https://github.com/yjl9903/vite-plugin-cloudflare-functions) - Cloudflare pages function integration.
-- [@Storybook/builder-vite](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
+- [`@storybook/builder-vite`](https://github.com/storybookjs/storybook/tree/next/code/builders/builder-vite/) - Storybook builder.
 - [@builder.io/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
 - [vite-plugin-dynamic-proxy](https://github.com/zjpzjp/vite-plugin-debug-proxy) - Automatically configure reverse proxies based on URL parameters.
 - [unplugin-auto-export](https://github.com/coderhyh/unplugin-auto-export) - Automates the maintenance of export statements in the index.ts file.
@@ -300,7 +300,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [genaicode/vite-plugin](https://github.com/gtanczyk/genaicode/tree/master/src/vite-genaicode/) - A plugin that embeds an AI coding assistant into the app UI.
 - [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 - [vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
-- [module-federation/Vite](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+- [`module-federation/vite`](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
 
 #### Loaders
 
@@ -456,11 +456,11 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Testing
 
-- [Vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
+- [`vitest`](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 - [vitest-mock-extended](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
-- [@poyro/Vitest](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
+- [`@poyro/vitest`](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
 
 #### Security
 
@@ -657,36 +657,36 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Included in Vite
 
-- [@Rollup/plugin-alias](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
-- [@Rollup/plugin-commonjs](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
-- [@Rollup/plugin-dynamic-import-vars](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
-- [@Rollup/plugin-json](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
+- [`@rollup/plugin-alias`](https://github.com/rollup/plugins/blob/master/packages/alias) - Define and resolve aliases for bundle dependencies.
+- [`@rollup/plugin-commonjs`](https://github.com/rollup/plugins/blob/master/packages/commonjs) - Convert CommonJS modules to ES6.
+- [`@rollup/plugin-dynamic-import-vars`](https://github.com/rollup/plugins/blob/master/packages/dynamic-import-vars) - Resolving dynamic imports that contain variables.
+- [`@rollup/plugin-json`](https://github.com/rollup/plugins/blob/master/packages/json) - Convert `.json` files to ES6 modules.
 
 #### Covered by default in Vite
 
-- [@Rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
-- [@Rollup/plugin-buble](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
-- [@Rollup/plugin-data-uri](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
-- [@Rollup/plugin-html](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
-- [@Rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
-- [@Rollup/plugin-sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
-- [@Rollup/plugin-typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
-- [@Rollup/plugin-wasm](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
-- [@Rollup/plugin-url](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
+- [`@rollup/plugin-babel`](https://github.com/rollup/plugins/tree/master/packages/babel) - Compile your files with Babel.
+- [`@rollup/plugin-buble`](https://github.com/rollup/plugins/tree/master/packages/buble) - Compile ES2015 with buble.
+- [`@rollup/plugin-data-uri`](https://github.com/rollup/plugins/tree/master/packages/data-uri) - Import modules from Data URIs.
+- [`@rollup/plugin-html`](https://github.com/rollup/plugins/tree/master/packages/html) - Create HTML files to serve Rollup bundles.
+- [`@rollup/plugin-node-resolve`](https://github.com/rollup/plugins/tree/master/packages/node-resolve) - Locate and bundle third-party dependencies in node_modules.
+- [`@rollup/plugin-sucrase`](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile TypeScript, Flow, JSX, etc with Sucrase.
+- [`@rollup/plugin-typescript`](https://github.com/rollup/plugins/tree/master/packages/typescript) - Integration between Rollup and TypeScript.
+- [`@rollup/plugin-wasm`](https://github.com/rollup/plugins/tree/master/packages/wasm) - Import WebAssembly code with Rollup.
+- [`@rollup/plugin-url`](https://github.com/rollup/plugins/tree/master/packages/url) - Import files as data-URIs or ES Modules.
 
 #### Compatible with Vite
 
-- [@Rollup/plugin-beep](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-- [@Rollup/plugin-dsv](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
-- [@Rollup/plugin-eslint](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
-- [@Rollup/plugin-graphql](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
-- [@Rollup/plugin-image](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-- [@Rollup/plugin-inject](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
-- [@Rollup/plugin-legacy](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
-- [@Rollup/plugin-replace](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
-- [@Rollup/plugin-strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
-- [@Rollup/plugin-virtual](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
-- [@Rollup/plugin-yaml](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
+- [`@rollup/plugin-beep`](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+- [`@rollup/plugin-dsv`](https://github.com/rollup/plugins/blob/master/packages/dsv) - Convert `.csv` and `.tsv` files into JavaScript modules with d3-dsv.
+- [`@rollup/plugin-eslint`](https://github.com/rollup/plugins/blob/master/packages/eslint) - Verify entry point and all imported files with ESLint.
+- [`@rollup/plugin-graphql`](https://github.com/rollup/plugins/blob/master/packages/graphql) - Convert .gql/.graphql files to ES6 modules.
+- [`@rollup/plugin-image`](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+- [`@rollup/plugin-inject`](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+- [`@rollup/plugin-legacy`](https://github.com/rollup/plugins/tree/master/packages/legacy) - Add export declarations to legacy non-module scripts.
+- [`@rollup/plugin-replace`](https://github.com/rollup/plugins/tree/master/packages/replace) - Replace strings in files while bundling.
+- [`@rollup/plugin-strip`](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+- [`@rollup/plugin-virtual`](https://github.com/rollup/plugins/blob/master/packages/virtual) - A Rollup plugin that loads virtual modules from memory.
+- [`@rollup/plugin-yaml`](https://github.com/rollup/plugins/blob/master/packages/yaml) - Convert YAML files to ES6 modules.
 - [rollup-plugin-graphql-codegen](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-graphql-codegen) - Generating type definitions for GraphQL tag template strings in worker_threads.
 - [rollup-plugin-i18next-dts-gen](https://github.com/rxliuli/liuli-tools/tree/master/libs/rollup-plugin-i18next-dts-gen) - Generating type definitions from i18n JSON files are used for code hinting and validation.
 
@@ -718,7 +718,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
 - [Vise](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
-- [@Fastify/Fastify-dx](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
+- [`@fastify/fastify-dx`](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 - [vite-plugin-vercel](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 - [vite-vlugin-vercel-skew-protection](https://github.com/bitttttten/vite-vlugin-vercel-skew-protection) - Helps configure Vercel Skew Protection.
 
@@ -768,7 +768,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Go
 
-- [Vite](https://github.com/olivere/vite) - Integration with Go.
+- [`vite`](https://github.com/olivere/vite) - Integration with Go.
 
 ### Rust
 
