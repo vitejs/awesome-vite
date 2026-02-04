@@ -237,6 +237,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Plugins
 
+> [!IMPORTANT]
+> There's [Vite Plugin Registry](https://registry.vite.dev/plugins) that lists the plugins published to npm.
+> The list below is not updated.
+
 ### Framework-agnostic Plugins
 
 #### Integrations
