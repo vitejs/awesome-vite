@@ -224,6 +224,10 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### VanJS
 
+#### Backbone.js
+
+- [vite-backbone](https://github.com/lfortin/vite-backbone) - Starter template for Backbone.js using Bootstrap 5 + Bootstrap Icons + Handlebars + SCSS + Vitest + ESLint.
+
 #### GitHub
 
 - [github-action-template](https://github.com/hywax/github-action-template) - Starter template for GitHub Actions, TypeScript, ESLint, Vitest, Husky, Conventional Commits.
