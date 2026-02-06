@@ -248,6 +248,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [@vitejs/plugin-legacy](https://github.com/vitejs/vite/tree/main/packages/plugin-legacy) - Legacy browser support.
 - [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - Zero-config PWA.
 - [vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss) - Windi CSS integration.
+- [vite-plugin-tomato](https://github.com/srivtx/tomato-css/tree/main/vite-plugin-tomato) - Import Tomato CSS files with scoped styles.
 - [vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Integration with Node.js backend servers.
 - [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 - [vite-plugin-linter](https://bitbucket.org/unimorphic/vite-plugin-linter) - Extensible linter framework that shows the linting output in the Vite output and the browser console, includes ESLint & TypeScript ootb.
