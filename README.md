@@ -308,6 +308,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Loaders
 
+- [ghostmark](https://www.npmjs.com/package/ghostmark) - A plugin for build-time JSX instrumentation and automatic element tagging.
 - [unplugin-icons](https://github.com/antfu/unplugin-icons) - Access thousands of icons as components.
 - [vite-imagetools](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 - [vite-plugin-radar](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
