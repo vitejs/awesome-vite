@@ -172,6 +172,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [Vite-Shadcn](https://github.com/yluiop123/vite-shadcn) - Shadcn Admin UI built with `Vite` ,`Shadcn`, `React`, `Zustand`, `React Router`.
 
 #### Svelte
 
