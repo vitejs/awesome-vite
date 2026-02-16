@@ -70,6 +70,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
 - [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 - [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
+- [vite-plugin-i18n-checker](https://github.com/allenstu6311/vite-plugin-i18n-checker) - Vite plugin for detecting missing, redundant, and unsynced keys across i18n language files.
 
 #### Vue 3
 
