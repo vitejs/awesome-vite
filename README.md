@@ -838,6 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [MetaReview](https://github.com/TerryFYL/metareview) - Free online meta-analysis tool for medical research with forest plots, funnel plots, and statistical visualizations.
 
 ### Apps/Websites
 
