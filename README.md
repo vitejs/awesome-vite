@@ -571,6 +571,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Framework
 
 - [vite-plugin-react-pages](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+- [ink-web](https://github.com/cjroth/ink-web) - Renders Ink terminal UI apps in the browser using xterm.js and React.
 
 #### Helpers
 
