@@ -70,6 +70,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [template-vite](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
 - [template-vite-ts](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 - [vite-ts-bulma-sass-template](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - Open-source dashboard template `Vite`, `Vue.js`, `TypeScript`, `Axios`, `Shadcn`.
 
 #### Vue 3
 
