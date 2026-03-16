@@ -1,4 +1,4 @@
-name: NodeJS with Webpack
+.github/workflows/webpack.ymlname: NodeJS with Webpack
 
 on:
   push:
