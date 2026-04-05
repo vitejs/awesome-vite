@@ -305,6 +305,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-year](https://github.com/8hobbies/vite-plugin-year) - Inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.
 - [vite-plugin-llms](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 - [`module-federation/vite`](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+- [`@ndriadev/vite-plugin-monitor`](https://github.com/ndriadev/vite-plugin-monitor) - Automatic User Interaction Tracking, Real-Time Dashboard & File Logging.
 
 #### Loaders
 
