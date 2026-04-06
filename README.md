@@ -28,6 +28,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ## Resources
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Vite-based development workflow orchestration, automated build management, and multi-agent coordination. MIT licensed.
 ### Official Resources
 
 - [Documentation](https://vitejs.dev/)
