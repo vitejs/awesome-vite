@@ -841,7 +841,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Apps/Websites
 
-- [MoBrowser](https://teamdev.com/mobrowser) - A framework for creating desktop apps with web technologies based on Vite.
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
@@ -853,3 +852,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 - [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for Vite, freely combining configurations like stacked blocks.
 - [Dataviz Explorer](https://github.com/fehmisener/dataviz-explorer) - A tool for large CSV, database, and real-time visualization with interactive plots using `Highcharts`, `Chart.js`, `React`, `JavaScript`, `Material UI` and `GitHub Actions with Coverage Report`.
+- [MoBrowser](https://teamdev.com/mobrowser) - A framework for creating desktop apps with web technologies based on Vite.
