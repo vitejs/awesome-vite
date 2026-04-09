@@ -203,7 +203,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 - [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
-### Tauri
+#### Tauri
 
 - [HuLa](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
@@ -852,3 +852,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 - [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for Vite, freely combining configurations like stacked blocks.
 - [Dataviz Explorer](https://github.com/fehmisener/dataviz-explorer) - A tool for large CSV, database, and real-time visualization with interactive plots using `Highcharts`, `Chart.js`, `React`, `JavaScript`, `Material UI` and `GitHub Actions with Coverage Report`.
+- [MōBrowser](https://teamdev.com/mobrowser) - A framework for creating desktop apps with web technologies based on Vite.
