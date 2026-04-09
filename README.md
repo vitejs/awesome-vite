@@ -26,6 +26,7 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 
 Use the "Table of Contents" menu on the top-right corner to explore the list.
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=vitejs_awesome-vite) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ## Resources
 
 ### Official Resources
