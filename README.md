@@ -841,6 +841,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Apps/Websites
 
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source learning management system for Bible schools built with Vite, React, TypeScript, Tailwind CSS, and shadcn/ui.
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
