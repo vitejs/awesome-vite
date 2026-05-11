@@ -5,7 +5,7 @@
   <img width="400" src="./assets/logo.svg" alt="logo of awesome-vite repository">
   <br>
   <br>
-</p>
+</p
 
 <h2 align='center'>Awesome Vite.js</h2>
 
@@ -457,6 +457,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-plugin-vitest-cache](https://github.com/raegen/vite-plugin-vitest-cache) - Optimize `Vitest` execution time through caching.
 - [vite-preload](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 - [vite-plugin-envtype-patch](https://github.com/PengBoUESTC/vite-plugin-envtype-patch) - Generate `type` info for `import.meta.env`.
+- [vite-plugin-component-tagger](https://github.com/lirankor/vite-plugin-component-tagger) - Adds data-component attributes to DOM elements for easier debugging and testing.
 
 #### Testing
 
