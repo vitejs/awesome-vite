@@ -852,3 +852,6 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 - [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for Vite, freely combining configurations like stacked blocks.
 - [Dataviz Explorer](https://github.com/fehmisener/dataviz-explorer) - A tool for large CSV, database, and real-time visualization with interactive plots using `Highcharts`, `Chart.js`, `React`, `JavaScript`, `Material UI` and `GitHub Actions with Coverage Report`.
+- [IP Linux](https://github.com/ikerperez12/IP-OS-LINUX) - A browser-based desktop environment and product UI experiment.
+- [UI IP Toolkit](https://github.com/ikerperez12/UI-IP-Toolkit-v4.0) - A standalone static visual catalog of copy-ready CSS and JS component snippets.
+
