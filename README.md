@@ -838,6 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS built with Laravel 12, React 19, Inertia.js 2, Vite, Tailwind CSS v4 and shadcn/ui. REST API v1, HMAC webhooks, headless mode for Next.js / Astro / SvelteKit.
 
 ### Apps/Websites
 
