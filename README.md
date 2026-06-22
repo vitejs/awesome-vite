@@ -49,6 +49,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 - [create-nitro-app](https://github.com/nitrojs/create-nitro-app) - Scaffolding your Full-Stack Vite project using Nitro.
+- [create-vite-taro](https://github.com/sep2/vite-plugin-taro/tree/main/packages/create-vite-taro) - Scaffolding a Taro 4 + React 19 + Vite 8 Project.
 
 ### Templates
 
@@ -203,9 +204,14 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 - [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
 
+
 ### Tauri
 
 - [HuLa](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+
+### Taro
+
+- [Taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat Mini Apps with the latest standard frontend stack: Vite 8, Taro 4, React 19, and Tailwind CSS v4.
 
 #### Neutralino
 
