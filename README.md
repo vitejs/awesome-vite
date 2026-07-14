@@ -553,6 +553,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Presets
 
+- [packer](https://github.com/erkez/packer) - Opinionated build configuration for React apps, with built-in ESLint and TypeScript support.
+
 #### Routing
 
 - [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
