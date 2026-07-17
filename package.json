@@ -5,8 +5,8 @@
     "cleanup": "node scripts/cleanup.mjs"
   },
   "devDependencies": {
-    "@octokit/core": "^3.5.1",
-    "awesome-lint": "^0.18.0",
-    "p-limit": "^4.0.0"
+    "@octokit/core": "^7.0.6",
+    "awesome-lint": "^2.2.3",
+    "p-limit": "^7.3.0"
   }
 }
