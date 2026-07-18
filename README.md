@@ -465,6 +465,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 - [`@poyro/vitest`](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
+- [Vitest Config Generator](https://draftkit.co/dev-launch-pack/vitest-config-generator.html) - Free browser-based generator for `vitest.config.ts` / `.js` / `.mjs` with environments, coverage, reporters, pools, and path aliases.
+- [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator for `playwright.config.ts` / `.js` / `.mjs` with cross-browser projects, `webServer`, trace/video/screenshots, and CI-aware retries.
 
 #### Security
 
