@@ -49,6 +49,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 - [create-nitro-app](https://github.com/nitrojs/create-nitro-app) - Scaffolding your Full-Stack Vite project using Nitro.
+- [Vite Config Generator](https://draftkit.co/dev-launch-pack/vite-config-generator.html) - Free browser-based generator for `vite.config.ts` / `.js` / `.mjs` with framework presets, path aliases, dev-server proxy, build options, library mode, and plugins.
 
 ### Templates
 
@@ -465,6 +466,8 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 - [`@poyro/vitest`](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
+- [Vitest Config Generator](https://draftkit.co/dev-launch-pack/vitest-config-generator.html) - Free browser-based generator for `vitest.config.ts` / `.js` / `.mjs` with environments, coverage, reporters, pools, and path aliases.
+- [Playwright Config Generator](https://draftkit.co/dev-launch-pack/playwright-config-generator.html) - Free browser-based generator for `playwright.config.ts` / `.js` / `.mjs` with cross-browser projects, `webServer`, trace/video/screenshots, and CI-aware retries.
 
 #### Security
 
