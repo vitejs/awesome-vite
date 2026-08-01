@@ -236,6 +236,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [vite-vue3-chrome-extension-v3](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## Plugins
+- [vite-plugin-asset-pack](https://github.com/saitejabandaru-in/vite-plugin-asset-pack) - Ultra-fast, zero-dependency Vite plugin for build-time SVG minification and asset optimization.
 
 > [!IMPORTANT]
 > There's [Vite Plugin Registry](https://registry.vite.dev/plugins) that lists the plugins published to npm.
