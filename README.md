@@ -838,6 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [MetaClean](https://github.com/Moresyl/metaclean) - Offline desktop app for inspecting and removing metadata from images, Office documents, PDFs, and text files.
 
 ### Apps/Websites
 
