@@ -558,6 +558,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [generouted](https://github.com/oedotme/generouted) - Client-side type-safe file-based routing and global modals — supports layouts, loaders, code-splitting and more.
 - [unplugin-remix-router](https://github.com/ws-rush/unplugin-remix-router) - Generates a React Router file, that depends on Remix v2 file-based router convention.
 - [vite-plugin-remix-flat-routes](https://github.com/hemengke1997/vite-plugin-remix-flat-routes) - Remix-flat-routes convention-based routing, compatible with react-router data-api routing.
+- [speedy-router](https://github.com/anonrig/router) - TanStack Router API rebuilt for faster navigations and SSR.
 
 #### Loaders
 
