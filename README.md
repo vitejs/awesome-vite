@@ -717,6 +717,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [SSRx](https://github.com/marbemac/ssrx) - A thin layer on top of Vite to build modern SSR apps with a delightful DX.
 - [Vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK. Allows adding SSR to a Vite app.
 - [domco](https://github.com/rossrobino/domco) - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
+- [Ufbr](https://github.com/zakarialaoui10/ufbr) - Universal, framework-agnostic client-side file-based router. ![react] ![vue3] ![svelte]
 
 ### Frameworks
 
