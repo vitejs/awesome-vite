@@ -722,6 +722,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 - [Rakkas](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react]
 - [Vise](https://github.com/stauren/vise-ssr) - SSR framework with server hooks. ![react] ![vue3]
+- [Farm.js](https://github.com/farming-labs/farm.js) - Full-stack, renderer-agnostic framework with typed routing, server actions, and streaming SSR. ![react] ![vue3] ![svelte]
 - [`@fastify/fastify-dx`](https://github.com/fastify/fastify-dx) - Allowing you to serve static or live (SSR).
 - [vite-plugin-vercel](https://github.com/magne4000/vite-plugin-vercel) - Vercel adapter.
 - [vite-vlugin-vercel-skew-protection](https://github.com/bitttttten/vite-vlugin-vercel-skew-protection) - Helps configure Vercel Skew Protection.
