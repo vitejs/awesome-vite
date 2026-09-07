@@ -575,6 +575,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 - [vite-plugin-react-click-to-component](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+- [@react-surgeon/vite-plugin](https://github.com/waleedmustafa971/React-surgeon/tree/main/packages/vite-plugin) - Dev-only selection overlay that maps a clicked DOM element back to the JSX that rendered it.
 
 #### SSG
 
