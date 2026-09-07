@@ -841,6 +841,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### Apps/Websites
 
+- [CampRoo](https://camproo.com) ([Source Code](https://github.com/AAlbadi/camproo)) - Geospatial web application mapping 9,780+ verified free dispersed camping locations across US public lands with corridor route navigation.
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
