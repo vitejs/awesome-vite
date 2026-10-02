@@ -845,6 +845,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [Awesome CN Café](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 - [Todo Example](https://github.com/beary/vite-example) - Todo app with routing and state management.
 - [aitrack.work](https://aitrack.work) - A task-based time tracker for everyday use.
+- [BusinessOS](https://businessos.biz) - Offline-first business platform with invoicing, CRM, expenses, and financial calculators.
 - [macOS in Svelte](https://github.com/PuruVJ/macos-web/) - macOS Desktop experience for Web in Svelte.
 - [vue3-realworld-example-app](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 - [react-device-frameset](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
