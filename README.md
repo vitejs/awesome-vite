@@ -49,6 +49,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 - [create-nitro-app](https://github.com/nitrojs/create-nitro-app) - Scaffolding your Full-Stack Vite project using Nitro.
+- [create-bestax](https://github.com/allxsmith/bestax/tree/main/create-bestax) - Scaffolding a React project with Bulma and the bestax-bulma components, in JavaScript or TypeScript.
 
 ### Templates
 
