@@ -633,6 +633,14 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 <hr>
 
+### Lit
+
+#### Integrations
+
+- [@oddsquad/vite-plugin-lit](https://github.com/oddcelot/vite-plugin-lit) - True HMR for Lit components that keeps their state, plus shadow-root CSS helpers and a DevTools panel.
+
+<hr>
+
 ### Fastify
 
 #### Integrations
