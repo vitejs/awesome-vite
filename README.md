@@ -838,6 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [Pagekin](https://github.com/EthanYoQ/AI-Novel-Writer) - Desktop workspace for planning, drafting, reviewing and revising long-form fiction with configurable AI models.
 
 ### Apps/Websites
 
