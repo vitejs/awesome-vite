@@ -172,6 +172,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [react-admin-dashboard](https://github.com/larry-xue/react-admin-dashboard) - Dashboard template with `TypeScript`, `Vite`, `Ant Design`, `React Router`, `Zustand`, `Ant Design Charts`.
 - [vite-plugin-ssr-config](https://github.com/yracnet/vite-plugin-ssr-config) - Configure server-side rendering (SSR) with `React`, `React-Query`, `React-Router`.
 - [portfolio-vite-manifest](https://github.com/SebConejo/portfolio-vite-manifest) - fullstack portfolio template with `Vite`, `React`, `TypeScript`, `Manifest`.
+- [fullstack-ai-template](https://github.com/agusmdev/fullstack-ai-template) - Full-stack starter for AI coding agents with `React`, `TanStack Start`, `Tailwind CSS`, `shadcn/ui`, `FastAPI`, `PostgreSQL` and end-to-end tests only.
 
 #### Svelte
 
