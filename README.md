@@ -839,6 +839,8 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
 
+- [ViteHub](https://github.com/vite-hub/vitehub) - Portable TypeScript Agents and server services across deployment hosts.
+
 ### Apps/Websites
 
 - [Icônes](https://github.com/antfu/icones) - Icon explorer with instant search.
