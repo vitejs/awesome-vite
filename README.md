@@ -214,7 +214,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 #### Elm
 
 - [vite-elm-template](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
-- [elm_vite_tailwind_template](https://github.com/gacallea/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
+- [elm_vite_tailwind_template](https://codeberg.org/andreacfromtheapp/elm_vite_tailwind_template) - Opinionated template for building Elm web apps using Tailwind CSS and Daisy UI.
 
 #### F# and Fable
 
