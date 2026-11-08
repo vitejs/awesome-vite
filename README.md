@@ -838,6 +838,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [@lazarv/react-server](https://github.com/lazarv/react-server) - A React meta-framework.
 - [WXT](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 - [Revili](https://github.com/revilijs/revili) - A command and GUI integration tool.
+- [Paperwing](https://github.com/rohanvijaykumar/paperwing) - Offline desktop PDF editor for Windows and macOS, built with Electron and TypeScript.
 
 ### Apps/Websites
 
