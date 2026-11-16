@@ -465,6 +465,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [cypress-vite](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
 - [vite-plugin-doctest](https://github.com/ssssota/doc-vitest) - Documentation testing for Vitest.
 - [`@poyro/vitest`](https://github.com/poyro/poyro) - Test LLM integrations using Vitest.
+- [`e2e`](https://github.com/e2e-inc/e2e) - End-to-end testing framework with agent steps that replay without model calls.
 
 #### Security
 
