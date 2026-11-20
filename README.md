@@ -202,6 +202,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [Vutron](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
 - [vite-electron-plugin](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
 - [vite-plugin-doubleshot](https://github.com/Doubleshotjs/doubleshot/tree/main/packages/plugin-vite) - For building Node.js backend or Electron main process.
+- [electron-appstack](https://github.com/nick-keller/electron-appstack) - React, TypeScript, tRPC IPC, SQLite with Drizzle, shadcn/ui, auto update, signed releases and license keys.
 
 ### Tauri
 
