@@ -852,3 +852,4 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 - [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for Vite, freely combining configurations like stacked blocks.
 - [Dataviz Explorer](https://github.com/fehmisener/dataviz-explorer) - A tool for large CSV, database, and real-time visualization with interactive plots using `Highcharts`, `Chart.js`, `React`, `JavaScript`, `Material UI` and `GitHub Actions with Coverage Report`.
+- [The Human Box](https://github.com/1homsi/thehumanbox) - Browser civilization sim in Rust and WebAssembly where tribes invent their own languages.
